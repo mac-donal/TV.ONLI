@@ -2339,7 +2339,7 @@
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBUqoEzVl2VpqCQT846c4eSM3Q77zV0Jg5I6ldB1Sbnf8xj+sez6pxHR21klMjrtK3h69SX/8TCSINsYK590HwkV",
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXefJ8ciY0K6bUXzY9Ee3Q/4TVpYBUj4XP50P9NHYvZVitOI8AxZmXdoFENuHl5tw2Axrm5tyLBd9KLgYxd5tEO6bsYYfzLS/FXjYNEDqXxmt7F/25d9MrGV0Dj1JgiO9wCXx91tYFe8UgiypoqL22I=",
-        "icono": "https://yt3.googleusercontent.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s900-c-k-c0x00ffffff-no-rj",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
@@ -2455,7 +2455,7 @@
         "name": "NAT GEOO",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBWCvX3VMeiyGJSurrDrcvbMF5iuQS2PQF0MQsQZVzyCd+RlDyn1//HFcBkGW6B+4lr/X3YlT9O2aqNnt/SFCAYS",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfec6g84dW0Ed2oJqlV8kJddQqoM4oXIKQe1GK+ZVQjM4NhNSagJIy0xVYmwlP1IuDXOmqBfx0NoiBF5WZQQkAewKBSWd0MWWcbZM+/SNxs1bxyiilglYZBwq25lGDeSfwCPNc0tTmyhhpZyH1J643wiU=",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeQTbliiS1a7vaOov9/DfspIAvgSWG0h6VpnfaMiRedUPW+73zKf9fUys7I+bUGT/aHxA9+oQKbxrDFA9k2GBHQssZn7+3G0JcLvACtVsuDg6nAStONGxP/CpoQFpzcOM6QCXx91tYFe8UgiypoqL22I=",
         "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
@@ -2992,19 +2992,9 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "LA TELE",
-        "uri": "V6uLyMT/GdWl6BN42k7nLjpRmAWCv620hjP3YgqV4UknXcdLGBpVy0xP8eiiWuKY9cPEhPBY9h1w8voKCql0XIoI0+IxI0c0MGg4Ep1k9S6x8T52ZDrrAN8nwAdDyhlQ",
-        "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
-      },
-      {
         "name": "Unión Tv",
         "uri": "2ld3TGGgDIBP7Xqmnu43DEICX31wEUNCjATQ9z5wA1rKjwbpXgqv6xb3vqh5ICZpxwQwXV7gmUvtsFLErJau8g==",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
-      },
-      {
-        "name": "ÑANDEPORTETEPE TV",
-        "uri": "mTRk1Xo1ygDUCqFTfss67ErbinuHoOHs46VoH+5Hf0aWMi9NVnsBKgjVR8lWsAUqFeB13QCix6C8ccIxI6Tb04BADi9c+u8G81HG2WRoRQ0=",
-        "icono": "https://i.postimg.cc/KvRz68nk/IMG-20241108-WA0935.jpg"
       },
       {
         "name": "Somos Del Este",
@@ -3043,7 +3033,7 @@
         "name": "CANAL 10",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGj9ZB7WUN9LENqGPtt6vmdihe7no/4jYxkMXmte5AsSyhH3kT4d44778JZmAtXFBb",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "ZBSOrhwtX93lL32NuwWYzlSGlResXQe26+5QWf6x7SFalnzeu1WeqU00EE6iOcA5EF+L4/zZ7UY8j6IMmNbAnml9voe6B0yVbdCdB2AwniuaJRPLdulsncmZJA81zmcftVephBNpmiDcWLzTMD/ZIh9VsM11ZDR18ApFTuPi2wU=",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeVSGlResXQe26+5QWf6x7SFalnzeu1WeqU00EE6iOcA5EF+L4/zZ7UY8j6IMmNbAnml9voe6B0yVbdCdB2AwniuaJRPLdulsncmZJA81zmcfnwFpN06Zx2btoSWOFEpl6YKhG9lvihLpfZifq78yFXg=",
         "icono": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
@@ -3115,34 +3105,9 @@
         "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
       },
       {
-        "name": "🎬parte 5 ",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCZavCRTFWaGLFa/vjyqK2BHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
-        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
-      },
-      {
         "name": "ABERTO TV SIM Colatina",
         "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQTyDE9yjJLYuaW56KbGLDYbm4P6fkG/vzI+8VIDLQE+FQ==",
         "icono": "https://i.imgur.com/tLkF2BE.png"
-      },
-      {
-        "name": "TV TEM",
-        "uri": "DIuATbpGJ9VKsUvz9UhxiOOiZ9fnFBP1huSrIZrKbF/Rj1git9ZdDvura5wWYY4L",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Tvtem_2003.png/revision/latest/scale-to-width-down/200?cb=20191223042226"
-      },
-      {
-        "name": "Agro Brasil Tv",
-        "uri": "pncFaMpmX1L5+jUt1uztFnrvDKwGIC3bEMm8m9W0Pkih5WjFGgJOzX92huY7nhhte07PdSuaEnoNWw8LxrZ/zbaNOOa898NTUdhvkey4Tiw=",
-        "icono": "https://yt3.googleusercontent.com/cXotKAuWNCW4tfw_XCJ32w2iyOsx3m5h9BNXl3SpItLwo7ZDO8QcLNtF4sbSIfMoUbnI4b2tKXQ=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Cine Brasil",
-        "uri": "01v21hCykzMvxqTXwWvsy1c2o1azbqHHBPUBhuhfSVtr2t4z5g6jAz9WPEfgagj9g0BFWhBaZtstR4UyaActrw==",
-        "icono": "https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-6/298957758_488686276593589_1823058943312052466_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=WORLkEjAsncAX83X5b_&_nc_ht=scontent.feze7-1.fna&oh=00_AfDiW8ExDY7qZzN4hvEMpNHcIK5eFPcb9CfQag71LLN0SA&oe=65BB1866"
-      },
-      {
-        "name": "Max tv HD",
-        "uri": "Erm3VUxjWz6m3pKUx4RnAOL6S56Uzz4+nHYTwJoGJCTkImJNfrDmqW7lD9H686IF1V8AA7XqufMF8HTkbB5Kzg==",
-        "icono": "https://play-lh.googleusercontent.com/nX0w3zOT2hW2rDnvazhrJTToAJs0GEWMoKTEzA4a62JPXj3mP8GqLHT3q3Faxl7IgA"
       },
       {
         "name": " petlovers tv",
@@ -3235,19 +3200,9 @@
         "icono": "https://redadvenir.org/redadvenir/images/logo.png"
       },
       {
-        "name": "XTOTV Bolivia",
-        "uri": "tCG52Z3Shm9EUyTdzLT5CqWID5jhrIH8nWi34EhauwdC4MyVKgkBljGPw+E0gumFIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/3Tw2fjh/unnamed.jpg"
-      },
-      {
         "name": "ATB Digital Cochabamba",
         "uri": "tAVhMm5H9/8cFqnkKBsnzbOzc2BqdGoPxk+dcYyJ1lwgiktM6+bwC9EPBcf/Eb9k",
         "icono": "https://i.ibb.co/Kz6w87R/images-q-tbn-ANd9-Gc-Tdg-Z8-M1-TDPHl-SNydapbqj0-Wy-GE1u-Emw-OQh7-Ky-Ca-Uex-SR10r-IT9-GT37-OS560cx-PH.png"
-      },
-      {
-        "name": "FTV Red Nacional",
-        "uri": "StQm6kWa9/O/XV5ESMY1+6Le2a2nzQom5nMJLjUSPm6TF4qYoBijfDkKK+t7Z6qp",
-        "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg"
       }
     ]
   },
@@ -3258,7 +3213,7 @@
         "name": "FLOW MUSIC",
         "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW3+BXOlGcHD3BWlDWJbV7Ex/CluF2ArfHKIWPpJYIZ2alsMb72ecYjbk9+fvtaa5NSMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXD6CPVwh7pvsXLt6Loa693h9NGUx26dc8WcXJFwWafUHHrcVKqsZT6pENTvJ5/N3MX8eoyWGoZx7k6tzYF7YEggwvqBe/u5YUTs7dAVEYoCOilbi/+2gPEJuSxRgFzPaXnVWR1N66LPKGrcMp6MKXQ=",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeXD6CPVwh7pvsXLt6Loa693h9NGUx26dc8WcXJFwWafUHHrcVKqsZT6pENTvJ5/N3MX8eoyWGoZx7k6tzYF7YEggwvqBe/u5YUTs7dAVEYoCw0c2eUgJ0V+YJSVxcEZqvlgBl4egQB+MRaGAUeRO1sc=",
         "icono": "https://i.ibb.co/jhrG266/flow-music.png",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
