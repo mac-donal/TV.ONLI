@@ -666,11 +666,6 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "America Tucuman OPC2",
-        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2oo28VSL4uJoXyk/p3eUI+cIKlomLfer6lWujzAndfU7Q==",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-tucuman.png"
-      },
-      {
         "name": "Multivision Argentina",
         "uri": "e4BhnnaTNmnl73dzCNh9zz/MkHQc0UWf6sxHz4PF9PBld2elysc5W68OoMpgil6WsnpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/93afff6e61610492622e115373367f15.webp"
@@ -787,11 +782,6 @@
         "icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
       },
       {
-        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "8Eg+14Jus5vq0+EYuXiHLdLHA7jbpx8dUmQg/Nx1TCyTMsghjP8tB2XS1NT3tnmiFktQsy5M/Z3m8+3m9ioRWHYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://fenix951.com.ar/Nuevo_2013/imagenes/165152_1590517102.jpg"
-      },
-      {
         "name": "Canal 9 la Rioja",
         "uri": "316j/y2RP6Og5zHG/Bmxs7uxEg4aebxu26HMullBQmjTrSsVPksujPtlhO1gaf8hsnpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://static.tvar.io/imagenes/canal9larioja.png"
@@ -821,19 +811,9 @@
         "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/elcuatro-logo-500x353.png"
       },
       {
-        "name": "Catamarca TV ",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvi2bc/evevids0ixbAI1OjhoAbdKUD85a8JuwoYCRnbYYMhj9XL3TuDijk3OB6dXmogrFGCJS+9qak5XElnGI0",
-        "icono": "https://i.imgur.com/CEuPoqG.png"
-      },
-      {
         "name": "RTV Neuquen",
         "uri": "yA3HcaMetE7o41mb+k8fzLS7mfK3HlC6ARVBgGjjTu+0l3D3RMxz8dJaaKD3+LJmmwq4sQA1e/WOProYJbmIng==",
         "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
-      },
-      {
-        "name": " Canal 22 Buenos Aires",
-        "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqES9njjBczgc6Ppi/WyyRUZbSe2ighM20fM2b0eCFxgMiXYsI7gxQb6nmEvL4N/UbAM+U7xGzJxdOsHxHL/Rk1O",
-        "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latestcb=20230606194222&path-prefix=es"
       },
       {
         "name": "TELEFE CORDOBA",
@@ -900,18 +880,13 @@
       },
       {
         "name": "SANTAFE CANAL",
-        "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8=",
+        "uri": "TI8cPpZx6vN5ZFbcJAQGkc17BpE09LQ/7/YIDA2B/Lof4OR97WfIyVcBYrZaEzHS9jw1rAGlttgp2EmOXk+zaf/1s9oSGWLmxMsNTj1Ykd+rsnD5aclGu//9GA/bNMdu3NHIeP5hxA2Qhr5CW59bY7aNOOa898NTUdhvkey4Tiw=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"
       },
       {
         "name": "Canal 7 Santiago del Estero",
         "uri": "ilOZEuHGYrlxc4gD7mvcvd9QaqaEc2/7sG5297lCpDfFmobUkL2dQe2lnug/XcYTsnpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://4.bp.blogspot.com/-6HfJdVSoY6c/VpvBVOLh5VI/AAAAAAAAApg/4i-7-4KOyL0/s1600/c7-castv-2015.png"
-      },
-      {
-        "name": "La Voz de Tucumán",
-        "uri": "xdWTmZoBK7zXb2o4hI/6dXZtj0tQ0aRnNCoOGf9ZdaEkdPvnWJKuJAl/IH/VlyX2aTFlpNfzJmxb2R/w1Qgzcvv3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://i.imgur.com/k2r7IeQ.png"
       },
       {
         "name": "Chaco TV (720p)",
@@ -931,11 +906,6 @@
         "name": "Canal 34 San juan",
         "uri": "kJtK2G1R3X8kO61WTxyI0TrOo6nZcqHZIuUa2gK1G1hVqAWaQ1FefR7GYg/3J1ky/eAATSM6oLMxgoCDwVaeZQ==",
         "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
-      },
-      {
-        "name": "SANTAFE CANAL",
-        "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"
       },
       {
         "name": "CANAL 10 TUCUMAN",
@@ -1095,6 +1065,33 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeVPM9e15eSZBJ7KehbsytVph3CE4raYGchQWsannqerZ3aQvXzNoHM2btvKoLgdUFph76+c3lBeC7Nra+PGTZQy0rrt1Ib3CJ2VEHApb22IXaQ45bqI5U//cZqGA//3BFp55MAJon6lOaoZOR8mhMec=",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "ESPN 2 ",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIt5hzOA/YnPvVC0KFdfPlPEw5YjLciTsyVqg72itDRQknaG7us/wHfacXN1P4th7yMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeSBUH3NXoiZgcl1VNB+JCuNyHr1nO03tIhbI1M1G9PxWUfbyTQctXKdNwomzqUgrr8hL+DPEOTPk0Khy0ByMxFGxa6D5Y2mDxuyspPaGN9PXK+jpwyS/Vs/bOXtNZEP0Xbf9PrNzqvJl/uUwKiJVrU4=",
+        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZXDYDxSBX0xq8HzM5ugYYVcNm+y+mXcTJwBdGBYoUqlA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZ7zp2Tdub2BiwFLqUoGyiIM+bTaQPFNKGEnkLa7LisVEBINTX+g1+owzRcdW87TwJy2Bn+/NBj+Fi3Uai6JjM8RTglY8KrP5qRjxYrExGTN5N0yOOvL7L9BALEw51qunrf9PrNzqvJl/uUwKiJVrU4=",
+        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "ESPN EXTRA",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZtemFwy4+KUXOhcVuzmtweZLiZiHGrs4TEWGApQBM6mA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeRcnLuE5YRQkGcO5gtU8G1QZOB4Vb4mAIcbiPeYc2EcsDWEPk98n78I+E4qcWV7M/nz8iyLdUdCeWJvABNOWkpVrwBpuzim4XeyKqd3Nb/uIay0zZC+oL1Jw6DAZz/CP8jZjH9QJ1gLvso+NmhD8P68=",
+        "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
@@ -2154,21 +2151,6 @@
   {
     "name": "SERIES ANIMADAS 24/7",
     "samples": [
-      {
-        "name": "ALF",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/XCq+6iRc4r+XuQK7Ll1WHHYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://fr.web.img6.acsta.net/img/d1/c8/d1c81873e1695f764d6a1e18076365eb.jpg"
-      },
-      {
-        "name": "ANIMANIACS",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/cyx03fZ0GYJLzxDKw24mChbznuzMeTkd8ts+3rJYydA=",
-        "icono": "https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png"
-      },
-      {
-        "name": "EL CHAVO DEL OCHO",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/DYpjgX3NpKw6CW+7MadQKzUaSE45kgWPRpIsupctm7eDQEVaEFpm2y1HhTJoBy2v",
-        "icono": "https://es.web.img3.acsta.net/pictures/14/06/11/10/42/410953.jpg"
-      },
       {
         "name": "Bob Esponja",
         "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ4VEzAuz3r6v2Mtlq8XJ/2oTbB8gIUfQHPDA0PzVtm60UNzLsUpXieXajvS6X4mNd+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
