@@ -289,12 +289,10 @@
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc4V4SMPdtPN1DLBePZT7r4EzTCA-huA6Yy1QLIkeZOnKNavUq"
       },
       {
-		    "name": "TV PUBLICA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHMWZOKIVB/d//fhCeXh4+E8OWFTI4Re5wJmkO77ADJso=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGOx2XWEnPAaj7XAlWdMW0Zvfva8DR2CJMScZn70UektxpIa+fXor3RL2jQVaXyNL1Mb30OxaJIx+veWTWBUdt0v4hWe7FMDPZvxit4MKIziHADQspSRcmEwmWAIFdxbBA==",
+	"name": "TV PUBLICA",
+        "uri": "mzBHFZTO5OrTE1MccUc1x5p7Q1N4/Iw+4cuRBGsnZnIJv4l6AOzTQHex9yXglPjdj09yX1NwH0dTR4mq44c4CpRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
-        "referer": "https://web.app.flow.com.ar",
+         "referer": "https://gabitotv.com/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
