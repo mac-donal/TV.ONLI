@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿El hilo rojo (2025)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+qO1i20mQAPBiXXbOoOCL5vPpFwvb5rY4TXT9SrjWkJMPXZ10aQ+T8s/OkbNoah6hvu7IAYAfDxGoYYVytHCbk="
+     },
+      {
         "name": "🍿Capitán América: un nuevo mundo (2025)",
         "icono": "https://xl.movieposterdb.com/25_02/2025/14513804/xl_captain-america-brave-new-world-movie-poster_76c3d475.jpeg?v=2025-02-13%2013:46:01",
         "uri": "cVI+FPBxX2ASracUSyM4w8aRbVYsvpxbYMxeGM3Xb0suLftRPofcn+UP0xB0FOrGDh6Y22IcMapOz5U0zDgnu734Waymi5RSGlTr0CA5A9QHqDBthYmL5xD8X4H2zqEX"
@@ -842,6 +847,26 @@
   {
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
+      {
+        "name": "🍿Dulce Venganza (2010)",
+        "icono": "https://image.tmdb.org/t/p/w500/mEwGkfn0dlWrVjmGJ6YMOuZWqKL.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+qO1i20mQAPBiXXbOoOCL5vPpFwvb5rY4TXT9SrjWkJyJozBn0BIYSmoiBdz2x4duhvaTZay7wBg04PNZfMVl8="
+      },
+      {
+        "name": "🍿Dulce Venganza 2 (2013)",
+        "icono": "https://image.tmdb.org/t/p/w500/hC3zDl28waEPRoaweasE4vNfnkf.jpg",
+        "uri": "rTlcC78i6rbfd7v4mIaw1tTsXyTwERNq9biSBMtKA5QsbYgJlJHeT2C/h1NSv5RrhfrORzRBZjnCeJ/oqDdxuPo145HpvL/YEojhpn0uiI8="
+      },
+      {
+        "name": "🍿 Dulce Venganza 3: La Venganza es Mía (2015)",
+        "icono": "https://image.tmdb.org/t/p/w500/mYWk0btcYNlxcSy0q29JGhj3eDa.jpg",
+        "uri": "3jJ6MmBwbFQn0Pi3RKQOaI/9gepNbHzlHBfIFMW+P0zuHeDQ9gpvmbAruh5az8aReQPxl3JWF6froqTT3STHDpKpRvf7cwNidUG0fHUylvc="
+      },
+      {
+        "name": "🍿El soldado perdido (2017)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAE5kcx9CWBEda8VJ7gkrXbgtK6.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+qO1i20mQAPBiXXbOoOCL5vPpFwvb5rY4TXT9SrjWkJMPXZ10aQ+T8s/OkbNoah6rjvaicx2Jm6jsHQ+ogSdJM+iEsOhs8izF69C7enXBt9"
+      },
       {
         "name": "🍿Alma de héroe (2019)",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Am3avSjCB9y7fmqwFY8qIatPpYi.jpg",
