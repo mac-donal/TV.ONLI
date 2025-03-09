@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿Delicia (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/rzaHDRtLwveEC3hsA3q2PKMTjye.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIleHyfepxAXDNEEmslBlcxtXrCyvEqaau0wPBFc29T8c01tBKLKMQIQScmt4fTxEE="
+      },
+      { 
         "name": "🍿Plankton, la película (2025)",
         "icono": "https://image.tmdb.org/t/p/w500/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
         "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6ANnHi3Ex4614de0jUYWkJWCeiFurtvmURXMOtCaLy7SQ41z73dhHwP6sQCwfs0Af2tg68qQ5L8RmtcFE+QmVE"
