@@ -3,6 +3,26 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿Plankton, la película (2025)",
+        "icono": "https://image.tmdb.org/t/p/w500/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
+        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6ANnHi3Ex4614de0jUYWkJWCeiFurtvmURXMOtCaLy7SQ41z73dhHwP6sQCwfs0Af2tg68qQ5L8RmtcFE+QmVE"
+      },
+      { 
+        "name": "🍿Oni-Goroshi: Ciudad de los demonios (2025)",
+        "icono": "https://image.tmdb.org/t/p/w500/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
+        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6wljD5rEi9alFhtT/HkkUkk0NeZlmuSWWC8oGHBmozcGjEsahXEAxp3GilBijhYJ9gZHDlX71yzZRghcZi4S4EGIn7bS05rfd/OKx41eXxmg=="
+      },
+      { 
+        "name": "🍿Contraataque (2025)",
+        "icono": "https://image.tmdb.org/t/p/w500/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
+        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6cYRMsnHwtqBmpdnhFQ/a94jVfezzEzDNcosTy4TCYTbB4iKGvQb5VwKQrz12+b5U="
+      },
+      {
+        "name": "🍿Amenaza en el aire (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/8T6nkYb4W8BIeafmFffyfsRciTL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULnbW915gWOeUd3u7VOsQnEF79//qnHkdlQVer7mBw90eBWqhC/v1AZYt4r/Pg3BE8="
+      },
+      {  
         "name": "🍿Los dos hemisferios de Lucca (2025)",
         "icono": "https://image.tmdb.org/t/p/original/VZq0UExqBbST1LDYWJYsZ0qvMO.jpg",
         "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJnZl8VseYfDaAODCE0D0h1qSDFcFq4FRSBlGElqKO942XMLFGy0NL+umitY1ZRVOQ="
@@ -28,21 +48,6 @@
         "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIiJeQIQ9sUOTMDyygs8ixLwTPlXm7z9L9ClgXYou1o8JbL6l6KRQly470LHN6WdFc="
       },
       { 
-        "name": "🍿Plankton, la película (2025)",
-        "icono": "https://image.tmdb.org/t/p/w500/fCvwQJVcbjNub2PiKzZmQXR7i1I.jpg",
-        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6ANnHi3Ex4614de0jUYWkJWCeiFurtvmURXMOtCaLy7SQ41z73dhHwP6sQCwfs0Af2tg68qQ5L8RmtcFE+QmVE"
-      },
-      { 
-        "name": "🍿Oni-Goroshi: Ciudad de los demonios (2025)",
-        "icono": "https://image.tmdb.org/t/p/w500/cU6InMc8NYc54Ok4NnNHdjipqCQ.jpg",
-        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6wljD5rEi9alFhtT/HkkUkk0NeZlmuSWWC8oGHBmozcGjEsahXEAxp3GilBijhYJ9gZHDlX71yzZRghcZi4S4EGIn7bS05rfd/OKx41eXxmg=="
-      },
-      { 
-        "name": "🍿Contraataque (2025)",
-        "icono": "https://image.tmdb.org/t/p/w500/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg",
-        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd6cYRMsnHwtqBmpdnhFQ/a94jVfezzEzDNcosTy4TCYTbB4iKGvQb5VwKQrz12+b5U="
-      },
-      {
         "name": "🍿Ricos, Sin Duda (2025)",
         "icono": "https://image.tmdb.org/t/p/w500/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg",
         "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd5hHaE4I+BQFv48wOKzmYoQWYgwhy70IdEEiu8ruURoosS+c2SAzB6WRLUSFpjdoaFhCxMmmYjxrAZPsldYcAkn"
