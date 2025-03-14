@@ -723,6 +723,11 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+       "name": "🍿Terrifier 3 (2024)",
+        "icono": "https://image.tmdb.org/t/p/original/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w9/Faxy7584eTVQwmPF93T5deo9VqamXBPXA7WpdKwVpBpkjL8VgGrZ8MLzyj49h4/pmx/LxK0uWNGuTuor1d10="
+      },
+      {
         "name": "🍿Bastardos sin gloria (2009)",
         "icono": "https://m.media-amazon.com/images/M/MV5BMmIzYzZhM2QtZTY5Zi00MGNhLTg3YjgtNzkxOWEyNGE4NzFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XByejG3oS1Z8RDsAdMYbserhsVkb2CCPjFvSBtmvUM7NeTIGLWkumxiYh4LjYgLiFqyMldYBzMT6A5dm5FgGjOo="
@@ -1932,6 +1937,11 @@
   {
     "name": "🍿TERROR",
     "samples": [
+      {
+       "name": "🍿Terrifier 3 (2024)",
+        "icono": "https://image.tmdb.org/t/p/original/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w9/Faxy7584eTVQwmPF93T5deo9VqamXBPXA7WpdKwVpBpkjL8VgGrZ8MLzyj49h4/pmx/LxK0uWNGuTuor1d10="
+      },
       {
         "name": "🍿Abigail 2024",
         "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/abigail/images/regions/us/updates/onesheet.jpg",
