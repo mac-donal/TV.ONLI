@@ -1,5 +1,40 @@
 [
   {
+    "name": "🎬Knuckles (2024)",
+    "samples": [
+      {
+        "name": "El guerrero",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgtfvuHroBGAbgP3yXnPecX/a6uywah0HEY1Y99/I8CnWC4pokB7ExyOlQ/Y9UXjCPCVRbmNKsuh2/O6D73sLIj9oRRg6YIcfG2k7721f+Ra2O5pEY1iQfJUMupZmG42qo="
+      },
+      {
+        "name": "Nunca digas que no he estado a tu lado",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofjwbyDxEYG2IKLPAxRQpytSoQZJFbpwxf/wr8yojc6Ezd3td1CmCm7EB26tFnWkMQw+BtUxWto7Z2xQGfqFJwtKni/e2J7dub9m2Db89EsiPL4Tj/3bQUw7r457YOv5Cxs="
+      },
+      {
+        "name": "La cena de Shabat",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofhrKuUyE6WBpXm6I1/kJasDG3ajH2TyIS0xiyNRCSRvDrbDiDwhFsTiem0zOKq+Aa/kZ1wuosCmv+bhxJdt+S1yPv64JGNuRBbFHpZPzUGy5rq0ly0CDSPW1vXXMoERIus="
+      },
+      {
+        "name": "Las Llamas del Desastre",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofidITw4H3+U4RuKw0BUC5QmVdVehDVa2zia9eHvCgeNKm+ybvzKv3GUkrGBmRVvPjwWEe6sZ+HLUdpqXLeRN85pKNqMREQ452W3UBMpaVPl+bhsJzwxCSkO5Q02Ehh3hmY="
+      },
+      {
+        "name": "¡Reno, chaval!",
+        "icono": "https://pics.filmaffinity.com/Terminator_Zero_Serie_de_TV-168540123-large.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgo8Mfdsl02xFIm7nFp41kA9CgNgO4PVYqvjfF8t2TLXqGavu+ltbaJ99njmX9tSOvqNdFCUmy/BVU6cSI226+NBZ4GckiYaZSw9FLBwiWD8Ggez6yXcgiyDk5BM/m+hzU="
+      },
+      {
+        "name": "Lo que pasa en Reno se queda en Reno…Final de temporada",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofimlBavK6n7PE0asB2WNBpOdcwvUqNgXitfyUJX06JkWTKZILNzS0muWKP3vSRmW5/CDtejsKdMJ3wW2pqw9rvREb+G5sFZ6avhnYJDxePGO2fLmvKkjuLvHGHT7LcpM5w="
+      }
+    ]
+  },
+  {
     "name": "🎬Los Tinelli (2025)",
     "samples": [
       {
