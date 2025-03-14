@@ -126,6 +126,51 @@
         "name": "Amigos o enemigos",
         "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUeYyJipdCazFsW2q4Xxodlk=",
         "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+     }
+    ]
+  },
+  {
+	"name": "🎬El Pingüino",
+    "samples": [
+      {
+    "name": "🎬El Pingüino 1 Horas extras",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULzMaRgzXwaDyr6oBe0/CQlMJBpYgm34kamK+eONN6aPJgynp9o5Ha1xfC5Uz24wTs="
+  },
+  {
+    "name": "🎬2 Topo",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKxxOSChn1cqBpuIiJxFgneCsKQfdsJApvy65vbbVZhukoB80cjnuuwdqjPG+cg/xc="
+  },
+  {
+    "name": "🎬3 Bliss",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKneX2XtiHN5jgFiR2dYyQjkg9ITsb/eNSLr4CEM8LLuzckpEUgSwKXxxLjdtP9jwE="
+  },
+  {
+    "name": "🎬4 Cent'anni",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "IndyXP5UsqhuZSspKp7C6EYBCC6pVArGIvs0wcfMaKg7Jwnf8ZmJHNW/KPXysqKcDIO+OXc9/cMEBsJbTeoVOiQ2KFYDmmFDxsKuM9IMBU8="
+  },
+  {
+    "name": "🎬5 Vuelta a casa",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULpCiJel1zC4MlDIkLT34iGgNa5FlVW7OJkKsgeXYxQvuoobBw7d27xJpqaAfZIr/k="
+  },
+  {
+    "name": "🎬6 Cumbre de oro",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIvdkAaaxcUybk220IJyvsj9FTgzcDiwVmc63eqGPpV8zYyG4GyYVMhT0Egk4y1IjA="
+  },
+  {
+    "name": "🎬7 Sombrero de copa",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIPkNLVyH6CKB2v8uhn8HtyTtHuCMCdkV43jpAEg7fPlHAxVCLE5SUh7KrOTjjmSRE="
+  },
+  {
+    "name": "🎬8 Algo grande o nimio",
+    "icono": "https://image.tmdb.org/t/p/original/eif7QcjBVs45bC7y8ercAI3PjKM.jpg",
+    "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUL4+bTNBGNLjbEV0qtRvHjpsybt6zzdkZl7zP0yS9lwb5WAP9VW92lRkh1wxRajv9o=
       }
     ]
   },
