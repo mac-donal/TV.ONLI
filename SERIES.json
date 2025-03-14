@@ -90,6 +90,56 @@
     ]
   },
   {
+    "name": "🎬Agatha, ¿quién si no? (2024)",
+    "samples": [
+      {
+        "name": "Encontrad la Senda",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPoficKjCiI1HeM7jQUw2MtKf+ZG4ZQeT8grwpsH368iGMaI/eL1BJ0+7NKPX+Bhw7ujEmuNtKPkQnlr6iKoU/02pr91QC4iit2B6NSrtbUYUVGIDtfMA/WXXAwsWYI1TeNdY="
+      },
+      {
+        "name": "El círculo abrirá la puerta al mas allá",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgpZ4sn8LyQldmh/+ne6/dkTKDG5YE892uBsEuBTtvcREUQU/3jCQr+ajravEaIsYFJiBgCciXN4nt2mbsolow0pM/N3ZR+nUeftLQipjAgDP6CvRkSNjKp73EgKGLaoUk="
+      },
+      {
+        "name": "Innumerables pruebas hay",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofjWJowwj/4cp8qSR1HxCuIlQAsalwibdkgQrdilBJtYF98xcekLMpXph61S3o/6gWm1Hr3wTq8ZEce9csABeg9B8nr9pAK+U/PBWqx0uN9GFQowDzKzIukTYOp/tcSRQJ0="
+      },
+      {
+        "name": "Tú, mientras tanto, escucha el canto",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofiBHCJDeaV1NLaFUHYEyEnCQYiDpNR6jYvz1CQfQOx4dMzAso/+GiiXgdBKHfyF0Slksegjs6+VHh5eC89m4Ncwh4w+Jskvs4xx4YxKDk6vxxz4clPxyGZu46VibbkxKzs="
+      },
+      {
+        "name": "Las tinieblas hoy despiertan",
+        "icono": "https://pics.filmaffinity.com/Terminator_Zero_Serie_de_TV-168540123-large.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofiAniMcLW5kOHJVtxZt3K1KLA8PfkGcES+CsbyIj1kVqNeiVoHCxHfY27lcinlFzhhaHJwxlqpfGFosBLY/mdIV93/L2fJpMh2wANYC2g3dHXrGEK/SWiEUQeJhhuwpdH8="
+      },
+      {
+        "name": "Un guía espiritual",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofiJVKy1cJgV9KTocjLMHy+MyXe/ZE8NTg0SkTYcIwcKnwgRxnXtaQhPKoTCztXV6DMWluXJyN3G30ZWxcJ47LDaovjH3+vdhxM0P3KMjOXJTcVVDZcXL36HOeleSjGHOs8="
+      },
+      {
+        "name": "La muerte me guiará",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofh8vemMtjU5mtgWDaxhNrO1rFvRYJL6CAHdE26DBiurSb/GdeS/qpg9jyvVPlwjSSGdAf31jEzndhp5b7+Gi/c/VyhpM/x8gez1LYdgSMDt+5xOp8k22twjjxtO48pUk80="
+      },
+      {
+        "name": "Sígueme hasta el fin. La gloria aguarda allí",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbkbguUUNWQZygVJKjODyELBQk9.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofhEetvRQ2YpdBX7qotbu3FkNJQqyu0njmoutkUXh6rPFQ23yB5q4buBSH0/CfhJkdRx629a3tujmTXXAoOt8Dq+MhHwHIhJk/M73Vo0xHr1qHKuNRyI2pSWHp3zbB178m8="
+      },
+      {
+        "name": "La triple Diosa",
+        "icono": "https://pics.filmaffinity.com/Terminator_Zero_Serie_de_TV-168540123-large.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+qO1i20mQAPBiXXbOoOCL5vPpFwvb5rY4TXT9SrjWkJfb25yvypFiIL8KI9Lcqq0tqoYe+NlN76AER4z0CLTWgjTIydj1oFygj+bobgcslG"
+      }
+    ]
+  },
+  {
     "name": "🎬Los Tinelli (2025)",
     "samples": [
       {
