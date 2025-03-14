@@ -90,6 +90,41 @@
     ]
   },
   {
+    "name": "🎬ciudad de dios (2024)",
+    "samples": [
+      {
+        "name": "Episodio 1",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w32KVplEizDBAatqeY+pZLC9WZSJijJNnfUX/oRqBFIwTHjikBG98CNi4jO7zgQHz8GabDcO3APCcyBNyG+M4IOqOIwN1L1MhkmapycogMeN"
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w32KVplEizDBAatqeY+pZLC9WZSJijJNnfUX/oRqBFIwTHjikBG98CNi4jO7zgQHz35QC60wjUjcS0x/unZljdGqOIwN1L1MhkmapycogMeN"
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w32KVplEizDBAatqeY+pZLC9WZSJijJNnfUX/oRqBFIwTHjikBG98CNi4jO7zgQHzziZL+cY+hWxGfXQA2dktJqqOIwN1L1MhkmapycogMeN"
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w32KVplEizDBAatqeY+pZLC9WZSJijJNnfUX/oRqBFIwTHjikBG98CNi4jO7zgQHz01QB4ZE/Gqioa4GjH2KgfqqOIwN1L1MhkmapycogMeN"
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w32KVplEizDBAatqeY+pZLC9WZSJijJNnfUX/oRqBFIwTHjikBG98CNi4jO7zgQHz+mAnUhD9ncDVw16FdlykuaqOIwN1L1MhkmapycogMeN"
+      },
+      {
+        "name": "Episodio 6",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w32KVplEizDBAatqeY+pZLC9WZSJijJNnfUX/oRqBFIwTHjikBG98CNi4jO7zgQHz7XIPDouaRivWGsJr6fLDWSqOIwN1L1MhkmapycogMeN"
+      }
+    ]
+  },
+  {
     "name": "🎬Agatha, ¿quién si no? (2024)",
     "samples": [
       {
