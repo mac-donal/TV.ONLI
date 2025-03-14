@@ -3,6 +3,61 @@
     "name": "🎬Knuckles (2024)",
     "samples": [
       {
+        "name": "🎬Maradona Sueno bendito (2021)",
+        "samples": [
+          {
+            "name": "Promesa",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01f7/5tKTB4Y37yeb6maETd8"
+          },
+          {
+            "name": "Dictado",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01fFPFjQSYdq1+wiAVDHD0hi"
+          },
+          {
+            "name": "Máquina",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01cpJq/6cKJ2k1DyaGo6YcRi"
+          },
+          {
+            "name": "Sudaca",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01e+d95e5phVlNcKfQUjF13PgcYuY/h/tN2G9sH4DWkUMA=="
+          },
+          {
+            "name": "Roto",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01fZ6SdGiws7l5R+pyRkrjYg"
+          },
+          {
+            "name": "Vesubio",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01eW8lIN8yDIl+wSgt2Rn80z"
+          },
+          {
+            "name": "Libre",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01dzi8WRFv8//Ay4l7T0L3Ll"
+          },
+          {
+            "name": "Cristiana",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01d/FCa1TqnQOhb4uJSEKoAP"
+          },
+          {
+            "name": "Capitán",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZX0b1NwXB92XDi2oEviO01dMzLMRsCZa+KFbER5wB+Dp"
+          },
+          {
+            "name": "Dios",
+            "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HwaqczRltL1vjMlwJxeTJnm9e.jpg",
+            "uri": "Bxiz1sRKa8YTnDJ4REA2XGVBB9F8EspCscIJKAKvP2ysW5UEO8BSOFPbQLgh8sb8e3npTTL8sDB6pwpJlKdNZShGoF9BQgtkpWdw47eoNDrjlJCSd6x1fi0kkcyxtdAk"
+          }
+        ]
+      },
+      {
         "name": "El guerrero",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tqlZLJPfwk5NF96GrJAWp29Hwf.jpg",
         "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgtfvuHroBGAbgP3yXnPecX/a6uywah0HEY1Y99/I8CnWC4pokB7ExyOlQ/Y9UXjCPCVRbmNKsuh2/O6D73sLIj9oRRg6YIcfG2k7721f+Ra2O5pEY1iQfJUMupZmG42qo="
