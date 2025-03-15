@@ -90,6 +90,91 @@
     ]
   },
   {
+    "name": "🎬Sex Education (2024)",
+    "samples": [
+      {
+        "name": "Sex Education EP.1 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULGu1VuPtRM4fHg/7rmO01YO/pvURAlgmC4Z0Hu5Fx/SkaCTsds+AyNszd13XZtE4I="
+      },
+      {
+        "name": "EP.2 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUI19DQPk3nQnAbPkGs5zf1TbAvisRehliVH8w2eJVldd6qkQiFDbf0J6ITCs0rRDCo="
+      },
+      {
+        "name": "EP.3 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJ6GNt3x+JtShHRlmGrO7wZKlNJ9x+AfrM62VZUQyY1txBUSuJdxgR0MM0x04lG7Hs="
+      },
+      {
+        "name": "EP.4 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJuSnSivhMKWkk0wX03KePsi85siiV7iwxgJmQ0WdMdgIaQv1hkzySLwcEWo3y+83c="
+      },
+      {
+        "name": "EP.5 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUK5PlipqNE8muEt78S4bXTiYKbuYD3NEQr13Rhyot9SdM5zRempryUfEQ2hHlxBrHk="
+      },
+      {
+        "name": "EP.6 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKfnVBxkUi+gIpe9j0vuERwras9DBKf8z4+v2Hmyn+UVE8knnJK4L5vl5XqHR5ARag="
+      },
+      {
+        "name": "EP.7 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIVwMkCN6Lk/nmPXQHPwmOEdFj3C/pb6Thz00cHzA9RofBmwA9XbLICsg4OMh+rBtM="
+      },
+      {
+        "name": "EP.8 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKZFoz/XPZzgq9f0rszSj5kDP136YINDZeLVsSF7m07OUCaCEWUMxjoyZ2xrvwZ/JE="
+      },
+      {
+        "name": "Temporada 2 EP.1 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIcluoPeT3r0X9xZvRvFZPQ9aUDLipgIN6gBSAqJgBVOeWGLS5OO9+VE2W4pehps+I="
+      },
+      {
+        "name": "EP.2 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULjKcKkFpdJSEKHK4TJje2PfhjETXHPK2fCfoWh9XmhdK1Ow3m0mB1ykXQZ1YkBSO4="
+      },
+      {
+        "name": "EP.3 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKgfnav4hpMSX1oBClIfR4hnMXvcCMOR2WtvOBPjdjy8BmOn0ugFyOpJGzCjMNiDbs="
+      },
+      {
+        "name": "EP.4 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULIsNaKZAPFzNlrAUq+cRgAuPri9u2no8739bx+KMzL8nIVAh9Vuz1NUL51tP+C8AE="
+      },
+      {
+        "name": "EP.5 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIBxSNRVlrKtic4it6Di2vey2K6VWhRedwbX6/gzGPQjKq+lQ5oyjCYJR4x4yHlvis="
+      },
+      {
+        "name": "EP.6 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKHARrP5Kj+PJKK+dLPI14tOtZeDhdmnHbnZGwr5yrd5XAMP/+RqnbOrGvMd6ukkaw="
+      },
+      {
+        "name": "EP.7 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJqKXAKwDosF782EttEeOjuhLUwWMDCZ9TvTxcl4rJVvc5U682OynjWHM+Oh8mGEr4="
+      },
+      {
+        "name": "EP.8 ",
+        "icono": "https://image.tmdb.org/t/p/original/oOEOg8rawAtc1nRbgGkf5fYcMB4.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUI37jvysfN6iUIStXClyBYNIdvaWR8py6mywacmwgcE45yLg7DUXbpaXedFhIh6Rro="
+      }
+    ]
+  },
+  {
     "name": "🎬X-men '97 (2024)",
     "samples": [
       {
