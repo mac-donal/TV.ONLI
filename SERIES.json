@@ -35,6 +35,91 @@
     ]
   },
   {
+    "name": "🎬El señor de los anillos: Los anillos de poder(2022)",
+    "samples": [
+      {
+        "name": "Una sombra del pasado ",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIq68Yzo1PhmH/xmj50W7CmJ1dXW6BWvQm1f6SpLav4H3b2HfLfsEET+cy78p7CjuA="
+      },
+      {
+        "name": "A la deriva",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIYDKSfsw+yZZg7zPlxkC/91lLVOVETrBKnXpW8DQRLFicPGOwx1wBrEKn1sUxvz8g="
+      },
+      {
+        "name": "Adar",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJKfp8XEf6BV4cY0WprL4lh6lIqLi6cpS8dJHC2QlXEn4UOj+0746aCXJelwO300cs="
+      },
+      {
+        "name": "La gran ola",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJv/JmgasoSUP0G4j+jfzT4RkJF1kNK9FBmHZvPiTmkGNJL+nWbq5boCcf8HsM1Qy4="
+      },
+      {
+        "name": "Separaciones",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIGm2q8gI6HpRJ3WL9xiUehr3S/1tMtFIBrzLqiv5+KI8XcqGliaAW6hDhGThc4CIU="
+      },
+      {
+        "name": "Udûn",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIZBKJxzfPff26G7KmV/yRXLGdBCWagbTAlvc6TdUzA7mGleqG5MG8mREn8WxzvcqA="
+      },
+      {
+        "name": "El ojo",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJB3zov9F5t7O2b58VEYns6XJAISOkGMP+pFYurrztKJSdjuJ5ZmG/DkemSpaeLYlM="
+      },
+      {
+        "name": "Aliados",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJJhvhIP+JlAMY8KnVnvdLxVGx/CwUuL9A/NF4R4tQjaX9fxCDctp8MTTAg/3UxFMU="
+      },
+      {
+        "name": "Temporada 2 Los reyes elfos bajo el cielo",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUK9YN64Ee+gSYm0nT8ac1sC9LoiFGIRtMtBmgmBtDH0bBf3zuWqkcDpJv6OOGS0z6I="
+      },
+      {
+        "name": "Donde las estrellas son extrañas",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULSOcvn0Ytu3ch0OovcgH4Sv5stqsjxnjRLHXxtppijLII1byPGmQGZDGTE226dCqk="
+      },
+      {
+        "name": "El águila y el cetro",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJiT4LmOsg9kyBkWxmpxITjU/xuTe1o23kCVGiBsQRlyYecOYKH3XUC2Z9pz+Sfbu4="
+      },
+      {
+        "name": "Antiguo",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJ79cBSCmeJVoY2HyUtbtiR4hZ6Xi4x17FPP7Staz5M01e2GS4tUIyULpDI2uljZsk="
+      },
+      {
+        "name": "Palacios de piedra",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIZzmhyGzVk9vu7dz3gu9vLZqxBIFLJ/j3VVaTt0XA2a+VKCNYpTBhTxdelQ4DJ1nE="
+      },
+      {
+        "name": "¿Dónde está él?",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJjk+1CF60h6m8IBJTD27dR23xDwLJsPyc51diFKKZm/lPIFPn5898W56qfn7dQGHM="
+      },
+      {
+        "name": "Condenados a morir",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYULv0vrh1m/nQEY2+8pW4arIouK28TBidL85vSrfXykzNt23kg81OLJMNhUtOKeYYLo="
+      },
+      {
+        "name": "Sombra y llama",
+        "icono": "https://image.tmdb.org/t/p/original/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUK5iJDXwwMgaKYI/+c6J6ukdfqE5Q6jcUVG3mYmVLwijKxqBiP5dcxNJnIm1Ci8tUM="
+      }
+    ]
+  },
+  {
     "name": "🎬Maradona Sueno bendito (2021)",
     "samples": [
       {
