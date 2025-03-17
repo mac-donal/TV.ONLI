@@ -109,20 +109,19 @@
         "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
       },
       {
-        "name": "ESPN PREMIUM",
-        "icono": "https://vertex-plus.es/img/espnpremium.png",
-        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DsPhCLaGIYzzZTgR4q3ZyHGqBYOKIOhf0OsiW90CKWeAyyZrSqHQTsn4oKkpwyesw=",
+        "name": "HG",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "uri": "79FeaXt4xRaH3cn6OoqUr9ZOM5Gq0YjNgkuUYvJVgmYQyiuoXZAbcjRhpSB8jJJIiE6u4/3NiV+tBPkbT/TA4w==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "4tuggFGGz9hjdSOjQI03VoKiO8UWsxX+Xt7+fJQGv5A1geVgrGpmrvNrDz1lyQAxxeSuRRCDMKed1XyUp2RH0g==",
-        "referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+        "drm_license_url": "TQSPBT5fFAmrHLJIeXbfeY4lx4+6Ek4Jyps0LFyVcc5a9QaIikvZu7GKNx2i2c+/ooW6OdfrgUdxTZZGHC9CbUejgoITnUEhmFEEmUgMx9+2qHIH7591k1OxIhqTlO/oeU0YOOKVE/XtopwmZ3nvAR0+W6rKaAHvxrSMuPuXW3M=",
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq24gvUedbZVc2MjLL07fzFzABWCTNGOZXhoDMYVoHPETI5vsPeyGQhpWbNM5L1jrZHgonrVADTfwdvHCfDQKSMq1ky3gyeaJDO8yaWavy/NSYyVR8vobcQfRX877KItT/+yS3yi7Wi9ZeQts/CzYZrXycASHNcnzc4IuOzx1yUZJTjK5rkpLmxMvb0ESGQ7vVgsrHVHaaQk+4zxJawHXJRHf4jCxrtkSfmAt5VQqDvrE5WXgTgIRPqcQhLCkkhl5+BA=="
       },
       {
-    "name": "DISCOVERY TURBO",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/800/542/0/0/2118831607492.png",
-    "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS/D4mLCuDEsPK2K8mGwt/XixKoHRg2E60Mom/2F7fsssHNaa5qVd5DWtCk/6fjXVU=",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDljlAXdMzT9N1ngt22opqrQ9QULajQIDoDi0BQ86dZ2r5JeDHLv2Hh3HWfWmoJljOoj9F1pgn+2hSyOa42kvp+4hXvw6iZpwiL1FMDf9zPmLS98EnlJ9Hlsc/FM+nllTg=="
+        "name": "DISCOVERY TURBO",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/800/542/0/0/2118831607492.png",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS/D4mLCuDEsPK2K8mGwt/XixKoHRg2E60Mom/2F7fsssHNaa5qVd5DWtCk/6fjXVU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDljlAXdMzT9N1ngt22opqrQ9QULajQIDoDi0BQ86dZ2r5JeDHLv2Hh3HWfWmoJljOoj9F1pgn+2hSyOa42kvp+4hXvw6iZpwiL1FMDf9zPmLS98EnlJ9Hlsc/FM+nllTg=="
       }
     ]
   }
