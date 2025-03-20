@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿Mickey 17 (2025)",
+        "icono": "https://image.tmdb.org/t/p/w500/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+        "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd7opeLDB0v8aR1UGOE0HcX5oxiMZI8aGhr9P/I2uy+LKOJEW27ydUXUZ23We+GlEeU="
+      },
+      { 
         "name": "🍿El Jardinero (2025)",
         "icono": "https://image.tmdb.org/t/p/original/x9SrxVaRhBNKf95vns1ti13yzl0.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w8aRbVYsvpxbYMxeGM3Xb0suLftRPofcn+UP0xB0FOrGJmaLILvJvQ7TBDTJXFqzUdlhbBRmgfYfG3Ah4lJZ2H2qOIwN1L1MhkmapycogMeN"
@@ -738,6 +743,11 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🍿The Brutalist (2024)",
+        "icono": "https://pics.filmaffinity.com/the_brutalist-339944470-large.jpg",
+        "uri": "rTlcC78i6rbfd7v4mIaw1tTsXyTwERNq9biSBMtKA5QsbYgJlJHeT2C/h1NSv5RrTQfwO1usEXhGUcim5XLLYvXEbkmd+MhVUOT5U4ErAbw="
+      },
+      { 
         "name": "🍿Elvis (2022) ",
         "icono": "https://pics.filmaffinity.com/elvis-647942773-large.jpg",
         "uri": "TQSPBT5fFAmrHLJIeXbfeSwJ1LgIYr1vCPQh3AckthoGbrWxWiY+l1HKxXv69jTvfnzmfwvOfio06S6BPwgODDvVwqvRf272l0w8eoq4TYkHYmIk9CFKmw/5rrN3Hsk4"
