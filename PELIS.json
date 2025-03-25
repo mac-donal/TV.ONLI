@@ -758,6 +758,21 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🍿Amor. Boda. Azar (2020)",
+        "icono": "http://image.tmdb.org/t/p/w500/5hPYjrxkw4r9RVX5NcDGTz2zaOJ.jpg",
+        "uri": "+vhS1EOFRFqhLflkWyiNthjiEyF8t5Ikv1IxBh21FUweaCz2pdghxpWmizCd0v2JI7FtfLbIKBJz8ombwTGv/vMW7lOpj0FvizqpSKFc4k/Yz5+KhXHImy17ldhVkiKV"
+      },
+      { 
+        "name": "🍿La pelea estelar (2020)",
+        "icono": "http://image.tmdb.org/t/p/w500/mWTh9XfbDSOZiafEbtaCfyp75s4.jpg",
+        "uri": "+vhS1EOFRFqhLflkWyiNthjiEyF8t5Ikv1IxBh21FUz//s8Db4+esgMTtgt4H6u7LF8t/5Dhh71bzC9GQUejJHxL/AVqXUnVjmC8tOyQL07Yz5+KhXHImy17ldhVkiKV"
+      },
+      { 
+        "name": "🍿Su último deseo (2020)",
+        "icono": "http://image.tmdb.org/t/p/w500/8clazV2TtAK9CbTG2WPTbuVmx9C.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgnZKiCQ/bLmgMRYlxk8+XCI6sj0IKgphGJzOpkxF7qGsejT+csz5Nk6AT6fVoJ4nZp45ALkHccw+E8WuN7aDnp"
+      },
+      { 
         "name": "🍿The Brutalist (2024)",
         "icono": "https://pics.filmaffinity.com/the_brutalist-339944470-large.jpg",
         "uri": "rTlcC78i6rbfd7v4mIaw1tTsXyTwERNq9biSBMtKA5QsbYgJlJHeT2C/h1NSv5RrTQfwO1usEXhGUcim5XLLYvXEbkmd+MhVUOT5U4ErAbw="
@@ -2197,6 +2212,16 @@
   {
     "name": "🍿INFANTILES",
     "samples": [
+      {
+        "name": "🍿Zootopia (2016",
+        "icono": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_FMjpg_UX1080_.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgUOSfa18vMN5rfVwEizebP8ouWaj6/Tx0qZ6JYIvB3XYmo7K3x0fzjmVbZ7rgGLng="
+      },
+      {
+        "name": "🍿PIXELS",
+        "icono": "https://es.web.img2.acsta.net/medias/nmedia/18/83/62/62/19699587.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofgUOSfa18vMN5rfVwEizebP8ouWaj6/Tx0qZ6JYIvB3XYmo7K3x0fzjmVbZ7rgGLng="
+      },
       {
         "name": "🍿El Guardian De Las Palabras (1994)",
         "icono": "https://es.web.img2.acsta.net/medias/nmedia/18/83/62/62/19699587.jpg",
