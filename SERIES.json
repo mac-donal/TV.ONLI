@@ -1,5 +1,30 @@
 [
   {
+    "name": "🎬Adolescencia(2025)",
+    "samples": [
+      {
+        "name": "Adolescencia Episodio 1",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7QmrPArFhZ4V3F0/4mrhNIPXxMIDM4ZRS3LEOZGsdQL4jojdU7cwVp9CHTRjFKLQtQkMqGMS8dVqERAbfYhkKCBxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7QmrPArFhZ4V3F0/4mrhNIPXxMIDM4ZRS3LEOZGsdQL4jojdU7cwVp9CHTRjFKLQsSsphEqPgta7o3tfPMV1duBxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7QmrPArFhZ4V3F0/4mrhNIPXxMIDM4ZRS3LEOZGsdQL4jojdU7cwVp9CHTRjFKLQj7bDIgyRyj2CIFUo9MshLqBxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7QmrPArFhZ4V3F0/4mrhNIPXxMIDM4ZRS3LEOZGsdQL4jojdU7cwVp9CHTRjFKLQo6U6aWhtsMY4R0MT+S4eFmBxi5j+H+03Yb2wfgNaRQw"
+      }
+    ]
+  },
+  {
     "name": "🎬Celda 211 (2025)",
     "samples": [
       {
