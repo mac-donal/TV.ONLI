@@ -4435,132 +4435,52 @@
     ]
   },
   {
-    "name": "🎬Invencible (2011)",
+    "name": "🎬ARA San Juan: El submarino que desaparecio (Serie) 2024",
     "samples": [
       {
-        "name": "Invencible Episodio 1",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwsJobTpUIF3+o3qeU/diYU0="
+        "name": "ARA San Juan parte 1 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWB3BH3Z0q0ZXwkA4TSGdmIFHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 2",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwnCbyULu+C2GTHm9ZhIIkWY="
+        "name": "parte 2 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWC+ZFTZRAnqYmKhGtr+1E5LHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 3",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwnngktE8XXKkq5H1h6/DsmI="
+        "name": "parte 3 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCsHyPoNXRWWU0bscmOnefpHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 4",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwjte+0gmJuUgwGtkeGzf3UI="
+        "name": "parte 4 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCuZzNMV2DqzldpojbdWA2nHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 5",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwvo5ZLZeTWxBsN6AmM6/9TE="
+        "name": "parte 5 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCZavCRTFWaGLFa/vjyqK2BHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 6",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwgiBh26V8CmtD3nV9Ax3kpc="
+        "name": "parte 6 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWDW6u8qHc5hJEBlkPRqcvrHHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 7",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwjbhHheAK39Jpg+VpKnpKPU="
+        "name": "parte 7 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCmO5catBfyOOWZ+rTsrsEpHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": "Episodio 8",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwv59Gy2LtlYKgbjre1BuFs8="
+        "name": "parte 8 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWAF/SFeGhYTfa3dUccMXEtaHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       },
       {
-        "name": " TEMPORADA 2 Episodio 1",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwhfJhVId1T5nCxcErfqd/js="
-      },
-      {
-        "name": "Episodio 2",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwqJbGqOXMbjweVtONiQBiFU="
-      },
-      {
-        "name": "Episodio 4",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwiiQG8md0RUuL1GZIDJjgdY="
-      },
-      {
-        "name": "Episodio 4",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwqsIfrrVilCPgkFJq73KeIQ="
-      },
-      {
-        "name": "Episodio 5",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwol5Rs/hn7Lsj6pyVKKuHbw="
-      },
-      {
-        "name": "Episodio 6",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwoILKgM8OVaM6yJynOC2EN0="
-      },
-      {
-        "name": "Episodio 7",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwm+dNsHCzcqiIeGZ8b7Zdnk="
-      },
-      {
-        "name": "Episodio 8",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwnEnazWx7xoXLd0StNU14Zg="
-      },
-      {
-        "name": "Episodio 9",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwtKII0K1hDrIzKqRq/CgO5M="
-      },
-      {
-        "name": "TEMPORADA 3 Episodio 1",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwkqIWoGwJErTMFlp1stUsZo="
-      },
-      {
-        "name": "Episodio 2",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwthdzpapXbgXruCrHLZztJE="
-      },
-      {
-        "name": "Episodio 3",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwmH7lLhO73Heb9e5OShMx80="
-      },
-      {
-        "name": "Episodio 4",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwj98VLkKQ3bMNnVOX1E4il0="
-      },
-      {
-        "name": "Episodio 5",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwhqSl8WGO8Tja9gpMQE1T5w="
-      },
-      {
-        "name": "Episodio 6",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9Hwon6TgDTzZbxSZZXPl30qFI="
-      },
-      {
-        "name": "Episodio 7",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwiaxBYhN4t/7ddU+I8OdUHs="
-      },
-      {
-        "name": "Episodio 8",
-        "icono": "https://m.media-amazon.com/images/I/91fweKncoJL._AC_UF1000,1000_QL80_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w015K2Gt2Mf9A7V9/lG+azvvsucj6/V4pbXlXDs8hKfk5KKonNmp5XdUG08ZIS9HwncVzERjGZ1/ASOg5CJgqQ8="
+        "name": "parte 9 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWDZg6V2ievjca7MsXpp31XXHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
       }
     ]
   },
