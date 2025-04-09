@@ -858,6 +858,16 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🍿Los siete magníficos (2016)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMjI0N2QyMzMtNzcxYi00ZjM4LWJlMGItMDQ4NDczNDU1MmZkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/MSefSn8AyzdrXbtziidcpVle00Svx62qM7RHNWptPN"
+      },
+      {
+        "name": "🍿los siete magníficos (1960)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMzAyODQ3ZDktNzVkMC00ZjkzLTk0ZjgtMDdiODM2NjMzZDczXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/MSefSn8AyzdrXbtziidcoO7JdxpALIS5EnqT5mHTpU"
+      },
+      {  
         "name": "🍿La caída del vuelo 811 (2022)",
         "icono": "https://m.media-amazon.com/images/M/MV5BNjIxNzkyZWMtMmM2Ni00MWQ5LTllNzMtMzAzNGU5MjYxMDBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8mZ6MEc2D8IVf2cBL1/JRcF+qL/H7Tz7u01vHCPkre9aeOQC5B3HMPhPFrje2g56Q=="
