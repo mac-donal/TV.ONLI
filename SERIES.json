@@ -1,7 +1,37 @@
 [
   {
-    "name": "🎬Morir de placer (2025)",
+    "name": "🎬Watch Ladrones Drogas (2025)",
     "samples": [
+      {
+        "name": "Ladrones Droga Episodio 1",
+        "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4358551?od[]=Z1V:APPLE_V",
+        "uri": "cVI+FPBxX2ASracUSyM4wxK/8mv6rQQKIGClXtovlQe4DoqO+nU2869eZx9WZBjQbbWqgsd+/ILYWnUkHn4YxQ00Yuo6AjdE4/NG1WAG4igW4wbmYo31q3ouD7PAqmSeYQsTJpmI8awGT7JXWHAJJw=="
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4358551?od[]=Z1V:APPLE_V",
+        "uri": "cVI+FPBxX2ASracUSyM4wxK/8mv6rQQKIGClXtovlQe4DoqO+nU2869eZx9WZBjQbbWqgsd+/ILYWnUkHn4YxQ00Yuo6AjdE4/NG1WAG4iin3Kw2V9SBExY2fL//oKinYQsTJpmI8awGT7JXWHAJJw=="
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4358551?od[]=Z1V:APPLE_V",
+        "uri": "cVI+FPBxX2ASracUSyM4wxK/8mv6rQQKIGClXtovlQe4DoqO+nU2869eZx9WZBjQbbWqgsd+/ILYWnUkHn4YxQ00Yuo6AjdE4/NG1WAG4ijaXLpe2/qoZELC4AlNg9i2YQsTJpmI8awGT7JXWHAJJw=="
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4358551?od[]=Z1V:APPLE_V",
+        "uri": "cVI+FPBxX2ASracUSyM4wxK/8mv6rQQKIGClXtovlQe4DoqO+nU2869eZx9WZBjQbbWqgsd+/ILYWnUkHn4YxQ00Yuo6AjdE4/NG1WAG4ii/pcOAlBf0n8Xc5HiPmt8ZYQsTJpmI8awGT7JXWHAJJw=="
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4358551?od[]=Z1V:APPLE_V",
+        "uri": "cVI+FPBxX2ASracUSyM4wxK/8mv6rQQKIGClXtovlQe4DoqO+nU2869eZx9WZBjQbbWqgsd+/ILYWnUkHn4YxQ00Yuo6AjdE4/NG1WAG4iiCHE+mgdnkhYXljlIAIf77YQsTJpmI8awGT7JXWHAJJw=="
+      }
+    ]
+  },
+  { 
+       "name": "🎬Morir de placer (2025)",
+       "samples": [
       {
         "name": "Refresco dietético del bueno",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuMHxOyzEFjW5tyZmoDos0hfZQH.jpg",
