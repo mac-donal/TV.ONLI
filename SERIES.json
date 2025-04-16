@@ -286,10 +286,45 @@
         "name": "Rey muerto, príncipe coronado",
         "icono": "https://image.tmdb.org/t/p/original/33NDIkBySD5qzRylVgxlkymZfLW.jpg",
         "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJfSjCTZ+imaKeMX7BEznDrOV9tTFGWkqpJDKlR3QMh8coeje4ngZqOLKeDOirGbB0="
+     }
+    ]
+  },
+  { 
+   "name": "🎬Karma (2024)",
+    "samples": [
+      {
+        "name": "Karma Episodio 1",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZGY0ODYxYzctZmJiZC00ZGZlLWE5YTYtMzRjZDA5NmQyYzhkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7j4sk/ybn3Inj/c1kj4gabzzk16DIbxE/XjAky9hXC1StmCNP73cdYqJgYGEBA1UHNp3OQYHf8BLEj1MjKBxphp45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZGY0ODYxYzctZmJiZC00ZGZlLWE5YTYtMzRjZDA5NmQyYzhkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7j4sk/ybn3Inj/c1kj4gabzzk16DIbxE/XjAky9hXC1StmCNP73cdYqJgYGEBA1UC/lonlSGFYSsM7cVgEnzJ5p45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZGY0ODYxYzctZmJiZC00ZGZlLWE5YTYtMzRjZDA5NmQyYzhkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7j4sk/ybn3Inj/c1kj4gabzzk16DIbxE/XjAky9hXC1StmCNP73cdYqJgYGEBA1UNquvFSAkRUDJdpfr+TnXr9p45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZGY0ODYxYzctZmJiZC00ZGZlLWE5YTYtMzRjZDA5NmQyYzhkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7j4sk/ybn3Inj/c1kj4gabzzk16DIbxE/XjAky9hXC1StmCNP73cdYqJgYGEBA1UNeHHgBaVzMF3bHtF9LgXF9p45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZGY0ODYxYzctZmJiZC00ZGZlLWE5YTYtMzRjZDA5NmQyYzhkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7j4sk/ybn3Inj/c1kj4gabzzk16DIbxE/XjAky9hXC1StmCNP73cdYqJgYGEBA1UDOGT6xi0oyQ34gbPDYTJxFp45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "Episodio 6",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZGY0ODYxYzctZmJiZC00ZGZlLWE5YTYtMzRjZDA5NmQyYzhkXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w7j4sk/ybn3Inj/c1kj4gabzzk16DIbxE/XjAky9hXC1StmCNP73cdYqJgYGEBA1UKW+G93VdqOZHqARQQJO/FBp45ALkHccw+E8WuN7aDnp"
       }
     ]
   },
-  {
+  { 
     "name": "🎬La casa de David(2023)",
     "samples": [
       {
