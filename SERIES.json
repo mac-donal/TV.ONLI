@@ -449,6 +449,61 @@
       }
     ]
   },
+  { 
+       "name": "🎬The Last of Us (2023)",
+       "samples": [
+      {
+        "name": "The Last of UsEpisodio 1",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGxYb/cpg0KxT8LqrrkdqOKN"
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGxw4loySnx0VTktlUpS91RY"
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGzT3UVLGlTjWHKFJc5z2f8i"
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGxRQQnHdL0GshbPlK9JEQmn"
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGz2XaEn9j4ghm307d+h10MX"
+      },
+      {
+        "name": "Episodio 6",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGxFwC8gMZvqEW3zhDFGIPYg"
+      },
+      {
+        "name": "Episodio 7",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGyyyZrSLglp1GRyfttdqVb2"
+      },
+      {
+        "name": "Episodio 8",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGwvDvui4xU8mtevjU2R8Cp2"
+      },
+      {
+        "name": "Episodio 9",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGxjK4u26TbMRfG+CnxEGow4"
+      },
+      {
+        "name": "TEM 2 Episodio 1",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w4zInol38ZFpyTRa5Ph2QGM0MTl+ssLSxXLX/AoiMP/iRBeKbbE2b1nOSFIb25vPjj6lE29PpMM1+SliSPpkZGzqM7EpbrtJsEW3qY4+zF2o"
+      }
+    ]
+  },
   {
     "name": "🎬El señor de los anillos: Los anillos de poder(2022)",
     "samples": [
