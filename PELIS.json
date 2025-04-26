@@ -3,6 +3,16 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿Minecraft (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/3X6tebWMdBy0yiTFrzn66Bxi5j+H+03Yb2wfgNaRQw"
+      },
+      { 
+        "name": "🍿Déjame estar contigo (2025",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNDA0OTlhNDctYWUwZC00OWU3LTkzNTAtNjAyMDhmZjJiZWFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2oYv3rwD0MfS83bM2n+C5hVXr8FPBk+qhsRe55xo2Uu"
+      },
+      {
         "name": "🍿Mientras Cupido no está (2025)",
         "icono": "https://image.tmdb.org/t/p/w500/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w1AWg16Em/a5/nNusMj1r9zMV44fn0UIw2zJFeRKXlVYC4cm+2u27ng7SC+zWQgfkbDmCn4+NFi7wS4+371ETJkQ9sXQ08HSQcfcs7DlxM9XgcYuY/h/tN2G9sH4DWkUMA=="
@@ -26,11 +36,6 @@
         "name": "🍿PEDIDO..Andres Calamaro - Festival Quilmes Rock 2025",
         "icono": "https://i.imgur.com/XBk3L5q.jpeg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtyZTB+fP+WkxlqbsdlVl+mz363KBCq0Vj3bvPVaf2H9hyVEhnf9lclzZsxsyiRwrJg=="
-      },
-      {
-        "name": "🍿Minecraft (2025)",
-        "icono": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
-        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/3X6tebWMdBy0yiTFrzn66Bxi5j+H+03Yb2wfgNaRQw"
       },
       {
         "name": "🍿Presence (2025)",
@@ -952,6 +957,11 @@
   {
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
+      {
+        "name": "🍿Dog - Apocalypse(2013)",
+        "icono": "https://images.justwatch.com/poster/323690537/s718/dog-apocalypse.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt9e3RssdkFrwRm93d36a37HHhZNtXDjRkBLT3WwdTgEy"
+      },
       {
         "name": "🍿El lobo de Wall Street (2013)",
         "icono": "https://image.tmdb.org/t/p/w500/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg",
