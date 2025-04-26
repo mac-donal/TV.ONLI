@@ -1480,6 +1480,21 @@
     "name": "🎬4K PELICULAS",
     "samples": [
       {
+        "name": "🍿Poltergeist (4K)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3GAkp0tnW6/7PK+9OA0Z5iAcbq1warcQlrgejhFJZkH4Q==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1982/6/w1280/b6JcwPnultjlXSVDGJhtPSAZSEY.jpg"
+      },
+      {
+        "name": "🍿Depredador (4K)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3HA510w9/KLr9dMvL4boOpngNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1987/6/w1280/elmVECDoeLik3eRwfVsyfDfd6iB.jpg"
+      },
+      {
+        "name": "🍿Nacido para matar: La chaqueta metalica (4K)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3HwlDNHiy/szdB/5sqOwUv2evf5YkNcrXodCYhYO2DrXA==",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1987/6/w1280/hJfHQlX5i9L5ywAHGbZw4OmI3mj.jpg"
+      },
+      {
         "name": "🍿Batalla naval (4K)",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3H+LYJ4RBegQ8KbMB876rfvwurzpGpmz9ZU/ZxDueWHgg==",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/e923a3d5dcbc2a98983adfa2c87fec66106853498f58be98830d232fa5cf130e.jpg"
@@ -1623,6 +1638,11 @@
         "name": "🍿Power Rangers (4K)",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3Ea72eBzMAfFPqP47CyKKYZrykxAUlcIxI7G7lWHSFnRg==",
         "icono": "https://es.web.img2.acsta.net/pictures/17/02/22/10/06/553006.jpg"
+      },
+      {
+        "name": "🍿Rapidos y furiosos 1 (4K)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3FHt4XIeeO48P7onYAXPINTRVPgNDMruvDFCMnX5tPHG+CyKJOYPk0VHaB2/7yTIjk=",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/6/w1280/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg"
       },
       {
         "name": "🍿Rapidos y furiosos 7 (4K)",
