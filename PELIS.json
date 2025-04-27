@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿El Contador 2 (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYThlZjg0MmItMjViYy00NjQ1LWJlOWQtMzIxMzI4NjhiMDA1XkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt7b2WwcSNw6PDjRU0M2wvEzJUSGd/2VyXNmzGzKJHCsm"
+      },
+      { 
         "name": "🍿Minecraft (2025)",
         "icono": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/3X6tebWMdBy0yiTFrzn66Bxi5j+H+03Yb2wfgNaRQw"
