@@ -1425,7 +1425,7 @@
     ]
   },
   {
-    "name": "🎬El juego del calamar",
+    "name": "🎬El Encargado",
     "samples": [
       {
         "name": "El  EP.1 ",
@@ -1796,6 +1796,91 @@
         "name": "🎬Tiempo",
         "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTgnkCB6F2F3SbbgUiUgMbc0o=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
+     }
+    ]
+  },
+  {
+    "name": "🎬El juego del calamar",
+    "samples": [
+      {
+        "name": "Luz roja, luz verde",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUaBR5YrNx0V5/sO5n8eh0pk=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Infierno",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUXBOuoHNg4dCUahVIb1Swdc=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "El hombre del paraguas",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUXNjfMgPs+PpbFTXW1TPNZo=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "El equipo es lo primero",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUakJphedtRfzL6+RFLpsiUY=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Un mundo justo",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUUQXsZZHPp7mlRB92xcH7Mo=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Gganbu",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUewUkpSyGLT3GG99lAjdN9o=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Personas importantes",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUQjCeCTPMhwrxQCXIElxAAo=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "El líder",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUSP1p2s9Xf4Oplho2FyXXQc=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Un día con suerte",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUXPEQCwwistBEB6hL9lILfA=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "TEM 2 Pan y lotería",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUfG1nVZ+PP3ewdnC2HcWckk=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Fiesta de Halloween",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUT70pi5TncVcK+/d8yjWxC4=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "001",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUcciCVg6FCavcznwQQSAHQs=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Seis piernas",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUbKF76zRHXzN/E8mqWCigYg=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Otro juego",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUUkWe9a7yf6EZ/74iGgT41I=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "O X",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAURvYNwzUzam9a2FpzqgLRis=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Amigos o enemigos",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUeYyJipdCazFsW2q4Xxodlk=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
       }
     ]
   },
