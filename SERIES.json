@@ -1,5 +1,30 @@
 [
   {
+    "name": "🎬Kun por Agüero (2025)",
+    "samples": [
+      {
+        "name": "El Eternauta  Episodio 1",
+        "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUK+UDUqWjVglkLhtIhFwFV400iezDGalQivUhVFEVN+I2PdrlzhaVTADEACeOxFJMo="
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUK1Fb/VUl9h0wi14r3qDjbWHbnYiozt65CQewmdJge64JqdDsbSq0+XTCxyJMHPd3M="
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUKpTZeJgMP4o2Pi4Nsxs9X+vUxFQLjBXnX/68LskyRHUyUrFwlqwGESzREMjJZHPpk="
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://image.tmdb.org/t/p/original/l4Q0LlhY9HFV9YQ0qegPCGkCvhO.jpg",
+        "uri": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUIoVsWoeP4V3xftpU+QUOidf4PRIohP1LNDhIN9GdoBCbnNiXbWdKgfh0ta30b6IIg="
+      }
+    ]
+  },
+  {
     "name": "🎬Murderbot (2025)",
     "samples": [
       {
