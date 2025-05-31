@@ -386,11 +386,25 @@
         "drm_data": "seu6+pLhroUhXCTL4XcqTVC5KNRcqQQPCaqLMqRu+J2qnVPlHs8xKpYVVLX46rWt9D5LjBGLUJMEgXpgYJBRPjqp/IiVvuEZ7EiFlAovDSOL3+pj5Mu/98NZNONNT3tIsobyHTiapyuUwhDLRQ2RF82d7pJuJ/26awfAgaHPy6qXg08If7BUKpF8IWSaPhO184lwwQclhESOjZLyUxwbrc+Aprk83T43qLHyGyFzq9u61oUGJIcf6T/eIqTSRo5Qca96Ps6S/xSIdgkrmz8Jqg2rlYmtLmOXjS7XLOXtYbk5Ab6GrKrpnB5d4CaavlGYdc0Z3WR/sZE4+c4XorWSTg=="
       },
       {
-        "name": "OPC 3",
+        "name": "ESPN 1",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/800/542/0/0/13868550072195.png",
         "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdweg86psVD45kOgHYubq9koK3z2C7xiMg1X8IRy5AboDMU=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYyC9Gah+3NZtxyqj4YRDcodSE7I/d1Rr4XDWCO9R6GrvCdmdpt7Qc670lAHmZxqNvgbqH239y0B0aZiOMnaqc/0Rp5lkQVBu+8aZgmY2KWEH6O7df60eejnlxPAR4zFw=="
+              },
+      {
+        "name": "ESPN 2",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/800/542/0/0/13868550072195.png",
+        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdweYy+C4LVRb5m2+SdcNyyIv/9u+ytgDH+Jyuxor/ROWCI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM/gXmBy63g8Jz6kWxtLnrKRx6is6dTcAir8LbrDRAOICyuAC4Eye7zhXKdBTT+Z7WjBccaYgqJ8V71y/uXXTfPwd+vM2Y5bJ9ZbmLhEnH+2fvvtAlYwpwzuNEVCR5mulQ=="
+              },
+      {
+        "name": "ESPN EXTRA 3",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/800/542/0/0/13868550072195.png",
+        "uri": "4i8IeJN67Fcr0nuermqdhVTG5BxxdLZMcHZfSvUXqSYYD7KJJVx8pcGvPzuOpdwes3QOFJll1U7UdTVQoXCcuQZw2nAUxtWbmZJLQczLYDo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPhOsqZL7ZoS8N6LihOQoMdRV7xHVrpHOg82MW1YUyPjTzukZlR2MIaNNj1AIsqpXcCT2vr6zvYSOZM/8n3nFqFP4GMFNvZyI6Chc+j9/3SxZBwu/4MXv4stS4KnB13hAA=="
       }
     ]
   }
