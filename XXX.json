@@ -3243,57 +3243,156 @@
         "name": "CHARRÚA TV",
         "uri": "QyO95PVfAMWOtY+wyc5KLJhMy0/iYme5LdRLFeZ6QCs487MVCJQXmWqbbUS6rpNpRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://i.ibb.co/ts4GCSf/charrua.png"
-     }
+      }
     ]
   },
   {
-    "name": "🇨🇱 CANALES DE CHILE",
+    "name": "PERU",
     "samples": [
       {
-        "name": "MEGA",
-        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRZf4brMk3IiceKAmiFwYhp5aV/7oFtBKStMC2eStByozGQq+XmdvD4d/ErgF3W796xBS62/Aa6CTih58McfsLKeyYkDlrGKwFMQ7MiyyBH9IA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png"
+        "name": "América Televisión peru",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTSIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png"
       },
       {
-        "name": "TVN 3",
-        "uri": "MPyTvcd0a4RldnJzh5NdlJ8x85SIiM/MJHN12NdG7taH+rrFKGFE0iIgwjXrvZvAPa3rwOXqFzDzefkXSLOLWbaNOOa898NTUdhvkey4Tiw=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png"
+        "name": "ATV SUR PERU",
+        "uri": "JYS73y308QzCpS2K/S7Q/9HZa2EAG8QHQmGJ0S5Lb2cOntNnniJ5T/JMqCVEPxsMi0CXxjFZHEzeQMumxRzHg4NARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg"
       },
       {
-        "name": "Chilevision Contigo",
-        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ66OI+Kidhlb8pebw3SS+pwCg3KTTInSwSoi9iSJ7yLB7FPwiRGkCbjOHF4qfT7ZF+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNWzxnOS8DRq+qK/XmkAHUaQ==",
-        "icono": "https://cpng.pikpng.com/pngl/s/330-3306197_chilevision-logo-clipart.png"
+        "name": "Cable Perú TV",
+        "uri": "2pSyn21ZWzBnfAjiTSKzII4rCT1Ua6vpE5XQ9+5ljeNKOqHEB7a1A9OqIvn830zr",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_ljKdkBil060jO_j9lLzKf75QRnxpz07ajGLknEoEvT7Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "name": "TVN",
-        "uri": "Wf3A6FOGB3p1GJMkruYPHj8Y1YYrJmEQXfbeLKzu59OO+rTDNrLz0ltkmn9Pq8aX1c/72eQRlh4MsHL0UMIsiA==",
-        "icono": "https://i.ibb.co/7yLNbHd/OIP-2.jpg"
+        "name": "TV Perú Noticias",
+        "uri": "mVE56NMbim3ctrsycTCxiPzbMWijouFH9FJ29/0UfEPekRgP7+Uav6BYk573YSjcemdOSX79t2UNxxcHp4p38SIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupsLEyeS8BgtBJKy8eUk5cVns5N9rV51R8A&s"
       },
       {
-        "name": "T13",
-        "uri": "8ZJw0UUv0Xe/ExtodpANuk6RyKTgqs1hzA59+rjXlN0grV/Suy7lOxuKvjSRg9vGIHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://i.ibb.co/KFGxsLf/PktzDCH.png"
+        "name": "TV Perú Internacional",
+        "uri": "mVE56NMbim3ctrsycTCxiBdTnqjq+y0e5cB7DmWUyMx1PH+YCd0A7M5XUYyOAXs65zq4trxY1CZmisDNUuGgVCIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TvPeruInternacional.png/800px-TvPeruInternacional.png"
       },
       {
-        "name": "LA RED",
-        "uri": "8ZJw0UUv0Xe/ExtodpANuk6RyKTgqs1hzA59+rjXlN0grV/Suy7lOxuKvjSRg9vGIHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://i.ibb.co/7YXDfVd/OIP-3.jpg"
+        "name": "LATINA TV PERU",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCORzpfSu1FhIbXvtnZqPI6/g6r2SUDoTwiUu0g+Sq+KsLw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
       },
       {
-        "name": "24 HORAS",
-        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2rSxwjg/zTVoT9V+Y8+8lF0KBl8wNwAFN8WvgLSpia7Xg==",
-        "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png"
+        "name": "LATINA TV PERU OPC 2",
+        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
       },
       {
-        "name": "CNN CHILE",
-        "uri": "7zzruDzD+AOgHLnop0uleb2JGwpGEpYvIiHlWXew+0Hbkj/E+TXlvfYDcQk09VwRQIGA6qXLZuj+sP2tLVEilpm2KLa/GxZ+F+V8evEOJG8XJZhE3+C1aSGbgKQCeNVQZWSKKKqtJetY5FdBjljEzCjbUR6dchPUGtJdr7X/bGUWyHlwvRYcgaA4BEgubkEFyZyBvRR6spWOwaCaAIz2RxAg+EamPd2xpI9c0WvBKDa3OS2VGgeAu5hnVwBP0V8X",
-        "icono": "https://i.ibb.co/Q8xdWSk/R.png"
+        "name": "PERU EXITOSA TV",
+        "uri": "hHw+GOU0WRKYGxlqZ6zByeEauubugv5wPgoo+Gnx0o4zCCvCnTETqU6CV8x3VFJKuM+3hkh90+lPdPGzY4cmuD13nTmTJENvXUws9HuK2JaIm4IzDla/4GfJAYYb2DcI",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png"
       },
       {
-        "name": "ADN",
-        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7+pQ+bVIWlosxRL0R0SEASRSQNVNHieHk1OcgimKiRr1veITwRhX8aUS78OgZMkZtAhl0WV/O+YaPslP/9qJ38wE9peXTKysi3XLOkoP4xAM9/kOU14YCiLUjzOgJRmuHIUeGTBhFvxjPYxi8Dx2/s",
-        "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg"
-
+        "name": "Panamericana TV peru",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCORdpOVIGFPo6Z3WI8sFcRVvEKS2dvQ0uhDnvyOSSJU+5baNOOa898NTUdhvkey4Tiw=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFwDotBXDoa2uFxCGXn9k0HF-D0OW3hWr7w&s"
+      }
+    ]
+  },
+  {
+    "name": "BOLIVIA",
+    "samples": [
+      {
+        "name": "RedADvenir Bolivia",
+        "uri": "0vusnf1dTwbY9nhbLiZcqC3tkfkgCv4nvLMarD9+iIr+qNMi/d9vkFXfCTqj0a9Cb6JJU7NSwGbwEZjHms6mcmkI7fOdlFCsQvVUbHTedgeDQEVaEFpm2y1HhTJoBy2v",
+        "icono": "https://redadvenir.org/redadvenir/images/logo.png"
+      },
+      {
+        "name": "XTOTV Bolivia",
+        "uri": "tCG52Z3Shm9EUyTdzLT5CqWID5jhrIH8nWi34EhauwdC4MyVKgkBljGPw+E0gumFIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://i.ibb.co/3Tw2fjh/unnamed.jpg"
+      },
+      {
+        "name": "ATB Digital Cochabamba",
+        "uri": "tAVhMm5H9/8cFqnkKBsnzbOzc2BqdGoPxk+dcYyJ1lwgiktM6+bwC9EPBcf/Eb9k",
+        "icono": "https://i.ibb.co/Kz6w87R/images-q-tbn-ANd9-Gc-Tdg-Z8-M1-TDPHl-SNydapbqj0-Wy-GE1u-Emw-OQh7-Ky-Ca-Uex-SR10r-IT9-GT37-OS560cx-PH.png"
+      },
+      {
+        "name": "FTV Red Nacional",
+        "uri": "StQm6kWa9/O/XV5ESMY1+6Le2a2nzQom5nMJLjUSPm6TF4qYoBijfDkKK+t7Z6qp",
+        "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg"
+      }
+    ]
+  },
+  {
+    "name": "MUSICA & RADIOS",
+    "samples": [
+      {
+        "name": "FLOW MUSIC",
+        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW3+BXOlGcHD3BWlDWJbV7Ex/CluF2ArfHKIWPpJYIZ2alsMb72ecYjbk9+fvtaa5NSMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP4ySJuaD8lRaUcWmTINWeqLVROkwjZNmtCDb3+wzJJ8y/79QCns6lCnXBMk6mX1qLbJhZWMDgrGSkp6Zgw1y59C/buDnuBpbZrrahocuscjn/MBKky1LTqLkmBTh222EQ==",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "Un Poco de Ruido",
+        "uri": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://fbi.cults3d.com/uploaders/26619154/illustration-file/65b99d89-950b-4fd0-887d-cf5511055ab3/un-poco-de-ruido.png"
+      },
+      {
+        "name": "RADIO MAS TROPICAL",
+        "uri": "vDs01QovHT6z6DugBfrx54b73t3TvDzon3VoZdD8EtcIRcbFjxOyPIVhIsS04F5laeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/pQYPNP0/Whats-App-Image-2025-01-02-at-9-06-23-PM.jpg"
+      },
+      {
+        "name": "RADIO ÚNICA",
+        "uri": "vDs01QovHT6z6DugBfrx54b73t3TvDzon3VoZdD8EteR/380wM8rwv1rT3FHTR9iaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/rGxfh77/Whats-App-Image-2025-01-02-at-9-16-03-PM.jpg"
+      },
+      {
+        "name": "MÚSICA QUIERO TV",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKjT27GapI5EGLf9GuC6e4ff6XRnJzlQsQmTmGSipBEPUlQx0KCBNm3qY4Gy+JnyDCMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
+        "icono": "https://i.ibb.co/4mXYMzX/quiero.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "Vallenato Internacional Radio",
+        "uri": "8RiGx2ef8Z9ohekwIWokObIZIIFaLe4651w9hqNhWywCCiOCOAyoklNg4Xr0TIOrDnYZb6Aarg160Wn2LwyHyQ==",
+        "icono": "https://static-media.streema.com/media/cache/37/ad/37ad3ee67c2378f93e0305739787dc95.jpg"
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJm6P6EGWSknkkaj7OL2PVqpq7xsMxl5lZGPht4gGrCWJrm+IynMNqOH61h773/vH7BzWmualXeQ1rQpP+n411V",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDe7rbW3tH37pTijScMg21H6BRnxj0wajb2L8aFygCRaQkSfpVojN0HsfyQSN4GthqtYx56aRQV0NyRFWcS4Lb1/nZgIGxvLd32XP8tSDe0CEvDPR3W68iZ4YpYsZDZgWg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcRy86V_hL6P3cQoV8ZCu5D052ZUF3XGSPfpWg&s",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "ESENCIALES VORTERIX",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLrcT2JsIZRRT/0Bsu+wMQ/ytjnY9LZKTs7Eanscdy7NUFXcJm39RCeM8O56y7jXWHBzWmualXeQ1rQpP+n411V",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJBVAfJsVcEu0+CT5MfKKgmuyKdddni6EWY8kIMOq9dAElIQaX5IVYcBOIIJ2bHl3CB823UAYQOtzA3Ldvn1DIj8LnjStWcujuYybB76RHWvGu5oXR03g6H8QNhLMqgVQQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "CANAL DE MUSICA",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL6IU4swjc1vU1l1J4sK4V4KfRGfx8145jABGMZZQICPKunuyt6coTxHJ0OTTPGeow=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNFXA++gB8jdl7P9zc/NPJiFBR99dVDksDuLbBCMkgCpyjfnK9R6jVb9U+/oe2CXwae2t/b6l51ZKPcSgT/bdlMI/IUAjcOfuDd5lZpPRsg3L2GR130IHK2wloShtLYoTg==",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "LU5",
+        "uri": "UD2Pd1/GLDWrS/KXfCUcelndqkQo5h8N/ZsK8RC0vBTpIDkzucpE+jV0Lx7L5KWQ",
+        "icono": "https://lu5am.com/wp-content/uploads/2022/05/logo4-1.png"
       }
     ]
   }
