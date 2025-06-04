@@ -1,6 +1,6 @@
 [
   {
-    "name": "⚽ EVENTOS EN VIVO (Solo cuando hay transmisiones Exclusivas8)",
+    "name": "⚽ EVENTOS EN VIVO (Solo cuando hay transmisiones Exclusivas9)",
     "samples": [
       {
         "name": "EVENTOS URUGUAY CRL  🇺🇾",
@@ -2933,219 +2933,984 @@
     "name": "📷 CANALES DE PLUTO TV",
     "samples": [
       {
-        "name": "Guía de canales",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0hiEQI0XMIrQMHQkRkNHYV9symRokWrcu6E0WbDZru/So5QiNsPoXzrLSU8JLh3Xlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Star Trek",
-        "uri": "psaYwdVcQdINxjjYiBwoBs7aHxCH9Yyhs9CntfejWWMBOhyGyDkwEXQvDUVIJzgjiWZJAX8CZ6vIonllLxCN9pnwijkJoDxyU/5bB4SZ2Ej0ygMKSHnIlx8pq1ywgBPd564LSSqsSDeJRw6UmzxbB5CYQicH3Q6N87s4ZfqhwP1pDycAM347UhVTwzbnI7+YY9Bg7z/VFXJXqoqslxmcLhBEP27A8tHrowCKvA5kRif81i03y4RnxDaT3CFIojYfjU+Kwqf5lXF2ugKcPyV2j1FJLlPOySsyvAfEdKmb6RnXbIyU6uatc1YCD+4+jHywSfZgDdvPRDJ3MQMyy7CX9w==",
-        "icono": "https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Estelar",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3PsysELuXChsQ5RRLH3iYXl7J65GfczB+CiYpWtJ3yFFpJlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Acción",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdwVETshefNBUxVV5TxFkcVczPRDFtSP5SsB4Wc6YGejsnh239p+EaJY9mncCLxYsRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png"
-      },
-      {
-        "name": "Estrellas de Acción",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDkV0oTb/1VvxGQfzpt+rZaIj/IPyAc8vWG0546ZI9fvwy7GrKuMex2vvFL/JOvFGlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Adrenalina Freezone",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdfU/P4Ijs+YFMru7BJcpEIpKy0SiC8GqYaIah/1/pnibCqDrYmuwhrT6CJQPTa6yalpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Comedia",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbsvTYnn6mNzRljI49C2ntr/0Ppr1x/LGc5FlA9GccT6jlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Drama",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbsQi8rphQHmi0pbF6w9Z9FaT/C1kMWbGgQ6tSfqD3suslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Romance",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQn0S3A41chO7fo4IibJYgLqUwAiQtmJificLThQ+jC2GoCFCnlDZlS27nJfWCbNQlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Suspenso",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdpR/A1UmcrZApBy+ZYD+Z11pxnd/bp2D8BuPU3XBFdFxA2tajvfJVRy+X0xe7DtmOlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Crimen",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdAb6NutCgbYVJ+clPDrjgy+5GMdUt16Ck/vEpyRoGz1aTA6MtZPGyHNs9OGTH8pQ1lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Terror",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbk/e+sqOfUS/oyycP/84QDKd+XxGqDF+Q+ZR87tXUcwSlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Sci-Fi",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdfJmwTptTReksLEwC1RgAwtLwcNTFhrMKiAzQaTou0y6W7dN+W5J1BqWn+fgXXlzRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://jrsy.tmsimg.com/assets/p18355795_b_h9_aa.jpg"
-      },
-      {
-        "name": "Runtime",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdwX4NUI6TpBJ9JCCsAlXA/piGHDy46PPaoj3HxPiqT7mBQS8b8PfA++JEmz64rY8Dlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Filmstream",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd+uoqPm/ZzvmUKctqMBsLbE7gE0XeLhRQxRfLUj0oVBdCE/2A7zaiJtOEidX8H39plpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV  Nuestro Cine",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd1M6kJqnzZ1T1ZI+1d/nhKIyhipmXPTfgrW6Y8GRqAza7lvaUmi82SpD4IvW+kR1Blpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Clásico",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdjh40SBUm0lGGpPmoMBJd857XQfiTwxwq+CM5xfev9N2fEwpJesY8OGzTR1gIR75Ulpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png"
-      },
-      {
-        "name": "Archivos Forenses",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdwCQgDqoZnA6HafGrmTdhW5TRnP+MZz+9AlfI9ycn12LPPi+joy4TiIItZG7bulfhlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Humor",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdl+w87f2MkYhm5kQd8B6/Oq2K6sYzn3O+oBBnU8GlnL+CRrqxA+cXyLyJjEBAiCeNlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Cine Familia",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX1lEVpAR8RDB0L+7ZS55KCmlB2RkP1Yw3AymmiD1J6Z6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png"
-      },
-      {
-        "name": "Paramount+ Presenta",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdI5jpuTX4Cot8YjTKJrmeXOCzKIwKzptLAVvN6lPTQzZc7v6u4jM/MJmBWeYnRnY8lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png"
-      },
-      {
-        "name": " CSI: Miami",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NJPhwuTaD7rraHLCRL2myrEww0Jqp93BBgXZnBg/Pknylpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png"
-      },
-      {
-        "name": "NCIS",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NHsHAAQNu0Tuo/GQ3PtxZTbqUORJ7LCjaqXBGHj3+XAjlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Series",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps8rGVCIYD70xqzxItDx9hLhBzOs9EO6TgdJ7vvZtw3qwlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png"
-      },
-      {
-        "name": "The Night Shift",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdBnEfIV4frcv/NnrzJfXA1jUMbz8CBOPFZNLbQzstISmPAqz0/0GYQ9CL3ThK40mAlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png"
-      },
-      {
-        "name": "Teatrix",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdv+tF7Vjd0FoVQvRWAVEzGwpokpcEim8zrxWekoT1/iPoMeNCW83jqx1u72XGpU2mlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png"
-      },
-      {
-        "name": "Schitt's Creek",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdZ1m/fWU08SJsyy+Dx2nEjPksSqm1Uhkj3B6vW2sCku2axz764Gp/1YO7w1luggkllpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Peleas",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7VbuGdyJoia/7Yt34Qpvbj2n4M8oie+0Lti7r8zO3cCphmmEPd7RxI6bk/aawRVjlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"
-      },
-      {
-        "name": "Younger",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdSbkjxXWOlhqEjW6aYaxxj1+eOAcOR8t0G8lPvKFHez+oT7dSUkJhhg3A7tf0BN17lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png"
-      },
-      {
-        "name": " Pluto TV Dramas Coreanos",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdd5URdHshfbhLT4z/u9DZ5n+R19363DifW7NGvy7gyvjMiWkJ+YJAxtOM9hd7D7CRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png"
-      },
-      {
-        "name": "Vive Kanal D Drama",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdoZiWlNezckU4+LVxjW/dtakcdjtueh8F6SM3pEaYjHCehQ8g56vUhnc5gtqCwq8tlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Series Latinas",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMdyrnoFcFQpZ/5wY9FKanzBv8gsAL70c9wzPfEgCHFTMrRurJn3ns0ILIXjMydUKlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Series Retro",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdzWqwpZ3Y1tp1sUNkvKCtEdPM3pwpSzb/1C/ztyY+2UWDdPu24Bob2e7+/voqIJtLlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"
-      },
-      {
-        "name": "Los Ángeles de Charlie",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdgtKvXwQjI0nnWYVUu7/JhQOAmupt6DbIoXSpPhCU5qWkT93b0F31GTOKjdpB6Zpzlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png"
-      },
-      {
-        "name": "MacGyver",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NEyGrfwhinReAe3ltbLSO45iuEEHIjl/V7tG+jjsx3Y6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png"
-      },
-      {
-        "name": "Beverly Hills 90210",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NOM1jHWWzDk5GxrNGiSlpojfOZISo63Jdmf3W5eipPrslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png"
-      },
-      {
-        "name": " Loco Por Ti",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd5psE/ZpEttG7aEPQl5ny+by9RMzZeJsmROx00pVwF4F6zHs27A0EEkZSWXc2tfNslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png"
-      },
-      {
-        "name": "Los Tres Chiflados",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdI0Ff0Mh1TsztuJarJDLDWZ4GTciyXpWtBJ/EDq6Y95EVw8Vv3e7Le7Dujl0HFb7nlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Retro Cartoons",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd6OIJfaHz45tIExENBAOhvh0o1eT6TYL7Wl448cwAxBzEXWrqSsPZ+UQ42GFCUV5mlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV Novelas",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps1X1L/mWUp3FT7Q8xDCoVP8t3X8g2L8uUdtGfygZEtkOlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png"
-      },
-      {
-        "name": "Sin Tetas No Hay Paraíso",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMul24Ox/PgLt5jes4uOt4/9RoiYl9LQxzGFFSqXlL16QjqT50UhmAh/AEDeKHNe7lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png"
-      },
-      {
-        "name": "Pluto TV  Competencias",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX7G2GpbZVo7qju22JaVckD9RMgWY0WY58Mekinf9GT2Clpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png"
-      },
-      {
-        "name": "MasterChef",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdsvM4gm6mZWN8TDo6SoWcqONli8o/4MjkpNnu1GtSpH+H3/BUbOZfmYOmbu+Ric8Rlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
-        "icono": "https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png"
+    "name": "Descubriendo Pluto TV",
+    "icono": "https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0hiEQI0XMIrQMHQkRkNHYV9symRokWrcu6E0WbDZru/So5QiNsPoXzrLSU8JLh3Xlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Premiere",
+    "icono": "https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdO1HkS8D6jBxH0dNpthgFu6L7l83aZbAtW+B5k1S+L/7C4vHXEt6Vo1cZ4NoHGUmflpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine en Español",
+    "icono": "https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdO1HkS8D6jBxH0dNpthgFu9h8rT227ykJ65/K7FW7Ip3eSys2OhPJdt45bJP/kLJglpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Cine Clásico",
+    "icono": "https://images.pluto.tv/channels/64b9671cdac71b0008f371df/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd9JqOSw2IM7fl8ke7gbdCtHaHX3iEvrGWUPKLjjkAj1ihsZ2sKmMpOTKTaF6bZcgPlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pelis y Popcorn",
+    "icono": "https://images.pluto.tv/channels/60fb2f47c133270007327375/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdg8yM6m6wlshEHkn5pLEIh36pxOib66ahiUYOMEm3mBmN+wun4my7P0B4Eb9L4jUvlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Adrenalina",
+    "icono": "https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdkpVoVE1JcyHkrFfcimnZfsmWO89HHPSKdmZ2bMd+bB5KCr7Na4SK1X4NJsmMwzNMlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Cine Terror",
+    "icono": "https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdkpVoVE1JcyHkrFfcimnZfrEsFOoUVBR0M+jXjEHHxlAAe5NI9lbkz+uSvl/gteS1lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Estelar",
+    "icono": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3PsysELuXChsQ5RRLH3iYXl7J65GfczB+CiYpWtJ3yFFpJlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Acción",
+    "icono": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdwVETshefNBUxVV5TxFkcVczPRDFtSP5SsB4Wc6YGejsnh239p+EaJY9mncCLxYsRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Estrellas de Acción",
+    "icono": "https://images.pluto.tv/channels/5e972a21ad709d00074195ba/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDkV0oTb/1VvxGQfzpt+rZaIj/IPyAc8vWG0546ZI9fvwy7GrKuMex2vvFL/JOvFGlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Adrenalina Pura Tv",
+    "icono": "https://images.pluto.tv/channels/61b793ccf571b80007b7a610/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdfU/P4Ijs+YFMru7BJcpEIpKy0SiC8GqYaIah/1/pnibCqDrYmuwhrT6CJQPTa6yalpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Comedia",
+    "icono": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbsvTYnn6mNzRljI49C2ntr/0Ppr1x/LGc5FlA9GccT6jlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Drama",
+    "icono": "https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbsQi8rphQHmi0pbF6w9Z9FaT/C1kMWbGgQ6tSfqD3suslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Romance",
+    "icono": "https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQn0S3A41chO7fo4IibJYgLqUwAiQtmJificLThQ+jC2GoCFCnlDZlS27nJfWCbNQlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Suspenso",
+    "icono": "https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdpR/A1UmcrZApBy+ZYD+Z11pxnd/bp2D8BuPU3XBFdFxA2tajvfJVRy+X0xe7DtmOlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Crimen",
+    "icono": "https://images.pluto.tv/channels/624af40c004f8000079b784d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdAb6NutCgbYVJ+clPDrjgy+5GMdUt16Ck/vEpyRoGz1aTA6MtZPGyHNs9OGTH8pQ1lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Terror",
+    "icono": "https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbk/e+sqOfUS/oyycP/84QDKd+XxGqDF+Q+ZR87tXUcwSlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine ¡¡JaJa!!",
+    "icono": "https://images.pluto.tv/channels/5f513564e4622a0007c578c0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMW7YrCIgq6dlUKE5WTYM0rONzElhCruEauh/mKpcknNFrEjb20D2RXnBCamKpMl2lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Xoxo",
+    "icono": "https://images.pluto.tv/channels/5f5136317aedfb0007016f93/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMW7YrCIgq6dlUKE5WTYM0oztoVwATBpnULeBbMNAbhMmkpAGS3z727QHmtlNdsqzlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Sci-Fi",
+    "icono": "https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdfJmwTptTReksLEwC1RgAwtLwcNTFhrMKiAzQaTou0y6W7dN+W5J1BqWn+fgXXlzRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Runtime TV y Películas",
+    "icono": "https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdwX4NUI6TpBJ9JCCsAlXA/piGHDy46PPaoj3HxPiqT7mBQS8b8PfA++JEmz64rY8Dlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nuestro Cine",
+    "icono": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd1M6kJqnzZ1T1ZI+1d/nhKIyhipmXPTfgrW6Y8GRqAza7lvaUmi82SpD4IvW+kR1Blpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "A la Mexicana",
+    "icono": "https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdmanGMXw9n3X7LhpohnJLn35z2kcn6pV6QnS+ygbCbE8GHF+wfsD8S7KxSr4nQgnzlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Clásico",
+    "icono": "https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdjh40SBUm0lGGpPmoMBJd857XQfiTwxwq+CM5xfev9N2fEwpJesY8OGzTR1gIR75Ulpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cine Familia",
+    "icono": "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX1lEVpAR8RDB0L+7ZS55KCmlB2RkP1Yw3AymmiD1J6Z6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series de Crimen",
+    "icono": "https://images.pluto.tv/channels/655f62ff954b020008c91ec6/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQs3XutwCsM/9yLGODsNundtJqXo0x2AoPRmFwgFWJuF5fSLS7dH8Y3bamb3UFxPOlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "CSI: Miami",
+    "icono": "https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NJPhwuTaD7rraHLCRL2myrEww0Jqp93BBgXZnBg/Pknylpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "NCIS",
+    "icono": "https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NHsHAAQNu0Tuo/GQ3PtxZTbqUORJ7LCjaqXBGHj3+XAjlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Los Asesinatos de Midsomer",
+    "icono": "https://images.pluto.tv/channels/6764203df433320008836bc6/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd9240w+j5Af0S3DJyg3PpFoACGqcxGeTYUYcFgO3eXl1TJcKWC2W6pYCld9rjrRLRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series de Acción",
+    "icono": "https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdPeb4XZxfC03QcTo3zDIjqnKHh/4hBGJPwQmEZV7hiu9bHl1ArK8MTvMYQ3PF+YdXlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Rookie Blue",
+    "icono": "https://images.pluto.tv/channels/64ff270f30ab3300084e259c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdXgO8Xhmm8YrSbiRGNLR8fFYrrVjdSOSWT5cxRD4mUpokHAf1Lw2FRtBlQOlEMsnhlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Infierno sobre Ruedas",
+    "icono": "https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdXgO8Xhmm8YrSbiRGNLR8fLhhFpanhkMn0PxsePLPURtDH5Frx1FBULwjmj3kGJRmlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series de Sci-Fi",
+    "icono": "https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdKXtHQRHBPbp124CNFeNVVSiF1C00XxvkAoLx0wv2JXyDzub4iw88AaDgFyToWYeglpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Z Nation",
+    "icono": "https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdzNnBX/fPpctRt9RgzRj7AS44Pa0QdmNSRXC1uiKlfpqNDfVsDFe3GIZGOY5BPfNFlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series de Aventura",
+    "icono": "https://images.pluto.tv/channels/65662c1357fe4a00086b3eb1/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdKXtHQRHBPbp124CNFeNVVZL3SOw0MHJFNlU4V6yLby9w8UWRmv8IAKVaGcDdgdYElpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series",
+    "icono": "https://images.pluto.tv/channels/5dcde1317578340009b751d0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps8rGVCIYD70xqzxItDx9hLhBzOs9EO6TgdJ7vvZtw3qwlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series de Comedia",
+    "icono": "https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQs3XutwCsM/9yLGODsNunRtCf72OpG3/IGArPclTINYHDX8v+BcKYgYyBrszH515lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series de Drama",
+    "icono": "https://images.pluto.tv/channels/655f636d954b020008c93299/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQs3XutwCsM/9yLGODsNunaqzsCf07WDRdVMuHClmv/7X7RWC+fecrTZLGBToURnElpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Series con Ñ",
+    "icono": "https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAddXwAJo+68RIhXWuf/K/EQfBU3Njj1Gnr+IS0KrYTAV2zM5OXehX9gA46nzr5OXeKlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Tu Warner",
+    "icono": "https://images.pluto.tv/channels/6732497f3a61d400087a53b0/solidLogoPNG.png?worIdtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXlsp86G59A1MlLDdoxb202b1bUklnzK4sJY6Dgvw67l4tRLkf2mCcldl/ofMJamEzjm2bxXlL8Qh30D8uR22JZszGoAuZ9xa7OLhnnePJ0L28pMXgoZPeWkuIsDyUp6nQJxRo0hG55fIUUpzVwdO2pwnM7UvsfA8OsaVuspdYxyarVn4NDRVjeQ+LQ3CQuaRSUE9tPF6fJ3hoPgipkXo9oarMdWNjhavH408XarXXi2T95VDvIyDqGPSglzE87YQEAlkzlGr+GTz8ca3172rnqtzYsi9BKYRmQwHTNGk9IBo3totjUl+/2mnyyHyiBMqZJw/rlEXwA1MVkxHhcv148kPnoOz3a45CkABe0g6hwgptNycaUVZW6EHxUa8IgdZ15BO5SPZ3502OuMY+hojKJFEm5y86HCzpUtI/BjTU/PBMkCDCpLh7Gk2Inw0xuxk9FrXkHrEte+BXjM5s6GJXFCqg3+5M5ji8SXWU6Ha8Ek/JRt3GIB/i1F6uTAZktGHNw=="
+  },
+  {
+    "name": "Younger",
+    "icono": "https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdSbkjxXWOlhqEjW6aYaxxj1+eOAcOR8t0G8lPvKFHez+oT7dSUkJhhg3A7tf0BN17lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Dramas Coreanos",
+    "icono": "https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdd5URdHshfbhLT4z/u9DZ5n+R19363DifW7NGvy7gyvjMiWkJ+YJAxtOM9hd7D7CRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Vive Kanal D Drama",
+    "icono": "https://images.pluto.tv/channels/639751f81a36b400072b8f5a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdoZiWlNezckU4+LVxjW/dtakcdjtueh8F6SM3pEaYjHCehQ8g56vUhnc5gtqCwq8tlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series Latinas",
+    "icono": "https://images.pluto.tv/channels/5dd837642c6e9300098ad484/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMdyrnoFcFQpZ/5wY9FKanzBv8gsAL70c9wzPfEgCHFTMrRurJn3ns0ILIXjMydUKlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Al Fondo Hay Sitio",
+    "icono": "https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7JVbKecKsGNXgzFjPl4X6lgI/ZioUaJnjsh/ttnfhQ/EDAoJ0mAdAtBWlui0JFOclpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Series Retro",
+    "icono": "https://images.pluto.tv/channels/5de802659167b10009e7deba/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdzWqwpZ3Y1tp1sUNkvKCtEdPM3pwpSzb/1C/ztyY+2UWDdPu24Bob2e7+/voqIJtLlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Hechizada",
+    "icono": "https://images.pluto.tv/channels/631fb6be21b7440007b9f606/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMqMzi2QciKhp75kL5UV3ncP7O0/qV3wvxuclo03qRTPbYViRoRTRGps+0uXsBFPblpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MacGyver",
+    "icono": "https://images.pluto.tv/channels/63eb95baa99571000898a078/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDniKA+axwJQWxhPjL4t+NEyGrfwhinReAe3ltbLSO45iuEEHIjl/V7tG+jjsx3Y6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Baywatch",
+    "icono": "https://images.pluto.tv/channels/66a26a7846762a0008258d4e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdWafaNHXuL/X9JBlM3FJLavP3NDnaKNyywY5BX48w65hbXg21HoUNm2pNCInbtXhAlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Los Tres Chiflados",
+    "icono": "https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdI0Ff0Mh1TsztuJarJDLDWZ4GTciyXpWtBJ/EDq6Y95EVw8Vv3e7Le7Dujl0HFb7nlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Popeye",
+    "icono": "https://images.pluto.tv/channels/677d93afe650a700081e5f18/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd6XHH5TKwIGTDQr81gHYzCftIGO1xwPg8qU7KrumGqFKq8KTBx/e4X7tj3s/U9Et/lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Retro Cartoons",
+    "icono": "https://images.pluto.tv/channels/60142258a54aeb0007751c15/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd6OIJfaHz45tIExENBAOhvh0o1eT6TYL7Wl448cwAxBzEXWrqSsPZ+UQ42GFCUV5mlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Novelas",
+    "icono": "https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps1X1L/mWUp3FT7Q8xDCoVP8t3X8g2L8uUdtGfygZEtkOlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Novelas",
+    "icono": "https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdO1HkS8D6jBxH0dNpthgFu/a4THSa321zurZR8+HjPK6k0OeGMkoijnDtlPPeVvrulpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Novelas con la Abuela",
+    "icono": "https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdKiA31FhC8YIFJhgBuebFdMp2xrlMKwSyYOYxddVTFwQ0KSsQnzyxwSs59h9MXLMwlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Amantes del Romance",
+    "icono": "https://images.pluto.tv/channels/5e84db2db3851800077c871e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdKiA31FhC8YIFJhgBuebFdNC7fXr9BA7+hx2p2z3J+7rh3yAqByOP6AS7uxiiFGSolpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Corazón Turco",
+    "icono": "https://images.pluto.tv/channels/61b3e21d56fee300087e4cba/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdWvIvv6NIVeB1IlgOL3RpdouIKW2M4kDsmKzyuCmWWVbY4HxrIfDVD+U4uHiigsVylpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Novelas México",
+    "icono": "https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7blEqZ/1r0fGYiWry7+Q5ru23VaLhbcZTEdVCBoKyIn/KuVkYQzZJit2gRPvqPXllpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Corazón",
+    "icono": "https://images.pluto.tv/channels/646ccdd0939a5900088a1980/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdXN2AwqOOJt0TnJpYVq0FT6TwWva3jASzqur6xQz9Ut6NuNM5Lv0qENmgLLUvW1mDlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Novelas Colombia",
+    "icono": "https://images.pluto.tv/channels/6474a7e7f77b6100080a89e7/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7blEqZ/1r0fGYiWry7+Q5maWoUquzLxMdBNsEG5PBu2WFj4FWr4XTe8SzPJoaNUJlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Sin Tetas No Hay Paraíso",
+    "icono": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMul24Ox/PgLt5jes4uOt4/9RoiYl9LQxzGFFSqXlL16QjqT50UhmAh/AEDeKHNe7lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "La Selección",
+    "icono": "https://images.pluto.tv/channels/63211ba9cad976000794f988/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd9WRyzdtLyjOLYylJQ79VjDMD65hT8GJwucxSb6PlXTqlYW2asJWVC3xBMcc9XtPJlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Novelas Venezuela",
+    "icono": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7blEqZ/1r0fGYiWry7+Q5pLi1po0Adn88CUnT+JCg+l0oKXzHPQoc8aHOWKZ/x4flpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Reality",
+    "icono": "https://images.pluto.tv/channels/5dcde197f6591d0009839e04/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps8nFldAE5Ks6fXKyju0/qkcYbTAlzq9qnGBkH094GpGSlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Drag",
+    "icono": "https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdPR5sKaRwYJzb7Wd4RGEiKGBykABJkVhFtuHmwIQqnqjj3JvK/PNi/DLGU2k0aVZYlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Acapulco Shore",
+    "icono": "https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdj8+/4tdaUKdjMQNj1W6ufmpSnBPOW7RuLsupu+qk9fK5LowEhfc/5E1e6in4IdjGlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Pluto TV",
+    "icono": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAddV32D/i8kl2lOvjmNGHPeoHH2WHNyrkO9VCZZpuLZ4zmTBdvtJYGaXhYaqzsrYsIlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Reality",
+    "icono": "https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdu028fEXeIw48ORpB5HkA+EerMdhoIbjnrJho5wTnoaiYpUDMKaqgcKYknWlsCW2clpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Shore",
+    "icono": "https://images.pluto.tv/channels/61a52615cbef2500072876e2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdsD1KEnZlfjYSc5WidATO0UcHxWOU7wTZa5+aEDzoTsnlMHft697hmY8Wt4JC0yailpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Con Mi Ex",
+    "icono": "https://images.pluto.tv/channels/638693db857364000781b471/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdR9b0IVogfzd/t7EITR+JKru58eLq1elLolrDVCb0b4avd++FkDIOIEb1Vor5fmF7lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Ridiculousness",
+    "icono": "https://images.pluto.tv/channels/5e98a911c881310007d7aae2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAddf5ejiL5yaM8nLv7DqPBCXXEsGtJrU9DtshtBiBTy5zCBIh1I16m0fTKp+RlTrO3lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Teen Mom",
+    "icono": "https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMx9TD/5hYrin+TLduEBacjVu9Rs6v8WTXFmlgGmPOReUXD68pcKK6yFduG5SGsFolpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Catfish",
+    "icono": "https://images.pluto.tv/channels/625461ef01f27a0007976ad1/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQghZlAreqVgzLAxKGZbxAgKn4+mvsTMh+b3gKxhp831uBkWWQq2zW4XtpYIM58z7lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Competencias",
+    "icono": "https://images.pluto.tv/channels/5dd6d935d000120009bc1132/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX7G2GpbZVo7qju22JaVckD9RMgWY0WY58Mekinf9GT2Clpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Iron Chef",
+    "icono": "https://images.pluto.tv/channels/615b9855c6b58b000724477f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdpN+4ZnwcoPE5SwKHieO1cFlrh5FYTwxPZ6iRQ1mEvV4uBYJdZWllgW6Si9cBOENblpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MasterChef",
+    "icono": "https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdsvM4gm6mZWN8TDo6SoWcqONli8o/4MjkpNnu1GtSpH+H3/BUbOZfmYOmbu+Ric8Rlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MasterChef Junior",
+    "icono": "https://images.pluto.tv/channels/64bed7005dc16600089b84e9/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdLZYG2mZ7/EXCcWNP7Wj1s749SEiuzpmgmZGIU6o6QNPFICXlVZgrx++a7Sfmm4Nilpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Hells Kitchen",
+    "icono": "https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdXdNaPQXBw+3z72WpqvdkEVtAKaFyWx88CgWZl2FNV5TLPRXvkjefHVaVirO/xSfilpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Foodies",
+    "icono": "https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdFzfd324Gri/ynusi2IiaLvlkrKwUpaKH9DPD/qbW+ybA4gHEZhYxahrUPsOx8tdZlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Minuto Para Ganar",
+    "icono": "https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd1eaUSch6DfvomXVFBenp909eosFhvmz6CGy67gKxdp3zFx2N62dNl4ovAxmIpdIAlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Boom",
+    "icono": "https://images.pluto.tv/channels/6099600015e88c0007ecda25/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd02iUC2sZJyWKY9ZCshLa9hOn+sNz07rgbIhevt1KZ6H9kjuF3it+SpwH1qLHFSeRlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Wipe Out",
+    "icono": "https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdpGWEjJ0z9NrM0lqAPOHLw4J894pmuu/tWNIDthLghokOP0//0l+ecPXYzN12IMaelpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Desafío Super Humanos",
+    "icono": "https://images.pluto.tv/channels/6495af324c014a000842e923/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvdNB9iq1opkzz/fD75RXZepI3hkgV0CywjODNXKjneb/5ujYF6+IfNL7bhgRkfb4lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Naturaleza",
+    "icono": "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdS6zo6TfSiugwWrsew/X0YfIiiNQGGWySLuMmRjNkv0ixd7ygi7oK0HL2Z7vn/D2tlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Paisajes por Stingray",
+    "icono": "https://images.pluto.tv/channels/5f4fed840a2764000720d966/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdfdB3UxS0Ob1qCNweOOulFGQ9TpeX3n35kQtPgjnMxk3yT1GLSubSrG2EXnOrdwlHlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Animales",
+    "icono": "https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMdyrnoFcFQpZ/5wY9FKan+GHAUPQca3OA+rpKBO9M9M0/hyhySUymvzCgcejjBPUlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "El Encantador de Perros",
+    "icono": "https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd5PQlF/2BwrD6KIcL2szV0444P0XrGVKNwSrw7UiAButIz4jAhGnoyG647SUAwu3Qlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Aventura",
+    "icono": "https://images.pluto.tv/channels/5ddc266f80e3550009136843/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7rfT+yhco3L+WanhT8eI+/5ZomLSmgaY/lWyI6Vf67MMU8shvWkoa9uJBktZA+uqlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Ice Pilots",
+    "icono": "https://images.pluto.tv/channels/62154548a2be360007cb02f0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdUvUbsCKJC/+njt4dEXcLc9VsIbiA0cDpow1mzntdc1JRkpzExt6BkIzgA57wrRlflpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Velocidad",
+    "icono": "https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX6inERnGjP+98fLd5FneSppH89giTFkCL1F0fIdFhf2Blpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Obsesión por los Autos",
+    "icono": "https://images.pluto.tv/channels/64025592953da40008bf9238/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdCmgaLaO7TNdJdHidL3tUeD2JuCjyRjqqpBVHezvFHkZFbR3ndeYJGRK5P4nTybiNlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Mi Coche Clasico",
+    "icono": "https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAditpGoRJVFraXy/wwYSodWBPkxAl2/J9ETWzvV/pUDCodQVl+HdX8F3JYNtCy9k4Rlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Motorvision TV",
+    "icono": "https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdxMsH+uK9U2ZWx4O4RtYwJTk2f954sYrKq+4kIAsYz7K1auRf1u2myGupu7vPdm4Zlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Vida Real",
+    "icono": "https://images.pluto.tv/channels/5df265697ec3510009df1ef0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdER2O7zxGXbkYWWJJpOj8WtwCjuyHqD7BVRg2cW6bA84Kgm5EQ0bMwORNzxSr0XlZlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Mundo Viajero",
+    "icono": "https://images.pluto.tv/channels/60511efd71ec430007f50d97/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdxvKPPqZ5jU6/ThQDY7Q+HYySML5XQQbXA/mjdi3+FNN2kxt3dhOyjU9fhR7rmt01lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Vidas Extremas de Warner TV",
+    "icono": "https://images.pluto.tv/channels/673249afc7626f0008c7205d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXmKcYWl0YWv1G9RZ6ic6FcRW8cLyKSRXu1BoGqgesrqzlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Construcciones Asombrosas de Warner TV",
+    "icono": "https://images.pluto.tv/channels/673249433a61d400087a51ed/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXr0tN8Br8oXLgfPjZXf0AmqF0waPkg2202+uJ2O7kah4lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Mundo Geek",
+    "icono": "https://images.pluto.tv/channels/6051201a0aa8a70007c24a2a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdlBPyi7hlfydnclez2Ch5eaxUJ5tSeupaXXpQjKlXgbcAbOLvgalZKKi2qrmj4brGlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Tu Discovery",
+    "icono": "https://images.pluto.tv/channels/673249ccc7626f0008c72076/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXqCsM6wU2K3OfP05Dumcuob8R9oaUC0kul6M+v+A1+87tRLkf2mCcldl/ofMJamEzjm2bxXlL8Qh30D8uR22JZszGoAuZ9xa7OLhnnePJ0L28pMXgoZPeWkuIsDyUp6nQJxRo0hG55fIUUpzVwdO2pwnM7UvsfA8OsaVuspdYxyarVn4NDRVjeQ+LQ3CQuaRSUE9tPF6fJ3hoPgipkXo9oarMdWNjhavH408XarXXi2T95VDvIyDqGPSglzE87YQEAlkzlGr+GTz8ca3172rnqtzYsi9BKYRmQwHTNGk9IBo3totjUl+/2mnyyHyiBMqZJw/rlEXwA1MVkxHhcv148kPnoOz3a45CkABe0g6hwgptNycaUVZW6EHxUa8IgdZ15BO5SPZ3502OuMY+hojKJFEm5y86HCzpUtI/BjTU/PBMkCDCpLh7Gk2Inw0xuxk9FrXkHrEte+BXjM5s6GJXFCqg3+5M5ji8SXWU6Ha8Ek/JRt3GIB/i1F6uTAZktGHNw=="
+  },
+  {
+    "name": "Spike ¡Extremo!",
+    "icono": "https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdkpVoVE1JcyHkrFfcimnZfkBTJYAOV3g3vD450Qkn5+4Tk4xzHAxvnA+VbzCG8K0ilpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "COPS",
+    "icono": "https://images.pluto.tv/channels/6419ab7c9189ce000865a469/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdTlOQ/gTSavVoOFSBnC9kSesT1FnsgjcFZ/quOWTlWlklYB/bauuP3MHseEHO0AxJlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Dog el Cazarrecompensas",
+    "icono": "https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdoHkyxeZmH/iuOVDI8R6ZDzy5yD0D/26vDgLlGFGVMewQepITZMAoXsz2g5OxLgHhlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Empeños a lo bestia",
+    "icono": "https://images.pluto.tv/channels/5f23102d5e239d00074b092a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd5bAchks1N+HnkNvUQ5NjGLwx3c9M6oIogRtNdm5MgUZpzxKsj5I6glGSMjGgjN1elpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Mi Obsesión Favorita",
+    "icono": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdKw4Fzoop8Ph6W+iJGEs1MZGrr79N7SO2RYoig5eP6pifq9SKczyD8HcmVrtyofLGlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Sala de Emergencias: Historias Inéditas",
+    "icono": "https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdpBV8zVufNsOmoReaEmUDDzga4u+De0D5mnH6nMheyplWtbVhrZbOBgxYJLxPo5IUlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Misterios Médicos",
+    "icono": "https://images.pluto.tv/channels/5f230e416b68ff00075b0139/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdGk9MWo3shF94djuy6qegpavNU/Uy5Srk2dB2VXi0h34tFZDPgkbfw+w3XRxSUnOVlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Misterios",
+    "icono": "https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps1/OZzkCfNcu80YhTuwui/xlTeMw1D+tLKn5tAuVe8V+lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Historias de Ultratumba",
+    "icono": "https://images.pluto.tv/channels/5f4d3696d938c900072679fd/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDpRrgYqIkcUkp8PjNlSu0y1beGW39UG758IemKNDDPqBys18BUkJ31oVCD8ERC/Mlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Archivos Extraterrestres",
+    "icono": "https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdYqtW0TLWvi0vy+GEVryzc9FrvkCzXwEertEJwq0ucCzJmTXlhZS/Ker8LRcjVD1blpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Smithsonian Channel",
+    "icono": "https://images.pluto.tv/channels/63a084934734f30007457b2c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdG6QY3YsaJRvnRICZ32gdLxLJKcmXgAmcurg1fpeOSXErAxNg4gxEO8ClHP3csU5xlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Historia",
+    "icono": "https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdv/BVG5j/kaSuFrHl1H59v2T4yKN5MY+erd0WLOWpnkiPJ7byrbKmkvrzU+1xO1DTlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Ciencia",
+    "icono": "https://images.pluto.tv/channels/5dd8364ea1d6780009929902/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMdyrnoFcFQpZ/5wY9FKanxI8IVrFyptYoiKOfYv0GyQ/ZNT3fkUoekx/8zv12FVtlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Investiga",
+    "icono": "https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps5mHSLBiqZtWbV+5gj7yChtD0TB2ef2XGNJWYJIkLhQBlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Pluto Investiga",
+    "icono": "https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdO1HkS8D6jBxH0dNpthgFu345t9LHNmSkrkOeNpU3+v8AlQONQh1itf2HgMkiqckKlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cazador de Homicidas",
+    "icono": "https://images.pluto.tv/channels/6109a9f5531b840007a4a187/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdKw4Fzoop8Ph6W+iJGEs1MdhIss6VzlXxzxwlv3zKrgXZnImaNqj0O/Ajax6ROetIlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Los archivos del FBI",
+    "icono": "https://images.pluto.tv/channels/5e67d41b93312100076f3fca/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdb5mwg1193RfIzPB5ezZddeQkdXP49qBY5WN9Edh4z08xoxQkxbtBcsnm9BcZ/2iElpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Archivos Forenses",
+    "icono": "https://images.pluto.tv/channels/5efb8c19b2678b000780d032/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdwCQgDqoZnA6HafGrmTdhW5TRnP+MZz+9AlfI9ycn12LPPi+joy4TiIItZG7bulfhlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "The New Detectives",
+    "icono": "https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdV/pDgJHKvC8ePp3ZiaBDhXTY2s7aId+b8ukGOFTfhjr9giRfDp7FaspZnlyFIM8Rlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Expedientes Sobrenaturales de Warner TV",
+    "icono": "https://images.pluto.tv/channels/6732495dc7626f0008c71e7d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXumHnaKNZZU0HtIecZcaoKNcqbX/ABgmWg9ZDT0/Q3S6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Crimen de Warner TV",
+    "icono": "https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXg7S7wlnuFJJE3HvAbqDKaiwwkm6WX09+4rLQu1OoxP6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Crímenes Imperfectos",
+    "icono": "https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdpP00mEnWWtOXlMU4L8gMiH6k02E1h/GT4QwYyl/3C0nt7D0H2FbOQP+y/5irv6dTlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Misterios sin Resolver",
+    "icono": "https://images.pluto.tv/channels/5f610042272f68000867685b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdSMvcr3631Kc2G+/JCv9glgRBUK5Urjwy6zw1MKAYwh3oBHxwBJyRUFCAeLxMptZxlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "CNN Xpress",
+    "icono": "https://images.pluto.tv/channels/673248f9030a2c0008033af8/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXhBYdh+H+vBLVxzdPh0K6r90QLjs/8za+QGD34qfQd7rlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "CBS News",
+    "icono": "https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdoIs2aOZKYsB7FZ4Yf7y5tIQGda7FABUAj1tJJkBy6tafbme3iFHhV9nc1zId9lRZlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Euronews Español",
+    "icono": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdSbkjxXWOlhqEjW6aYaxxjzTr3aqaKn37ygxjDOdKW9Md97qNn4LCGwDZm8zRLBMslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "TeleFórmula",
+    "icono": "https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdcqy651wKr8U20MxEvXdNtwqE7r+8kZYcuqFdCt39H6xPIpafmmzg38lYwBXm0yV4lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Claro Sports MX en Vivo",
+    "icono": "https://images.pluto.tv/channels/6320d2755e54db000783fd87/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd5LEj+vlg5d9F0WTizpE55ViOhHa/WsQDY/rV1LrMegVkhSj1M+6z0ODp7mqm4t+6lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "TV Azteca Deportes Network",
+    "icono": "https://images.pluto.tv/channels/6582f002a620e3000813b329/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdjfPp7jZSzObmR5Ra1i50RtsUVkAI17Q6ptVeDeqVowSCXOSMZlP9wNUAdVldJ8w/lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Deportes",
+    "icono": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps7rbA19nzpTwwHzDwwnxscK21oax0dcz3iFfF4YKwKhWlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "ITV Deportes",
+    "icono": "https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdZm187BblEMgrxd2Ye8Wi8y9GxHusv0n2UbAXq5VV+ex7E3UzpniWgJN98KAJtL1Vlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "FUEL TV",
+    "icono": "https://images.pluto.tv/channels/6144d313b34fbf0007107714/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdWpyEi5c1zR3xh6YFQpzDrCgK5QS8VHDC7mBBYes0sFrFsLzwdVcpdgn4cqI+obCElpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Peleas",
+    "icono": "https://images.pluto.tv/channels/5e98b0447665f200078caded/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd7VbuGdyJoia/7Yt34Qpvbj2n4M8oie+0Lti7r8zO3cCphmmEPd7RxI6bk/aawRVjlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Lucha Libre AAA",
+    "icono": "https://images.pluto.tv/channels/5f99a772c54853000797bf18/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdtV+vgd3MzqjwSbY+Qo1FiZieyr4DoKJ0MhiCyp60fUKq8KTBx/e4X7tj3s/U9Et/lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "DAZN Combat",
+    "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdM5VFY0pySloyglWd4U6s925hP6Coi/BhLkr1yuMJAAEpyD7XYzn5GprCl3+aw3sPlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "PFL",
+    "icono": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdjQIeCoHgQNfw9Nnxyuje0Yi75SqqSLFUKEToqGkZGRbNh6NsW7EiKj/xNwDth6Julpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MLB",
+    "icono": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdGhWnw+9H+k3O4c8GHuNlcVUOjQ16Rdyh389f9uOIpSjYpoHg9WoJwgkTnZ+7VYtetRLkf2mCcldl/ofMJamEzjm2bxXlL8Qh30D8uR22JZszGoAuZ9xa7OLhnnePJ0L28pMXgoZPeWkuIsDyUp6nQJxRo0hG55fIUUpzVwdO2pwnM7UvsfA8OsaVuspdYxyarVn4NDRVjeQ+LQ3CQuaRSUE9tPF6fJ3hoPgipkXo9oarMdWNjhavH408XarXXi2T95VDvIyDqGPSglzE87YQEAlkzlGr+GTz8ca3172rnqtzYsi9BKYRmQwHTNGk9IBo3totjUl+/2mnyyHyiBMqZJw/rlEXwA1MVkxHhcv148kPnoOz3a45CkABe0g6hwgptNycaUVZW6EHxUa8IgdZ15BO5SPZ3502OuMY+hojKJFEm5y86HCzpUtI/BjTU/PBMkCDCpLh7Gk2Inw0xuxk9FrXkHrEte+BXjM5s6GJXFCqg3+5M5ji8SXWU6Ha8Ek/JRt3GIB/i1F6uTAZktGHNw=="
+  },
+  {
+    "name": "UFC",
+    "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdYYHwojly9Crp+yLpW6Mtaqzaba2MX/kZdlSR0k7m96dzNVzfikohuyhZydz7Ia/Blpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "FIFA+ ",
+    "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdegNsFvQRpjAZ1eKambdVuyQwB1av0kCBeg5p4xwQ24doLnKRsELiHZTUwfnWbOMdlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MODUS Super Series",
+    "icono": "https://images.pluto.tv/channels/673b4d992fb8a1000844292e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdylQKvhceSueXjCnraHblNsglfyAI+yp1ARTQpNwHwrGfQK2nFSSN3a4bj6FS8CSDlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Comedy Central South Park",
+    "icono": "https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd+Iixm/Sk+P+XUPwi3pTqytGLEYNHp5eOBCCJifC49DbA6amqiJU0xZO5poIvqR+elpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Daria",
+    "icono": "https://images.pluto.tv/channels/62d0895ebe7a970008785244/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd08CHbfz/19ByxouLZc0S//IYroaxkzWtwMept/qcpLR2VNbJEpCLjZEObNNIS8lclpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "La Familia del Barrio",
+    "icono": "https://images.pluto.tv/channels/62d08af527ce19000731eaa0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd08CHbfz/19ByxouLZc0S//opWHGo9f1gAfSclgYIVSC8SbhGLsS3WnDmp2wute8Glpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Humor",
+    "icono": "https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdl+w87f2MkYhm5kQd8B6/Oq2K6sYzn3O+oBBnU8GlnL+CRrqxA+cXyLyJjEBAiCeNlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Comedy Central",
+    "icono": "https://images.pluto.tv/channels/5ffcc21a432945000762d06b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4HdCYL7K0CdZ3CxPqNG/2Aejr/5dZgGZMUGPmWnL7ukUw8v+BV+FslCszNHK1zPhlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "FailArmy",
+    "icono": "https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdFzotU865NWcQFvMxQ6n4kc7Ke+HHIJlUkpVDKW3QMFSwOb0JzYg0xZT7wvd8TBCElpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "The Pet Collective",
+    "icono": "https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdFzotU865NWcQFvMxQ6n4kVi9avGjPnoZFmtc+N1JE/u9DPvcxorcibnkBm5qmxS+lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Casos de la Dra. Polo",
+    "icono": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdrFPJWQ657Mpvqx/RgVzH+gK1aOA6cMpEyLzAzhC97rSnrbX1sVNnKWyBWMaHo9Ollpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nosey Escándalos",
+    "icono": "https://images.pluto.tv/channels/5f9afb01816137000737f799/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdOjBkkrb9l4rTlc7Qsnda2dy2dEwYQsxWvXSDwiQCw5Aua7/5tyjMjOEDG6CpGRx+lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Bodas+ de Warner TV",
+    "icono": "https://images.pluto.tv/channels/673249215534bb0008c8a012/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdNy6HeC5Y2TgdBaqUAy0oXgTdpGChi+lZ2OgscXwI2/yswb/YLcPkgGe3HqJBPfYclpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Telefe Hits",
+    "icono": "https://images.pluto.tv/channels/5de91cf02fc07c0009910465/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdu028fEXeIw48ORpB5HkA+DygWyrdLh+YgMjfB064yqRUWIi0RHWg6VlQXYoEg/1clpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Chilevision Contigo",
+    "icono": "https://images.pluto.tv/channels/62aa5740a47b6c000769f407/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4y/0TgqqDZMKo3sL6uOFgqwC4L/OmJvqMWrt3NpOZn87iaHLwRAkH/j3n1l1rVbIlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Viajes",
+    "icono": "https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvcAT2zGsfpcEtoaXgmWtbmQCxmFyFEs1AMznSy2Ph2BzrVdJx0DSVoeNwYwszlqklpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Hogar",
+    "icono": "https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdl+Gz0CXO3jdK4W1rIgAykiOe5nn9XkLNkDC27JPF+oa9Z0N4Gjv5TBKZwaPlsUBAlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Homeful en Español",
+    "icono": "https://images.pluto.tv/channels/64fb1f6e6625510008c00848/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdnaZMT11OlM/+EWoc0LCM5oKYvd3ifUok37fpMnRGEX23bkWY7XV2CJs2s9zSddiplpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Cocina",
+    "icono": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Pswjl6nusVfM0vzhSqSQyrAXdFbqXPq+d+5EFnBMhEPNQlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Recetas",
+    "icono": "https://images.pluto.tv/channels/609062295c2b8f0007199e7a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdmtVPDgVweb8YZ+HZIVFG5QHyVPkl1OB3V4vOoX5dSkM249abBDdVOanR48SvXAiMlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Tastemade",
+    "icono": "https://images.pluto.tv/channels/5f998c1fc54853000797bacd/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdPP4MkcSpRKBLP+O4n1eD4i7qEW7HEAgk2ZxIvZCPG/ddC6JFwPXmcYORWoQgAv6Hlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Anime",
+    "icono": "https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3Ps0JbGPGfstv5iv+g58hjAgNTDzJbvSd2yoDew8HAI6wtlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Animé Acción",
+    "icono": "https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdI9IXbwjejg/L2boB09i73+hBMAQME3ToJfDolLfpxQxOJNIIQFOyx/OALjORQ+2vlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Naruto",
+    "icono": "https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4Qn5Sp3PH7pIG3em5lbmwnkzTz3l6DN8avq9FQXkE5th6sqDqssyamL5Sp2sdlGwlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Naruto Shippuden",
+    "icono": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdCnefbTVggAwbx20TObxW/0xDT0VZI3H97p1TnJ9lCL8bd2eVUKay++NEehjQ1fJulpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Death Note",
+    "icono": "https://images.pluto.tv/channels/626c2ed933a2890007e91422/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdngteOKVvVaiEqmc9Kxn2Oxuoh2nroKePrlZ5YZRKaFTdFbqXPq+d+5EFnBMhEPNQlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Yu-Gi-Oh",
+    "icono": "https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd+uoqPm/ZzvmUKctqMBsLbOdsilfPLT7XgYZTTPt5DCAihWA+hLP29V0V8zWLyZ0blpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Captain Tsubasa",
+    "icono": "https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdBVWh/1reaGwkS6XJ8mbXJKxknMUyfhgrnNcV0LVclW802BHCWpDfW7j6yUWoZoF7lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Beyblade",
+    "icono": "https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd9WRyzdtLyjOLYylJQ79VjFysP9f6s4H5Nx1UPxoyFDVG/j2GNecvxKRc2cqhhBV8lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "One Piece",
+    "icono": "https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdMWDh7zdYMzCuBJB/HUG22mHh/6Zc5Zhd2QGyBwVMM0Lo3yYVx24jAFZVP/Y1gPD9lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Tokusato",
+    "icono": "https://images.pluto.tv/channels/5ff608e60e2996000768c366/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdP2sy/+cuD9vUq20VDVJnVzEuFzGTXfWmLEvfFMuHWalHQTyq/t9f24CqFEbMJjhclpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "E-Sports",
+    "icono": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd2RfItVrWD4lRbqHhqJ1ioRxc0QF8hun/RYWuSV6LQURWsBooK6haAoIr9lEJnbj7lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "ESR 24/7",
+    "icono": "https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd8eQqnRR/JxdsV1b2S54PIDf6KjWvHgJ7Ir9OXyJiCbwVrolTsVZzDiJd5fWTy0YUlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nick Teen",
+    "icono": "https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAddV32D/i8kl2lOvjmNGHPesxZSeSARnY6ljaUNl3AwN41K6in6KnTnK3yoO2dRZg5lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nickelodeon iCarly",
+    "icono": "https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdQlJngz+pRpC7eoylG/qcTRt5LNJr9peK9c0AnDUtTQ2NLr6HD3YMzPFksuNte4bNlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Kenan y Kel",
+    "icono": "https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd+uoqPm/ZzvmUKctqMBsLbEhrfeFq7IlT59utC+j7n2BhoPr/oqRVAOzf54jzQ1Wslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Teen",
+    "icono": "https://images.pluto.tv/channels/5dd6de52b9914200091f047a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX/+jLGe2X0uaRnClBp1meuk9nVlLTNc2GOOdGH2kBf1Clpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "PAW Patrol Patrulla de Cachorros",
+    "icono": "https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdN6cvjMT1uC/86On7dw58I8jyAcAMeJuW1u7EKd3xfwrL8kBngvccRSUX5Wyp6Sb4lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nick Jr. Club",
+    "icono": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdqPwJ1V4/GhRFtjf4ivUse4U+m8m6fx48t1iuxjIyXuwTJ69CO5NUEGvE8M4SxT/4lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Las Pistas de Blue",
+    "icono": "https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdoHkyxeZmH/iuOVDI8R6ZD5qTGlsjPVyTrOsqNEKbaZ8evuvxgJuIjNfoBjJZo17olpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Baby Shark TV",
+    "icono": "https://images.pluto.tv/channels/619d5e6a093e7c0007489211/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdSbkjxXWOlhqEjW6aYaxxj3vVxYCgT5wnAPwlQBGk7ib7CDf8os/dYSdX4DQ/jHA3lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Babyfirst",
+    "icono": "https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdFzotU865NWcQFvMxQ6n4kVktdq5ucIFfEmuh3wqcvIXpHqvqGw3C05b1+wt7Cynllpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Junior",
+    "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd4TUTmRrd84DLt3wERe3PsxwOgocLgFJgmESrLyWR5coniyIIvAF3VE/zlel3oT2Glpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Barney",
+    "icono": "https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd+qIg2YkuxmCFpO2GdjeUSM80XHsoJr55ryywwTJ/IUhcVVo9ijs7oIEZ0lkIuPp1lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Babar",
+    "icono": "https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdupKynzmZFBH83QLCaxXns71ZLgLpg5jO2xP7CTX1dXgcpAhT0CG6Qp8xOPQjJTCslpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "El Reino Infantil",
+    "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDpRrgYqIkcUkp8PjNlSu07E2iMlegtY+a9SR2ALchFm8Vp6L2uN123z/V4Tp9M22lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nickelodeon Clásico",
+    "icono": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdqPwJ1V4/GhRFtjf4ivUse476ItmTX4UddXaf7gFlcxdRYang7PhaJx5Fd/t1s+b4lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Rugrats",
+    "icono": "https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdLY0bqs1BA0UAvPuqh2dhWHkck3XKbfVyW98a/yQ/fOul5bQV370MvilM3YurDv2ilpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nickelodeon Rocket Power",
+    "icono": "https://images.pluto.tv/channels/6202ab549654c800076ee13f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd9pKBX9YY52NYbM3LX4cTrnsllX4wEtHlB7c0lgyt3TJYSqLnNlb8rcfp9iSFk/0qlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Nickelodeon",
+    "icono": "https://images.pluto.tv/channels/645952687cb4b100084ed52e/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdFrXFmj1PjBqaAR7C9bldU5I+dWFFdS20RXVop4W/SlqOoiWxS+osVIpCJiNYFpZolpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Bob Esponja Pantalones Cuadrados",
+    "icono": "https://images.pluto.tv/channels/6254598f5083f800076d8563/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdZnX/xxfAoPkLBNwT6jjWGfP9GrQofE/2iaVfupyrWQsJaus71zwQDEXYceV2PfHNlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Los Padrinos Mágicos",
+    "icono": "https://images.pluto.tv/channels/6322099c822bbc00074857db/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdyjkBJeHqYGnVk4yCWn49fhueyelgizFXDIU0+LeqZ+Eb50qOjGMGUhHAG3RSputNlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Las Tortugas Ninja",
+    "icono": "https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdrEjXJWXHp1FNHwwoDqXgO32E9MVpPhW1aVNU2CfTPTERVeT3JgsXhMjISMHLHkfIlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Kids",
+    "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAd0BxQn4VVKmISLezXk0HeX92OvNZXinPF4MJyn3KaG5bqUORJ7LCjaqXBGHj3+XAjlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Anime Kids",
+    "icono": "https://images.pluto.tv/channels/636e83511fa9600007e5ae19/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdsoekEBeXBRiyEEpEaTDJaGJ16NvT9JROYNYKFKONiKGfqbnXsEG+3NywMcbjYCLPlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Biggest Pop",
+    "icono": "https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDAFRs2WbBNdNu90XQkgvrgUUDhn+8eRo9aQi9HZGN6/h/59FqQmdgU/5cYlH/QrBlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Spankin' New",
+    "icono": "https://images.pluto.tv/channels/6047fd723b5bd00007de7092/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdDAFRs2WbBNdNu90XQkgvrsURV174dR43DI3JmKMyaCF9adTWiAIEueyb05ww5Y98lpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "MTV Flow Latino",
+    "icono": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdZHrB7XGsfYN5K8jPbBGo1BeDJNxbalFoTaPKgOnZZHKyRQoDQpMNRqgeDdf52+zTlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Conciertos por Stingray",
+    "icono": "https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvdpxh7JqYzhm1pGaS+NiOW8LfCPZVm9ndhYij8kdz5UsfCXymlG3cMb6BiC7SrHwlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
+  },
+  {
+    "name": "Karaoke por Stingray",
+    "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/solidLogoPNG.png?worldtv2",
+    "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdvdpxh7JqYzhm1pGaS+NiOY84+1iRBr1cvIaknK+VCSympsTjJuGU5uUMxAMGYsfmlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw=="
       }
     ]
   }
