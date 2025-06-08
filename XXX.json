@@ -2447,12 +2447,60 @@
     "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
       {
-        "name": "TEST",
-        "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
+   "name": "VTV",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJxD0E/R4mqQh0t1lR56cy/temFwy4+KUXOhcVuzmtweZBYoKcXQQbXh4aMn+gvuEU=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCy8CtxKDPaoRrsVASukCd48YSwagaC8nGJsQKR3JKyjV4Xt3YtLhZr+E2CpXdpKs59hugltgzEertEHaHklfm4NR6heZTdc67IQxnafdJXTdQoXj0PjfR42WL81xniLhw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFbIXodTyoNAbg8LfuXapt/NloTLDvPnXZbNfSiZDW+RV3H4YLZwTqot8iZWh8QWu24LXqd5mXSMdNyjwJxIz7R+e5DJOOIQnpNwRvm8ctI/qsS5kWZsuIgWLDLpUrTfIg==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "VTV PLUS",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLQYfmbB/EG7Z6uk/rRmp/tAJYcMEM1i03IU+Vk6RK5Ds4pF+AMTh8DffR66IW7PUEtp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://i.ibb.co/CKf1T9hf/IMG-20201023-WA0080.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvImOjcvP4Hck1g54TvyTltB2W3leKvhyLje8bgc4q78GmXTQIkHSKJlhZy20si5KBqq1SReVSwvVgB3bfAtpljolc55yygqUD21yj16n3BfQ4YJDdCRjE88FQB1ZrUemJA==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "CANAL 10",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGj9ZB7WUN9LENqGPtt6vmdihe7no/4jYxkMXmte5AsSyhH3kT4d44778JZmAtXFBb",
+        "icono": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIzY5su5IeF4r70dT3bU77HepYdRVdWGjsNH3p0S85bZJHALOoc2tp9+eh9bX3FT69ek5Hs0M1uPh9yXdLfyRZqzwzTW0qwaRwj+yqpwwPn/oAA1pb0v1bXSld8vaHH32w==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "TELEDOCE",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGK1sKH0AxruIEu8L0a/OL8jMETHQIkaCKq5ejDKI+Ddkx4EN9Bvktv4Ce+OAtJbQ4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF7aiOb3gR0E9+N1FsnacVinLkXgTNJAe5ExgttCQUZ3+/U1X/CGya6dc8YB1NsZdOcaWxxtTPC6XULnEqlqt+nKqj5/BW8UZWrpzEVq3htLEGm/XcwR5f2xkFuZE9Nw1w==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "CANAL 4",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGZFqNwcC4kxfZP7icyCydkvj9l2fia3cLd1emmiEAoqQx4EN9Bvktv4Ce+OAtJbQ4",
+        "icono": "https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB4Yq90lvZ/zVU5WgueYjdcbIB7Ikse1hxz0WUTwjfrbEBUAQQ6t2cxW0aOykdH6kOlMP2nD9tpR079QPwfhdUPpToqiPUFYjYhGW/yZBJP9wzkyo46b6Zrhjk7LSCq2Hg==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "CANAL 5",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKJ+Dq0SNU5sLCvh2FLjW4yGW7pnt9zM1wdBWVrP1o0x2zdLpn5gY88aaU04PKl0d2Zx9yyVndsywZHTjOqyc4T",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCr1XEn9qxL07LGMro66+dngkvKyM4isC0N9YLY930Gc7XnLrUEKnacXTtEAa3pmZllymbXRyoyfbMrsVCUubZe4jC2PlMj6vWOac83scIbpf5O36tj2n0R04Dfbu3Eo+A==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "TV CIUDAD",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK/5xDexcKUa7LQO0/tnra5yPmSAC3j4ASFNTJ7XuaE1DlS3suh5xh9TVnyAgGfrTXeNA8TnNFNuqGaBfA0ZEPT",
+        "icono": "https://i.ibb.co/B2NJddr0/tv-ciudad-1606-w360.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNKHudkYqYFbp2TDM7zxwLT461fOoumdvTcgnX0RFwRVpLrHP20dfyq89ls85jOwVrBLBb9wex/CQBLxxGpkZzMSRx0vUMbS0W7U7YEQA8Psw7xsnimFWJxZzXom4VXfZw==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
       }
     ]
   },
@@ -2521,19 +2569,6 @@
   },
   {
     "name": "🇵🇪 CANALES DE PERU",
-    "samples": [
-      {
-        "name": "TEST",
-        "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCy8CtxKDPaoRrsVASukCd48YSwagaC8nGJsQKR3JKyjV4Xt3YtLhZr+E2CpXdpKs59hugltgzEertEHaHklfm4NR6heZTdc67IQxnafdJXTdQoXj0PjfR42WL81xniLhw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
-      }
-    ]
-  },
-  {
-    "name": "🇧🇴 CANALES DE BOLIVIA",
     "samples": [
       {
         "name": "TEST",
