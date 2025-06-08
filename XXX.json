@@ -2622,12 +2622,80 @@
     "name": "🎵 CANALES DE MUSICA & RADIOS",
     "samples": [
       {
-        "name": "TEST",
-        "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
+        "name": "🎶EVENTOS M+ PLUS HD",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLFKGjPQSa0IEDVYPUGV0htJYcMEM1i03IU+Vk6RK5Ds6cmtKUhzy7+7QobslIOMM8=",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCy8CtxKDPaoRrsVASukCd48YSwagaC8nGJsQKR3JKyjV4Xt3YtLhZr+E2CpXdpKs59hugltgzEertEHaHklfm4NR6heZTdc67IQxnafdJXTdQoXj0PjfR42WL81xniLhw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLQPhPc2bxInTp9TpwnwvJR1pG9aNOQoWhuUp4cI/FJKfP9uBWNdg39xjBaM/6T8VhshAbNpBlLQWiESMZiaOsmoznFRabLPgWnmtm/UMY1hnn3zpyniwxLb+mIEfnGqsA==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "🎶EVENTOS M+ HD",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xKO9KW8yfb/HJOnSzv0d/Pf5rJlCoAe9VAyd9g8emUkCpou1bKNWYtd8JguT9nqtjnkUuA4t2bIkxFrwVytIQd2",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKZBwwmDLZRr6OQdFFikGi0wt6lHbrhgaEntflvYFMFvgWSwlWwHXpzmIQZtX8kHgf0tgdv8VbwdaTIUU0N/klmaY4iYKVuTwtE15EUCy5HU80ra00gS+62LlCZUGCgc+Q==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "FLOW MUSIC",
+        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW3+BXOlGcHD3BWlDWJbV7Ex/CluF2ArfHKIWPpJYIZ2alsMb72ecYjbk9+fvtaa5NSMJsskEhpTV72EG6tsMNNB",
+        "icono": "https://i.ibb.co/jhrG266/flow-music.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP4ySJuaD8lRaUcWmTINWeqLVROkwjZNmtCDb3+wzJJ8y/79QCns6lCnXBMk6mX1qLbJhZWMDgrGSkp6Zgw1y59C/buDnuBpbZrrahocuscjn/MBKky1LTqLkmBTh222EQ==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "Un Poco de Ruido",
+        "uri": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://fbi.cults3d.com/uploaders/26619154/illustration-file/65b99d89-950b-4fd0-887d-cf5511055ab3/un-poco-de-ruido.png"
+      },
+      {
+        "name": "RADIO MAS TROPICAL",
+        "uri": "vDs01QovHT6z6DugBfrx54b73t3TvDzon3VoZdD8EtcIRcbFjxOyPIVhIsS04F5laeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/pQYPNP0/Whats-App-Image-2025-01-02-at-9-06-23-PM.jpg"
+      },
+      {
+        "name": "RADIO ÚNICA",
+        "uri": "vDs01QovHT6z6DugBfrx54b73t3TvDzon3VoZdD8EteR/380wM8rwv1rT3FHTR9iaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/rGxfh77/Whats-App-Image-2025-01-02-at-9-16-03-PM.jpg"
+      },
+      {
+        "name": "MÚSICA QUIERO TV",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKjT27GapI5EGLf9GuC6e4ff6XRnJzlQsQmTmGSipBEPUlQx0KCBNm3qY4Gy+JnyDCMJsskEhpTV72EG6tsMNNB",
+        "icono": "https://i.ibb.co/4mXYMzX/quiero.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "Vallenato Internacional Radio",
+        "uri": "8RiGx2ef8Z9ohekwIWokObIZIIFaLe4651w9hqNhWywCCiOCOAyoklNg4Xr0TIOrDnYZb6Aarg160Wn2LwyHyQ==",
+        "icono": "https://static-media.streema.com/media/cache/37/ad/37ad3ee67c2378f93e0305739787dc95.jpg"
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJm6P6EGWSknkkaj7OL2PVqpq7xsMxl5lZGPht4gGrCWJrm+IynMNqOH61h773/vH7BzWmualXeQ1rQpP+n411V",
+        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcRy86V_hL6P3cQoV8ZCu5D052ZUF3XGSPfpWg&s",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDe7rbW3tH37pTijScMg21H6BRnxj0wajb2L8aFygCRaQkSfpVojN0HsfyQSN4GthqtYx56aRQV0NyRFWcS4Lb1/nZgIGxvLd32XP8tSDe0CEvDPR3W68iZ4YpYsZDZgWg==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "ESENCIALES VORTERIX",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLrcT2JsIZRRT/0Bsu+wMQ/ytjnY9LZKTs7Eanscdy7NUFXcJm39RCeM8O56y7jXWHBzWmualXeQ1rQpP+n411V",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJBVAfJsVcEu0+CT5MfKKgmuyKdddni6EWY8kIMOq9dAElIQaX5IVYcBOIIJ2bHl3CB823UAYQOtzA3Ldvn1DIj8LnjStWcujuYybB76RHWvGu5oXR03g6H8QNhLMqgVQQ==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": "CANAL DE MUSICA",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL6IU4swjc1vU1l1J4sK4V4KfRGfx8145jABGMZZQICPKunuyt6coTxHJ0OTTPGeow=",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNFXA++gB8jdl7P9zc/NPJiFBR99dVDksDuLbBCMkgCpyjfnK9R6jVb9U+/oe2CXwae2t/b6l51ZKPcSgT/bdlMI/IUAjcOfuDd5lZpPRsg3L2GR130IHK2wloShtLYoTg==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
       }
     ]
   }
