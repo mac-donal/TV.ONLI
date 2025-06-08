@@ -3,12 +3,61 @@
     "name": "⚽ EVENTOS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+        "name": "EVENTOS URUGUAY CRL  🇺🇾",
+        "uri": "hHvkIwESGQkxpssWU7kpT/sPqEOc80zJqkqylsAo8NuPkD1O65gIyy3DhhR+Cp/lvraQGl6MbUaOLAcEyiI4A3WakLoiu/S/g0+tbOvAxBVp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
+      },
+      {
+        "name": " EVENTOS URUGUAY 🇺🇾",
+        "uri": "tLrZgufFc0c4CpUdyTPdykzeiruxtMmwpN3l74YAlRQxgTH3UnzVrIYTJSV3TVAeg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
+      },
+      {
+        "name": " EVENTOS URUGUAY OPC 2 🇺🇾",
+        "uri": "tLrZgufFc0c4CpUdyTPdykzeiruxtMmwpN3l74YAlRQxgTH3UnzVrIYTJSV3TVAeg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
+      },
+      {
+        "name": " Tigo Sports (Guatemala) 🇬🇹 ",
+        "uri": "VlEb1jIn877klm0DSmhB5mFQc4P/7OPhjZPPqHWz2VQN1L8AzBazuPz2k9SDfuxwg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://i.ibb.co/Q3S4NkL9/230x0w.webp"
+      },
+      {
         "name": " EVENTOS PY 1 🇵🇾",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q==",
         "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": " EVENTOS PY 2 🇵🇾",
+        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEj7PAMdqqV8OZX7AjfT0fenuUw2eFDnhmRK4n9csTXS/FpjHSvX5nWJ6Xm5mPQFJcKGir2H0kStwsr4Jo5OSJVbY5j10bSEskquAtAy+mE+2aeOQC5B3HMPhPFrje2g56Q==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": " EVENTOS PY 3 🇵🇾",
+        "uri": "Hzm9mL0MtTx2HdBpC2fLLu1wGZ0MddmUzHmZaaoZDb2+aPJZSDinD5oKN4yKcMdQJA7xFrrGoL+ewKFpeTQ0nGnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": " MLSs 🇺🇸",
+        "uri": "s4v1tHZmqDWRXkbtPbPZ7/1/NIrjHy69gXFIPbXhGV42TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrpnuKeTgu2/TTv9PqsLj3PyoAEEKLJL/QjATThvY0vbIS+jpuDH5+PEg08d0zn1impRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMCvrzioZtVBw8d8qG8KlWEnABVN9mMphRdvDqcfzCI1VASigQKyG6mPicFTq49rDcRkytHTM66AT87LGbJnOVM5Ehw0eBYXxvHfrbII/flTabgy5Pi3qZYIw5F+E9C88w==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNlvk2KmCgyGf+KnOD1lYT0sTN55p0mzampOFmuSx3mC78ElsQmLRCDhANZZh8hMP5TxBBkxGDngROtl/Dq71Qh7TNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aVWeCVp7qoJLiV9gCMKMzNfw=="
+      },
+      {
+        "name": " MLS 2 🇺🇸",
+        "uri": "sxXEGQzshLzQJ3R1CX75CNWeU1oR5BjG3rtoMJt/TZgnDJ/dX8KqEZScWKfZd3rW1P+6rq8bGYsbsYzqTqrVqYNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       }
     ]
   },
