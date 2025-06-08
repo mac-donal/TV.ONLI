@@ -1823,12 +1823,253 @@
     "name": "👫 SERIES ANIMADAS",
     "samples": [
       {
-        "name": "TEST",
-        "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCy8CtxKDPaoRrsVASukCd48YSwagaC8nGJsQKR3JKyjV4Xt3YtLhZr+E2CpXdpKs59hugltgzEertEHaHklfm4NR6heZTdc67IQxnafdJXTdQoXj0PjfR42WL81xniLhw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
+        "name": "LOS PITUFOS",
+        "uri": "Bd8xwwcdSMEPoMYitgWvPpPYJKQMfZiSWQid6Stq0/B6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck0733wKgvgwNVX8h/zFN1N9tvmsRM731DeE45eP184Q6pRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg"
+      },
+      {
+        "name": "ALF",
+        "uri": "nainWZNQ8Iqu28VsYRPIFpyg9l4Bfrk50HpgVo9ENTJLD9D+vCv5X4tb2Pz8sr4ddgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/c00a4556acf7d79c206d2e5049e81e5cf21690ad695d2960e69aeef695a701d9._SX1080_FMjpg_.jpg",
+        "drm_data": "1gwchRkLEVbXQAh0hPQziR03pQU5uRKIUJvo0Z1t/oVXxOsrzGW3fHgvEZ45UE7o99uDjLOA/dyFh1AninLJy3G5ZbZ+matv8H1Uqv60ZGeEu5uJCqqWQxLANou6THNtNt4vFjvuYZsVvEO9xN/HEsXVVwFZB+uR6Ipp6KkKfmsNdcpQPNnlsArRk2NN3nYAqcxBANdjROP4vKgkZ9tF6USHfUDE0016AgJA1aWpxPoAr+ouLMdgFFcsU2uTXLSNXSvi5QJ8f4XDcLfs+qjqS3Iz2zqRxLn/thEMtdfQmcm9k6nduTmfuo+8p321WbdvzZ3ukm4n/bprB8CBoc/LqvqMA5im9Z5/HHq+4dtHcj7tfg1xTyF7vVkx1ROCv8BN"
+      },
+      {
+        "name": "ANIMANIACS",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9HBOyWeB7uisTneNpxdW+Tz",
+        "icono": "https://media.gq.com.mx/photos/5efb726285180fb067834c48/4:3/w_2996,h_2247,c_limit/animaniacs.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "MARATÓN EL CHAVO DEL 8",
+        "uri": "cVI+FPBxX2ASracUSyM4w4nMdPY34kp+la4LYNCXmRLISeLWkRcRHJbNniib7TwlRYkcxQManVAW7vgfq8kybFcDizmvncmGcGwUfNRiJP0=",
+        "icono": "https://raw.githubusercontent.com/portedev/algo/2847ba407fd552d6da740a35ef239c16f1332404/chavodel8.jpg"
+      },
+      {
+        "name": "EL CHAVO DELL 8",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhr/qxa/oQuWb0dz5vWCygMAjJFDi5JVrs0t72jWbT6Z+/TvJDqulJtow8MphkmdVZY4SsyqQLh1OiKQ4+9zTIzt5AEu1cRDx2jHJirRi5hHQQpWkrIaH2AWIYgvkZBqiw=",
+        "icono": "https://raw.githubusercontent.com/portedev/algo/2847ba407fd552d6da740a35ef239c16f1332404/chavodel8.jpg",
+        "drm_data": "OBggq5HP+HpvKbgVZOzPo2vPZmDs7CMn/oCjeFmit6rWQLhBR16xb45oNOPlVcwkrhKHnpGEazxZ99wNKm/mMF7Hpaf2XOTMeSVA84DjVvSm4BnNbRnc8B9ZKS/kjUFH4h7W5u1AF9H0PySePDo35O98o0eqf/qmxEbbx0v36QIuKMdRvjmwkj5cZ+/Y9OxdtGLRgpKobAdnzyWOkzM+9u6l0lFKcx9Sg7L71biznBcCUuPylKLm7SHxXc7SdoYeU9ASeBa32zqDjZweqrP7J8Eyub7EHUP7yTIerzQAWTwxYC7LLn0aGEPS+nLDG2Tkgvxq0eOxMeDryoOp6+HsZAoqq3KBlc74sZM2zWs886jnQiTJoWcAxeOMDq4jLO4nYk+n/XluOma1mSnW0R7cm2kB5BXhrO0DNLM2b6FTA0WF8Viv3EqE+e97KSfOiX0LtWZ5cJnUcfgLW2toWvUslA=="
+      },
+      {
+        "name": "EL CHAPULÍN COLORADO",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GwaQNXs9EL82c2gzlcKcV2",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/7398332bb1251226a6cc1de19c16c07e122f08772f1ab53e506c33e28249633e.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "CHESPIRITO",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9Hb5Fl4QSwaQi9u/XHoYJc6",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/0b6aa3172f181d41d2176c85c61bcedd9e6db2db1b9725cf9cef0443c1b3d440.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "DRAGON BALL",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GdvPVFFkM2FP9zBTYKWuYw",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/ba2044576c78df97b62c9f9ffb77511bf368d85d5acef4911a0cebf30f68544e.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "DRAGON BALL Z",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GPbnHehdiOQhleOjRR+j3y",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/334f00b53cf3ef848ea7048b25711bc98e8236ce1685a096990c80d0965835ea.png",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "DRAGON BALL GT",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GdrVOECPFCOuG0awgbOTsX",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "DRAGON BALL SUPERRR",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEivF1HQ/8vj0dAdP5iZwM4ejGPzFS1BSBYPXa56PewwAuYETQYD95LcSLF4N/YALkVVA/q+TShage3UG3ixztHnRkEsD2Bhv6fIpPJsby8KKdkM3t1BMIdYX6EUTYr1tPI=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
+        "drm_data": "OBggq5HP+HpvKbgVZOzPo2vPZmDs7CMn/oCjeFmit6rWQLhBR16xb45oNOPlVcwkrhKHnpGEazxZ99wNKm/mMF7Hpaf2XOTMeSVA84DjVvSm4BnNbRnc8B9ZKS/kjUFH4h7W5u1AF9H0PySePDo35O98o0eqf/qmxEbbx0v36QIuKMdRvjmwkj5cZ+/Y9OxdtGLRgpKobAdnzyWOkzM+9u6l0lFKcx9Sg7L71biznBcCUuPylKLm7SHxXc7SdoYeU9ASeBa32zqDjZweqrP7J8Eyub7EHUP7yTIerzQAWTwxYC7LLn0aGEPS+nLDG2Tkgvxq0eOxMeDryoOp6+HsZAoqq3KBlc74sZM2zWs886jnQiTJoWcAxeOMDq4jLO4nYk+n/XluOma1mSnW0R7cm2kB5BXhrO0DNLM2b6FTA0WF8Viv3EqE+e97KSfOiX0LtWZ5cJnUcfgLW2toWvUslA=="
+      },
+      {
+        "name": "LA PANTERA ROSA",
+        "uri": "swcUCHlSYn+xcbFZQL/Jke6mk3M00nqH49ASFQ/6kWjLSdejRSdGMPp8bdahztAO",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/c1076d1034157bf2bdc32bb9052cfa8f3beacd4f0a9bd199c12b537ec134b234.jpg"
+      },
+      {
+        "name": "SCOOBY DOO",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9FR6FnCguaF49+LGSsYWczB",
+        "icono": "https://static.posters.cz/image/1300/8131.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "CABALLEROS DEL ZODIACO",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GvzimhhX91AWFUedb8zk+9",
+        "icono": "https://media.jujuyalmomento.com/p/aa23ba7564151cff8e5acb8af6c9faf8/adjuntos/260/imagenes/002/160/0002160416/1200x0/smart/fotojet-3jpg.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+       },
+      {
+        "name": "DINOSAURIOS",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9Emmlqk+cnacN7rPHDINb5n",
+        "icono": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dinosaurios-2991784.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "SUPER CAMPEONES",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GsKYIWGReF8rH70SmaOAgO",
+        "icono": "https://i.ibb.co/8LsZfZDR/1-fdc4adfb5e439458902622d4f543e15c.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "BOB ESPONJA",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ4VEzAuz3r6v2Mtlq8XJ/2oTbB8gIUfQHPDA0PzVtm60UNzLsUpXieXajvS6X4mNd+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"
+      },
+      {
+        "name": "LOS SIMPSON",
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9F11AZfxPrkXBH8DtyuFLGV",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
+      },
+      {
+        "name": "LOS SIMPSON (OPCIÓN 2)",
+        "uri": "qjrqksmEeZXss/rITggQWcFf0fK06d1wSENnJK14ZctXkQlXN1C/2os7HnKrJ/ScnR2kpNdNfEV7yj1ym5AfhbBvz5G6SlKIAhcyCRVSj54=",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWqtgmimWvWKWYqwWv0WgcGAbBQYn3-o4kz78pzOo2JupioQEQ"
+      },
+      {
+        "name": "FUTURAMA",
+        "uri": "qjrqksmEeZXss/rITggQWcFf0fK06d1wSENnJK14ZctXkQlXN1C/2os7HnKrJ/Sc80C9nR4/idMGaDUjLPcunq16FV4vByi/GTZJkvGczl8=",
+        "icono": "https://es.web.img2.acsta.net/pictures/14/03/19/13/26/032947.jpg"
+      },
+      {
+        "name": "EL REINO INFANTIL",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZGkmcubHIoTuioXa+gxJEEsO8fN1NfL7s2IFKJT3wJxrw+W6AoFcQliGBydf+Lb6C+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png"
+      },
+      {
+        "name": "LOS PADRINOS MAGICOS ",
+        "uri": "psaYwdVcQdINxjjYiBwoBs7aHxCH9Yyhs9CntfejWWN9fHxlQMmI2Izi0ogWtorEBiTE+5rbwXVG3zHc6SRpRhhST3ZzdCAeOu8TnfgJ9qv0ygMKSHnIlx8pq1ywgBPdajlppAc5DqBsJqVx8z44u+pS0JPzPMd+eIMFSvyOuWZfmFcCPoyFtPB+bW79ZoRijpIH61tyUbjbaBdKBTpObzCNkIA73/wdPV4NE7VS9CXaSGHjCOsKnJ8Adf1LVDxhVAlnA6sOoZPpTRNl+13SYzl8sDUnVao+TD59SDW6GAHQmbgBgJurIs6VHKGlzA9LcQJfuXXlf+CFNABFM/fHXFbJk4/a3EqiRY8benscKsiBf32oBF+SBqukdbNhcY4I8m1/e2F3xuyD6BHVBDU6mNi5KJZ9sCJW/xeK6yxyCGaBSoNSh6ThSvJRI9quc+LsQySVvyDTc/mxOLG4GJ7N55muhJPnFth0q4H0cjqbtEDb/IGvcgRv1qGIDgoBwwOA",
+        "icono": "https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage.jpg"
+      },
+      {
+        "name": "CANAL INFANTIL",
+        "uri": "tuhQ6WxF/9Gaox1DMjgXr7pukrHZiKN5siMprwk3z/2hxTE02VsvKod6EtVug5SZfN1ehnQ1bJSdKt58fKY2FWnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png"
+      },
+      {
+        "name": "EXTREMA KIDS",
+        "uri": "eejGzKfq/z5tCBdCPU+NPNKGLV0V6kR8/H6Fe5+uQOt5pQ6MY1Nds/RBptL6nTB5Mpf4H0M2hc9ZfyTERjKm9kQVquWonxi9PlKDlBGfAcI=",
+        "icono": "https://cdn-profiles.tunein.com/s281345/images/logoq.png"
+      },
+      {
+        "name": "Pluto TV Anime",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZF0aIN8nqP5ZKLdCxjy4Nfbr/H6x09y8bbLHENcttPALTU3iCiT+hcAfYt6zO6bT8+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png"
+      },
+      {
+        "name": "Pluto TV Animé Acción",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZqh8WSNBa66P5I4dDcAqm5OwR7EsJE/vJfowtUo4fDDwbWbq8zAwIz9nJoGJ+Z/9e+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png"
+      },
+      {
+        "name": "Naruto",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZw6UA4MD9gNxvRkuKb4JDzSSTDnFPqR5EPAzwK8kVIC8PCOYdCYYj7aQvlLYjmQss+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png"
+      },
+      {
+        "name": "Naruto Shippuden",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZw6UA4MD9gNxvRkuKb4JDzSSTDnFPqR5EPAzwK8kVIC8PCOYdCYYj7aQvlLYjmQss+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png"
+      },
+      {
+        "name": "Death Note",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ2HAQo5MnqVyu+CenNBsKM7XsH1K81bT1iFIPknrDrSm/68/qaIYgz+w50Exy5UGC+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png"
+      },
+      {
+        "name": "Yu-Gi-Oh",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZZL5JsrGELDxnHXfjqAUkOiyxS8zW749M2MUdH+CsFB6/7Xm5pspqhRkaUmKxkTzP+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"
+      },
+      {
+        "name": "Captain Tsubasaxxx",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZZL5JsrGELDxnHXfjqAUkOiyxS8zW749M2MUdH+CsFB6/7Xm5pspqhRkaUmKxkTzP+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png"
+      },
+      {
+        "name": "Beyblade",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZms8ApAl9V6fanQGc/PT0qfiHxiliQ1lQhqV7eII/mNVwfmsKyhZoGZP3BebApWO6+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png"
+      },
+      {
+        "name": "One Piece",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZm1gkbU3+gF/9yzjVt28M0aWtM9YhrtpQRNT/IxbpqbHyEGlNpLOqVvGAtSvBv1Aj+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png"
+      },
+      {
+        "name": "Tokusato",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZozQZXfnHjqlYTRzx0c9GtnAIA0zIzYssiTmIcr2uo2YyMBWtYmq3Lh4Dz8qQEWUt+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png"
+      },
+      {
+        "name": "Nick Teen",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZBR9m/GuOe1UgaAB1DKqWnyfNUdhMxp6dVS41MDHJ3tWpte0Ciusw7ZpvC5bZT1BW+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png"
+      },
+      {
+        "name": "Nickelodeon iCarly",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZtisGCtuejEqt25sxRS4NKpPMFHWCE7fjZWACVOs4xIc7j+4HkVH9/f6nOuwko4pu+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"
+      },
+      {
+        "name": "Kenan y Kel",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZqnQocHvR/A1NcKGdoM8qxAFf5We9SQfnN8/iwsRRp5P+5hgf+t4O2HFQ7tzyK5xV+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png"
+      },
+      {
+        "name": "Pluto TV Teen",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZBmshRyWuLKbsmBqSgv24BskHXy3OpaDQHzPyoJ/ypsIyIkeoYmjvD69AEnW7pqhN+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png"
+      },
+      {
+        "name": "Nick Jr. Club",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZTwoQKEUCu4VhClvchKCmTBbkxXb2oI7V5dAL4Pd9V0IVKO/o29SZOtPlXSAb5vrN+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png"
+      },
+      {
+        "name": "Las Pistas de Blue",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZIGDebTLFXsuoAXuDdcqDUxcJXjdfQen90LHXqdCoYH2bEWxBX6s3rzpLgEr24C+k+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png"
+      },
+      {
+        "name": "Baby Shark TV",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ0f1rkKXmxwf+YijBDimc8yicfskfvt1sSFgP6OL0EPC3pkPcmVmdRTIjGQKactnb+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png"
+      },
+      {
+        "name": "Babyfirst",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZABpZnEeOLtJYXdJIaYdU+72KKEmTKG5UHLTPw2/vx815DWpgV8rMXvFZOc7nhMxn+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png"
+      },
+      {
+        "name": "Pluto TV Junior",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZa3pG5gODv+Z3yWqmX1XaiHgrhVSb1SqfL7X5iv/xuba2dGshV3/eTZ+KCiR3Cfje+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png"
+      },
+      {
+        "name": "Barney",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZsFx0dg625jpWLT9orVmWh4Fuh708ws4f2kKT34azPi47j+4HkVH9/f6nOuwko4pu+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png"
+      },
+      {
+        "name": "Nickelodeon Clásico",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZTwoQKEUCu4VhClvchKCmTFlmbK6cX/LH7zZZ2T3RMqcAC9wa2FmwEf/YSg/3Ir9/+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png"
+      },
+      {
+        "name": "Rugrats",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZP+rX6Ku0rPlBaJzXTKcZO83i2x9wcjI2VD72fudHH+rtyNaxTyXynIlItDpE+bYn+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png"
+      },
+      {
+        "name": "Pluto TV Kids",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZn8vADFl82OjwkWjf+JJ1VQjds9a8BMBoMzBJV8X2kyak3VajS/X88vr2/yYkN0ps+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png"
       }
     ]
   },
