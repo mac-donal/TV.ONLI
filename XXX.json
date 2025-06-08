@@ -2508,12 +2508,39 @@
     "name": "🇧🇷 CANALES DE BRASIL",
     "samples": [
       {
-        "name": "TEST",
-        "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCy8CtxKDPaoRrsVASukCd48YSwagaC8nGJsQKR3JKyjV4Xt3YtLhZr+E2CpXdpKs59hugltgzEertEHaHklfm4NR6heZTdc67IQxnafdJXTdQoXj0PjfR42WL81xniLhw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
+        "name": "GLOBO TV ",
+        "uri": "LpMpt6V+9vtRJza5/MZe7yanbXt1ZIslw4AyZQFnvitRLgJdetyY1EKqWxkyUbBWg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+      },
+      {
+        "name": "SBT",
+        "uri": "2vQxO0Nj1dAgM4JVOK700gxESDSBWYIHd+Ufu5MJrbFgFKdBL+raxE5Snf4FJgINb2eeTiL3zT65juQBZheN07J6YL6TKL+gUWvb7AX1Zsw=",
+        "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
+      },
+      {
+        "name": "CONECTV",
+        "uri": "q3CZtR7SYOPf8TqFRtAeoLtg4DaPBnBQrxACbHXEwM8OMdasN7Ic/Htvab/iE4yfjCEsasWXAUUKotQlKE7n8g==",
+        "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
+      },
+      {
+        "name": " petlovers tv",
+        "uri": "WyD2D/FLGGQPLXQiaxBBlzx1SuyOh0ReNUlKhWlWG83XpBSRbmwvaUUxrSM7NI3BWIFYHZtu4hgP7G4V93dWMbJ6YL6TKL+gUWvb7AX1Zsw=",
+        "icono": "https://yt3.googleusercontent.com/TMdOrHJSSCmWhE7Uqlz4ax9nXgV3tVm3WOQ9CKlA8fWY4d2cDq-1ywEp_A0zA2T3C3JzmKs_rhE=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TV Aparecida",
+        "uri": "2vQxO0Nj1dAgM4JVOK700gxESDSBWYIHd+Ufu5MJrbG8/TYzhw8UpC2+Md1G5YPN9N/Y52KL+Z5FLInveFyLiXYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://santuariosantapaulina.org.br/wp-content/uploads/2012/12/Logo_TV_Aparecida_700.jpg"
+      },
+      {
+        "name": "Gospel Movies",
+        "uri": "tYYjUFRaK5cihOvLTKgY+IgzbRdesPYOsMmCUIlsYqg7RZ3YIfLerek8Kxs+ngE6bl2SWRqox/bxL5MsZMeP9SIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://cdna.artstation.com/p/assets/images/images/051/783/186/large/touati-fellouh-021.jpg?1658166568"
+      },
+      {
+        "name": "phoenix tv",
+        "uri": "l//J2UnxHtTYbCrw2h5Y2swdLSrCwXOx7LWl9OGDkKusV74wqVEuwZDlj5w2SBlgRBWq5aifGL0+UoOUEZ8Bwg==",
+        "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/300414269_562700385585873_9114388969049269022_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=b_5PdAdfmykAX9CIWny&_nc_ht=scontent.feze7-2.fna&oh=00_AfDcbHKJ3oKYUJblmWVA9HyLStu4NIp8rVbCGkyYWjzYuA&oe=65BA124A"
       }
     ]
   },
