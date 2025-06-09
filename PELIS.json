@@ -1183,6 +1183,11 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🍿 DE NOCHE CON EL DIABLO (2023)",
+        "icono": "https://th.bing.com/th/id/OIP.Q3DbnjmGXipkCThkKoJGfgHaKl?rs=1&pid=ImgDetMain",
+        "uri": "KDueLeCPqzCvUE2GLHfLGaWpzIbMSImrjdmnTOBMdYnDf99i+uA4/0jqZN49lxKS"
+      },
+      {
         "name": "🍿El circo del terror (1960)",
         "icono": "https://i.imgur.com/ayRf8lI.png",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt0DTlR/hc0zUqBXb/jUHBip9QT0ID1nnf8HGeBofC8XY"
@@ -2694,6 +2699,11 @@
   {
     "name": "🍿TERROR",
     "samples": [
+      {
+        "name": "🍿 DE NOCHE CON EL DIABLO (2023)",
+        "icono": "https://th.bing.com/th/id/OIP.Q3DbnjmGXipkCThkKoJGfgHaKl?rs=1&pid=ImgDetMain",
+        "uri": "KDueLeCPqzCvUE2GLHfLGaWpzIbMSImrjdmnTOBMdYnDf99i+uA4/0jqZN49lxKS"
+      },
       {
         "name": "🍿Escape Room: Sin salida (2019)",
         "icono": "https://i.pinimg.com/originals/41/29/54/41295447d5869f583682b41554922280.jpg",
