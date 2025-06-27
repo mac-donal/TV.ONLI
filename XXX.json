@@ -171,11 +171,6 @@
     "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
-        "name": "GH",
-        "uri": "hHvkIwESGQkxpssWU7kpT/sPqEOc80zJqkqylsAo8NuPkD1O65gIyy3DhhR+Cp/lvraQGl6MbUaOLAcEyiI4Ax5xL+J1ujum0D2XPHnicblp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg"
-      },
-      {
         "name": "EL DESTAPE",
         "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
         "icono": "https://i.ibb.co/FbZRY3Hz/eldestape.png",
@@ -193,7 +188,7 @@
       },
       {
         "name": "TELEFE",
-        "uri": "KusJ5ShfomSLrFIJxHev/mu9oTo1Rs1140xgIHgcUSxS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrWPIt2YEPaS6dGLGbTHTbvoSzVE6VtnQDqviG7CK6zq3eXfuEJ2jt+QybHxFg9LqKYNoAs8YyjpYdK1iRxDx9VITj6KA8qBhAIjlLXhv2d1g02Uxbx9eouXNveccBj98Y075EHShGv6IIItX4GdPIISL+TtXBmGyPsdbSnhyTnxfTifahdSGpjICZTUqL/ub5Qmv2IAWXc8FTETratxmsT4oE2JZ0J24cSWcCvYhSd2tUJEHjSzfZNSH9may8VpK6cBntsJC7/EavZuy8U7Jo1mquGiXTbnR2aMZwwKx+VaWBDVSSJ8ygpdwBxjvUAcHX5GfRYgPHlZE54CBe0weimQG89LIJUPcii/Po3fHq2/90AjWnPNrlrySJjISMsFbZAKNRlFjqZFqS0U6zJWuUgJDNPMgyLgkS49fFu6+sic51G+V/DTfiwIp7ePSF7VT0MFEM8N9j0j7VD2C+L0KYIa2l/cNYp+8cYaWJeyGs9ULtwGq7RieUfb+dsrdbmxWjamRiK3lKPBwcsBjYHkyZ6dcnCYg4yjJTXVg3SSj377Y5eV+NJQAZhPQ5Bqg5BoN2egUapECGIirnnLzpAgjrgkZOYDYEwveOCCcfDjPBq7AA95HgbQ/Z8iIleTTImegxcbCgZFFM0NloxIuEQBMRVpJl2yjqIq6L6HIBrE8fItbGmZL3jWdfsjlBGN9m31GpXfPEWdRDkQwWUKkLHSnch/FV1cGdwlhTqzTv7cK7/4nICdjQRS7Cn40lrBB/1d6Zk=",
+        "uri": "cXvBVAWvM4lfkqsLTcrITvBSxj5WcVDzSV1dQarGOeVMs+7tLSt32CTmC50RDzKG4V4T4vfTrvcdM3pKFf1d/ZauwnY9eTfJ9ewqnzyxo3uUYBkgUevuzSw9buuw2hgj",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKHga4zc9B6RT7pBNscEB4Z1cbVcjkpb2p7Z/rPSMyESYobWzL0M5VcDYdnDh84/djC5liRy/LcnqfgHPuKCXdU9JpcjIM1c1PzufxwlTXqti8l4p/AGiywu83vl7c+sWw==",
@@ -223,7 +218,7 @@
       {
         "name": "CANAL 9",
         "uri": "KusJ5ShfomSLrFIJxHev/qvY141pLEc3Fvs0YA4HPl1S+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrWPIt2YEPaS6dGLGbTHTbvoQh6ssbQp5z9h5prOLs+pDuXfuEJ2jt+QybHxFg9LqKYNoAs8YyjpYdK1iRxDx9VI+tQCMIZ/cn7GLusY1AG8RkDI5QrbZxclnw4nsdg+mQGMM08EhMxyOej3HzA0q2j1YneRQuPYClmpCoxtoq/t8AB1Rcp/qKdtHjoA+3arnqDiq2t/EAW1T5WgC5GDfz3pD5pHMtReiMndpIy/0vE3pWf3vMZ+C/7CJ6xVGM/JXggvrKMv+7Ln4q5pKkD86GaTgNcPGWhz6KYSY5rrF9a+j7coEp+TmxWB3zQTTeetWUNTYR0759AQWDM2x1F49vEI3Zb0+XjogemPfirZARrn4g9qgEbjHlb6/IX8+Twc7HTGeEicXkz6A4K8/zhqoh1mTU/Qyr1fFzQRfeQnq7xdn4jCM5Uhx2Lcq9w64Gwh5xBy4eHxJWgOx6Q4yIH6+M4XM+MUIWYbmrM/L/1iwOhnw22wlVUlcTjtWSI07unJ3VFeiX7vGCARdw8O4nC6uFjbwOM5C3aBKZO1xJQKpmZLEEEm4N4ON3T9uG2r9V7D6B1ga9ECr9jgKI/hh2ZZ+9RJ187l8DjYIa9QmVrfGwp67nG6IgWcknmurgaRIEgNkjXF8Q7WfdQTaPbTTkMQXhv40K2e/KGxqBZlwsFLEDWckA==",
-        "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "Nwg8prx8yp9/yKH9iCtDU8BKyjvHTtMKE6vfCC4M4lMprEmf1yk9VOQVQ9nis++j4qoGqtwre9To4S447CI2fAh6w/5KMA5oEvnCnemoUMM=",
         "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
@@ -286,6 +281,14 @@
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "Nwg8prx8yp9/yKH9iCtDU8BKyjvHTtMKE6vfCC4M4lMprEmf1yk9VOQVQ9nis++jejULR0cKMboQNzQmFKi9jLEo9icRWNwpMmI/+Ijp/go="
+      },
+      {
+        "name": "A24",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIQrrqQrlvRKeHsT067l3TZBIpJJMeJN1r7qp3rQr8frVZpVdShXXo9XQ1WvW2M1JyMJsskEhpTV72EG6tsMNNB",
+        "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFkUu56JhimqmnrT+H0k24r3E5ZBFDrSFScquA3PWJ/xHXufyR6lF1dskMyqA6v8sTh+5HLpz6FioiBA6A0VpuQJSTCk5ImW/DflGPt1NP2b8ZlCygNs4gu9V+i2yHALag==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNmZe7Nrf+CREt0p3bufkyh8SCLslP479wnIAamBatZzUcElsQmLRCDhANZZh8hMP5QsClSLG4D+997EYysGjBEETNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aV55b/o+64eAUi3nAERE3q6Q=="
       },
       {
         "name": "A24",
