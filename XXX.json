@@ -1244,9 +1244,11 @@
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNieshfYjOdDLw7Bne1JP8lJJRBD4ILAlEbMaSgNjxH9ZVK46oExX0uXqFpO2bAtOMhlxozsMUN3MiyR4Lpk35jGra1ftRp7saMYKoEYIztX6cIveN/jmbOtvH57dwWvPw=="
       },
       {
-        "name": "Sportv",
-        "uri": "EswrIe0t/2VpYmHpWFngSNJNHff+EMpNIU7Ljud/FrUgWj6S9CPNsw9U2XePYkYI",
-        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg"
+        "name": "SPORTV",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRsIEaabpwAewg971HbDvooE7tov2neLuvmAVStNhNlEjYPEo+kQStM7bbTs4VOnGAFCkc28BJChMcWjY17w3coCr6lcaO4fL/ls++79ljfMI=",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqK6i1y+/CMvO6oNI7Zeav64ain9JiqWlDXrlyddIc6tPbQD7gcgrA4KtGDbJVvA0qNlGNkPhn3vTe12BjK4P4I9w1s9d4+/Rs1uLbm5hKKtCxqsDOPEJHajHzrp/x90+15aeOQC5B3HMPhPFrje2g56Q=="
       },
       {
         "name": "BAND",
@@ -2517,8 +2519,9 @@
     "samples": [
       {
         "name": "MEGA",
-        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRZf4brMk3IiceKAmiFwYhp5aV/7oFtBKStMC2eStByozGQq+XmdvD4d/ErgF3W796xBS62/Aa6CTih58McfsLKeyYkDlrGKwFMQ7MiyyBH9IA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1200px-Logotipo_de_Mega_%282020-%29.svg.png"
+        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9FhJ0vVpqAwQiiPOD6i4OFG",
+        "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
+        "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4Z39Md+c7LR8g4wPh/MT4Sbh/7GyBFGNaSXdqRJUhFPOMAmQJfDOfRl5/YmRZD0Jbyia60TGvs2jBuLZsY20CUB/4E6djMo5mKVGkq4ADi2AbmzOke3/3X7K4QJ2sXbASTAWpWU9Od9VpQRHmKydBwSLLSt4CadRXxvz9dDl8TFht8GSml4i193E8gjM+Ub6QaHwD3T0eyCcfbkqb3KJjBKpDZ6n2bvmYZeY9ak5wORsreqxv0ooMliGPfZGUwVw/p7tgGENOgnXkgyBASqMa0Vxpkmdu4Ze9QeLnHDwb7dWzuzMcNHdKAJ4sjo0WRRhKOXQVhIdB7TWVhwBQAgsdqzHfDxX9KIA6zsOjImz6+GBAIp2RRHkuiyg5gINYNAj7OO4rENyk5ONxu3i5E8CmFrjpZDSHKOIKhCjq+p7iJxtJL6Hd9jqjKzhaVRuFUC2Gp63tjJ0fj7JMfK6WLMeskgBT3zVPgpAIuDu29rzvfmQFNyiuZJKQLmPJBR1xCAX0f14Th1uBJNNVtyBcT/lPlkM5ktOwlXQ1UqAY5oavoGQx+qM0ZOd592HtKza3nzn9P02+3fVxGR1YtLHA+rPKbTNCqiCNMYhJvMWAKtwU/gcuaTb+XFmiouUA7mS5z5nfXBDFhtH/1420V7NwIOJb5IE4S1C5MV4sSBUyrDCYxMpuA6VIsznIeJPN4JrltulQ1orfA8eMYIttBnnBTjQo4C1QRELjoGLVb7psFrrVK3BA=="
       },
       {
         "name": "TVN 3",
