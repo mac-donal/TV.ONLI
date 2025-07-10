@@ -1,5 +1,40 @@
 [
   {
+    "name": "Menem: El show del Presidente (2025)",
+    "samples": [
+      {
+        "name": "Episodio 1",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+HF/oaNFxr5ZorP/SgexAML5jvulpBu/ZoeEqQU9QTEcUz5yx+MZzBRc1u5E3KnzmELEyaZiPGsBk+yV1hwCSc="
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+HF/oaNFxr5ZorP/SgexAML5jvulpBu/ZoeEqQU9QTERmGkiFVm0tVyEgA1C9AxMGELEyaZiPGsBk+yV1hwCSc="
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+HF/oaNFxr5ZorP/SgexAML5jvulpBu/ZoeEqQU9QTEi+ZQfXtQX2qAmb2xQf9u32ELEyaZiPGsBk+yV1hwCSc="
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+HF/oaNFxr5ZorP/SgexAML5jvulpBu/ZoeEqQU9QTEGbSCkWcf91YLMqL+ZS5mzmELEyaZiPGsBk+yV1hwCSc="
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+HF/oaNFxr5ZorP/SgexAML5jvulpBu/ZoeEqQU9QTE3gNtzftSdwSF/0PSZt4b42ELEyaZiPGsBk+yV1hwCSc="
+      },
+      {
+        "name": "Episodio 6",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQAfWpbme4JJzczx3Ys9DaENtby.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+HF/oaNFxr5ZorP/SgexAML5jvulpBu/ZoeEqQU9QTEU+9Pca0oYeRVDxA/FYdeWGELEyaZiPGsBk+yV1hwCSc="
+      }
+    ]
+  },
+  {
     "name": "🎬El juego del calamar",
     "samples": [
       {
