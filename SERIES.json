@@ -1,5 +1,20 @@
 [
   {
+    "name": "Alien: Earth (2025)",
+    "samples": [
+      {
+        "name": "Episodio 1",
+        "icono": "https://iili.io/FZLPCR2.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+jaZoyQnaLwhWOZnNbcRBRKqnjFVedphDSm+E2bT49mEOTg+xRGSbvvq8rl3h5+FKo4jA3UvUyGSZqnJyiAx40="
+      },
+      {
+        "name": "Episodio 2",
+        "icono": "https://iili.io/FZLPCR2.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w+jaZoyQnaLwhWOZnNbcRBRKqnjFVedphDSm+E2bT49m5ZN5r94lGgtf/m3DsSSTMqo4jA3UvUyGSZqnJyiAx40="
+      }
+    ]
+  },
+  {
     "name": "Menem: El show del Presidente (2025)",
     "samples": [
       {
