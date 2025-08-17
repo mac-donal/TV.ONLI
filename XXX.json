@@ -168,14 +168,6 @@
         "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1k1tsQOt9Gh7O6T+AGh5Yg5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k8SnfVbQTxf6rgT3xn8TlXynOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
       },
       {
-        "name": "VOLVER OPC 2",
-        "uri": "EZvJd7URMmduzJqDndEvL5LwfafLG9lIRvnfbB/8SIUDni/6i0hVlTCPBfstokPbgKHMA8UQfpo7hsJWTN6GKA==",
-        "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "Nwg8prx8yp9/yKH9iCtDU8BKyjvHTtMKE6vfCC4M4lMprEmf1yk9VOQVQ9nis++jsImPQdl5f0yPavEzP07aJ9sJqNpQXMjl6MtquRVzowo=",
-        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
-      },
-      {
         "name": "CINEAR",
         "uri": "KusJ5ShfomSLrFIJxHev/q4Hl+tQIJfkBh32Mdcj0rpS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrVcQxX6M/GcYMRWT+K/L0C4XFG2eU4LDCTkRz1tcsJis8Ljgv+I3Q4cKjAdWTAU8O1EFThH9flxMnL+kLthxVy2RpAlWbyPg4X3PE2/MfGIfw9ngeq+fNFQNcUHuhd+KlbzMS21dh6dnQhVNVbIMTXq9zfjJQUK9tRh1PkHSbKiqNjWULOdMCEzYYLd5ocum5yF/kopOz/ONPCZXbhESNIQS1YCtKsywU4BxIHXlE6IiwCh/Mye6EJHovzIbIkhVvqlqT5DoHxVXGwiSYzcH993/M4MKVmAkFix1ZvYKu1YQpVRK73CSq7Jo80Lz2LhzHygunQuE8S1yBbTeIRmTVZogEOQJBsbmvG08kj35DbhlRdhhYE0ejyDePoGPx1ggtskWlBIPkeZcdWD+KFqPbNf+ga0/TCOC972Ej4AAetECwU7LlMqGed1ECcW9Wi1ceeaf+bLh6Tcl6KNXnoYGEqV1LbkTbV5yC8N2zRCWhFJ8yyvumPXRtu4gq/YaMbKxYoht99LhsO50VhTHfSf+4oY/00e2RVY3+cW1YiyfMjS2hwRDBZF1Pp7uzSlqiR5mEKt+KVV7tL3Wm4NkL4td8Pxg7r5ngJ6lW11d9uz2yqQx7WUuDTg1NJa16B8gMxQt/xWwVbGSFbvYDazDbpVZyHbvhrnALz6lN924Mz2JAgTGaiE9aji9VID6IBaT1mqxJMlhwwQzWLTchT5WTpErkOzt5440Oyb9pKLzT1CZHV4hw==",
         "icono": "https://i.imgur.com/Iozv4tT.png",
@@ -721,6 +713,12 @@
     "samples": [
       {
         "name": "DIRECTV SPORTS",
+        "uri": "nainWZNQ8Iqu28VsYRPIFq5R6GBEAizpW/iMXYnedu2UYBkgUevuzSw9buuw2hgj",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
+      },
+      {
+        "name": "DIRECTV SPORTS OPC 2",
         "uri": "hHvkIwESGQkxpssWU7kpT/sPqEOc80zJqkqylsAo8NuPkD1O65gIyy3DhhR+Cp/lvraQGl6MbUaOLAcEyiI4AyDdOlsLzxdnP9X/T8lDNYQ=",
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
         "drm_data": "JB4+4SwCrnS5jkxa+YxWhN9TLyEbalIvToeIPUvYcbDjprYrFM/1Bhi6pYQTdQSKJfFX0cu86AMVwVDP+EuBZmWoy5Ewc+91IZS8NqgS3ag4CHOooQBruQEVjKsSBc4RGA7q2EA6uwxrEt1IsiytHppcckV4sw9YI6BfEnaz527MIM55gKy5aT0B743LKGZ/5b1TdqwxRt7bEV6Mwh6By9K2orSC6l7I9Z7TXfq473IeVXB6IJsjGIpQhhmF8LnDIhOWGKfwUnfJXyaPKaze5MquTHTKLWNHVw0RUkobsKhJLzKcjm3sSiC8/fcbBQ8hsyFPJf1MxaTNVZoVbf2xh66f29XJz6N42YipaIsjUeCnOfxhm++1ZBxBQ1/sD12rpUqQMFQrnT6OwSZdBxAKrG9Te0lZ0OLw/Yepu3tmKOE="
@@ -737,11 +735,6 @@
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg"
       },
       {
-        "name": "DIRECTV SPORTS PLUS",
-        "uri": "SNIo1VYXp1R5zdtlJ6Fsti2nHUm2eMER6+tprnUE1LgOPV5rfJISp9gRxHbefWx0",
-        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg"
-      },
-      {
         "name": "TNT SPORTS PREMIUM HD",
         "uri": "KusJ5ShfomSLrFIJxHev/q4Hl+tQIJfkBh32Mdcj0rpS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrVcQxX6M/GcYMRWT+K/L0C4XFG2eU4LDCTkRz1tcsJis8Ljgv+I3Q4cKjAdWTAU8O1EFThH9flxMnL+kLthxVy2RpAlWbyPg4X3PE2/MfGIfw9ngeq+fNFQNcUHuhd+KlbzMS21dh6dnQhVNVbIMTXq9zfjJQUK9tRh1PkHSbKiqNjWULOdMCEzYYLd5ocum5yF/kopOz/ONPCZXbhESNIQS1YCtKsywU4BxIHXlE6IiwCh/Mye6EJHovzIbIkhVvqlqT5DoHxVXGwiSYzcH993/M4MKVmAkFix1ZvYKu1YQpVRK73CSq7Jo80Lz2LhzHygunQuE8S1yBbTeIRmTVZogEOQJBsbmvG08kj35DbhlRdhhYE0ejyDePoGPx1ggtskWlBIPkeZcdWD+KFqPbNf+ga0/TCOC972Ej4AAetECwU7LlMqGed1ECcW9Wi1ceeaf+bLh6Tcl6KNXnoYGEqV1LbkTbV5yC8N2zRCWhFJ8yyvumPXRtu4gq/YaMbKxYoht99LhsO50VhTHfSf+4oY/00e2RVY3+cW1YiyfMjS2hwRDBZF1Pp7uzSlqiR5mEKt+KVV7tL3Wm4NkL4td8Pxg7r5ngJ6lW11d9uz2yqQx7WUuDTg1NJa16B8gMxQt/xWwVbGSFbvYDazDbpVZyHbQaf8t4Ip4qApgw7Zoz/ITScw4UH1SWU86Gj3i81AjTgPLZdlHQTDsZ9XHPQBCynoGaGlGESW2onPE0rHv/Mgac6waC14K8CQh1mcHVHCYf4=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
@@ -750,34 +743,12 @@
         "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1k1tsQOt9Gh7O6T+AGh5Yg5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k8SnfVbQTxf6rgT3xn8TlXynOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
       },
       {
-        "name": "TNT SPORTS OPC 2 tri",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSOq6huy6HWpKquzuZ7prc0MP41NBQMl+KrxrNYq96GYbpSCHkbi3oBqhaJUDlkOaVIR1je2hfWT0w2ul4E/w2N",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEsaQc+Owqs7vHvgLKfReAreTtSdm/fYSA+ewiWJ2+EDPCgo2EQjjbx1/hvzQB7hoTih82zHCP4CP9L6LNMYJWu0ViXH5Pj7Db4R4sg566PrsaeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": "TNT SPORTS OPC 3 tri",
-        "uri": "EZvJd7URMmduzJqDndEvL/T1NUqrLoKTtoEkHd6MTxzM7RtHymSEGG9JdwstacDyGZqw4ah09bNhm4EpkV/l7A==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj66KE1+WTzw7R2u60TzPkud4aeOQC5B3HMPhPFrje2g56Q==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYhVvaAEl9u/ekwzk+YlU2ZKd8KGJHR+Ua3vErVWOWyh5Oqn8iJW+4RnsSIWUCi8NI1NxsoBlM1vImjDy62vgOHd7PSDrM06sNuzidQ7tcmj7v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "ESPN PREMIUM FLOW",
+        "name": "ESPN PREMIUM",
         "uri": "KusJ5ShfomSLrFIJxHev/q4Hl+tQIJfkBh32Mdcj0rpS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrVcQxX6M/GcYMRWT+K/L0C4XFG2eU4LDCTkRz1tcsJis8Ljgv+I3Q4cKjAdWTAU8O1EFThH9flxMnL+kLthxVy2RpAlWbyPg4X3PE2/MfGIfw9ngeq+fNFQNcUHuhd+KlbzMS21dh6dnQhVNVbIMTXq9zfjJQUK9tRh1PkHSbKiqNjWULOdMCEzYYLd5ocum5yF/kopOz/ONPCZXbhESNIQS1YCtKsywU4BxIHXlE6IiwCh/Mye6EJHovzIbIkhVvqlqT5DoHxVXGwiSYzcH993/M4MKVmAkFix1ZvYKu1YQpVRK73CSq7Jo80Lz2LhzHygunQuE8S1yBbTeIRmTVZogEOQJBsbmvG08kj35DbhlRdhhYE0ejyDePoGPx1ggtskWlBIPkeZcdWD+KFqPbNf+ga0/TCOC972Ej4AAetECwU7LlMqGed1ECcW9Wi1ceeaf+bLh6Tcl6KNXnoYGEqV1LbkTbV5yC8N2zRCWhFJ8yyvumPXRtu4gq/YaMbKxYoht99LhsO50VhTHfSf+4oY/00e2RVY3+cW1YiyfMjS2hwRDBZF1Pp7uzSlqiR5mEKt+KVV7tL3Wm4NkL4td8Pxg7r5ngJ6lW11d9uz2yqQx7WUuDTg1NJa16B8gMxQt/xWwVbGSFbvYDazDbpVZyHbQaf8t4Ip4qApgw7Zoz/ITe7ghAnBbpVKDKSi+WH14ePJHvRIH7yn9rq7e9e0UPek3RvJJbMdFdpSUbJA/cpI+RLCdVzW4IJLJ/oZxDwUsIud1vHaIDIJYebUWoxOXVXs",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSh+Jwg6+9GSjrvdpMfxRk9saQEO8/wEamMOuCk7PhCtVBjHqjV49RfYSex7iVfV+n+Jdu+HpKbQlgmxxE8AcuJolTXGRwH0JgHoshXmF6wpsbiYUeU5D26CwGEr6Lbiw==",
         "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1k1tsQOt9Gh7O6T+AGh5Yg5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k8SnfVbQTxf6rgT3xn8TlXynOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
-      },
-      {
-        "name": "ESPN PREMIUM OPC 2 trii",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRqaSc3/IdMS6zR5isuY6TS2CVGNwhvqLlAZUTN6BYin0Bg9G8v2FJJyOud+3dxuTZ2ETaRl4I9rY1oPTFhyCn8",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEnlqxDg+pUjTGY7KdqhUdhep0JEbPrssTVQFtZthHXuttjjsvJbh3IuC6vRx3DGf/VNkI5Ji42zlBewEVcD3zRzveC8EN/2q1CQmXUqAhwYsaeOQC5B3HMPhPFrje2g56Q=="
       },
       {
         "name": "SENSA EVENTOS",
@@ -1182,27 +1153,24 @@
     "samples": [
       {
         "name": "MSL",
-        "uri": "kZxGzajz3WxuDlGQPQszlXj5QQCk5QzLxkayRDAkBuZ264wlV+JFDt0SyKVQVmkKdgU5mAGtEEhOwcGqGCqdQA==",
+        "uri": "s5XIGHuDevP7nG+szL6Cfsmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzn6WjeiLTe4IG9u7bPD7DKnYFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
-        "name": "EVENTOS URUGUAY OPC1  🇺🇾",
-        "uri": "1YUji6iWTIcVx7/68dNvs4HYxDJ91BGCK77IA/smGQDdQ96/0/j089qgCFX4X04DBnTOTlC9HKZSxOZMn2tcOg==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
+        "name": "EVENTOS URUGUAY OPC 1  🇺🇾",
+        "uri": "nainWZNQ8Iqu28VsYRPIFn/yDy3d4Q9BKl+Bn01mTDW2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
       },
       {
-        "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
+        "name": "EVENTOS URUGUAY OPC 2  🇺🇾",
+        "uri": "1YUji6iWTIcVx7/68dNvs4HYxDJ91BGCK77IA/smGQDdQ96/0/j089qgCFX4X04DBnTOTlC9HKZSxOZMn2tcOg==",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "drm_data": "Dm3D/BgLhdQsy/rh01bMezvtRufLYddGnAAg3DoN7UF490rGRTH7T3Q8Mm2YD9E6aAtXfJ0X8F0wX+oKfFKC56tnoIFVtbiDgWdMRR/W9tMcfS9fAmuXLm3RfDPG/kKihvh6UL4C4WrsRtN6eORT6ONFykzDvNjIqkaElb8j7QSlam39UF2Cxsx+wjSZ3HB+5Ig/2zywNgmxo6kSBenFjyKtONpkhhEkDH6BITIsxj44bnBG1sr9LElggxOvL5MdzAE/2YpHjtv4L+Dm+Jbu4RVAAzVRyXwHcAGL31bRD86Wx3A15zbKAKjAUmZWOMm6TLngwaMSehTLuokU+90u4R0LSlHUdyCCLBAZo1D+gsoBb1YWQjAGgCxYg2yM9FApY+8GlG89kvgasu/V9XDZK3DKpAH48004e3lwMbaYhk6x7UUqDHOJB6S74pvN9wmstUIQSlgFGwHd4wsC+rZ7GNIYQ0VxbR+m2aoZSyvNkDNkpd8CAPSiWJKCfG7jcXKFoMa3BiVKpmh1jZLoe2URF3ViGrLVYckcsQ0YO0CGZaA1Agvz1VDY5O07g+P/cxyNyLJk0xDP5+j+IUmtU+xz4ERk48hJKeS3dy6/HnVe2kBfFY/UnZu65wZd1u3asJYRNCoUlKhgif87XrcW1VaUFN3muXD7Ru7mXNH8uw+TcnG1J21v8s9d4Wk8RAbF924A/LbSmQrqtI+uedqak3sUQKf4F1ZtL6y2A1fAEqSRS51z62PFc9UCqHA027Fvm9xzwSbmewuJW2njDwHIGD4QoTYoQdhm5bmURtvahJrpuFp5z0GOrt87vWP82eZd8GX5z+dyxXcPQSaKXK01GlPI6q6f29XJz6N42YipaIsjUeCZXdFr/JSos1QhoSpwoYvDa89mYOzsIyf+gKN4WaK3qhSFbGkuanZGiYluVSh4iZA="
       },
       {
         "name": "EVENTOS URUGUAY OPC 3 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC 4 🇺🇾",
         "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
       }
