@@ -2675,6 +2675,21 @@
     "name": "🍿ANIMACION",
     "samples": [
       {
+        "name": "🍿Hotel Transilvania 1",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4AfdCmFjYxVHIREwlmNi0M=",
+        "icono": "https://es.web.img3.acsta.net/medias/nmedia/18/90/47/93/20254074.jpg"
+      },
+      {
+        "name": "🍿Hotel Transilvania 2",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt31skXZA+/CXP0CI1RGy9gc=",
+        "icono": "https://m.media-amazon.com/images/I/61ctC+bip6L._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "name": "🍿Hotel Transilvania 3",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1i4N3NoKeLTYKTdAIB35oI=",
+        "icono": "https://www.sonypictures.com.co/sites/colombia/files/2022-05/HotelTransylvania3SummerVacation_2018_1400x2100_MEX.jpg"
+      },
+      {
         "name": "🍿Flow (2024)",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XHw78YMyi20q4+fo87wpoJCVj8c3bYHjE1qFqCzA6Nhnz+Z0KlaglHGZtmKmpIy3VmnjkAuQdxzD4Txa43toOek=",
         "icono": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_.jpg"
@@ -2794,6 +2809,16 @@
   {
     "name": "🍿ARGENTINA",
     "samples": [
+      {
+        "name": "🍿Esa Maldita Costilla (1999)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNWIzOGJiODYtMGNlNS00NDkyLThmYWUtZmI4ZTM5YzhmN2Q5XkEyXkFqcGc@._V1_FMjpg_UX516_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2kufsdSfk/lSFjwFAHaJcdij4OdygcU77WRJOsI/tEP"
+      },
+      {
+        "name": "🍿Los extermineitors (1989)",
+        "icono": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2019/01/06/21/145923534.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+upbjTUIuk1SkN8IfB3bmS0tGOl3rpQV3ioG0zKBhWY"
+      },
       {
         "name": "🍿Quiero Llenarme De Ti  (1969)",
         "icono": "https://i.postimg.cc/R0bCG0yM/quiero-llenarme-de-ti-348893591-large.jpg",
