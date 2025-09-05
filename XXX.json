@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA-PLUS1",
+    "name": "🇦🇷 CANALES DE ARGENTINA-PLUS3",
     "samples": [
       {
         "name": "EL DESTAPE",
@@ -38,14 +38,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKHga4zc9B6RT7pBNscEB4Z1cbVcjkpb2p7Z/rPSMyESYobWzL0M5VcDYdnDh84/djC5liRy/LcnqfgHPuKCXdU9JpcjIM1c1PzufxwlTXqti8l4p/AGiywu83vl7c+sWw==",
         "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
-      },
-      {
-        "name": "TELEFE 3",
-        "uri": "dBHQ1O5erUOUk3MErt+BmgE0HVhkZSzSzRiwzq7aLiCpVX14h30SOXiufb0BfKW+fdSQxhMXqWrzj9fJ+xBYMw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj67c2S79IM5BOMO0SzO5Ijc+aeOQC5B3HMPhPFrje2g56Q==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYicqyWikNfl2aoJ3BwYtydtJ/c0FE/3wQzybUYGC7PpK23No6Te8krrWt+MqS0Hn91Mj14mcobin0vLRwyRE5TSXg08If7BUKpF8IWSaPhO184lwwQclhESOjZLyUxwbrc+Aprk83T43qLHyGyFzq9u61oUGJIcf6T/eIqTSRo5Qca96Ps6S/xSIdgkrmz8Jqg2rlYmtLmOXjS7XLOXtYbk5Ab6GrKrpnB5d4CaavlGY/ai58LSQTICLsdRR5HRo/Q=="
       },
       {
         "name": "EL TRECE",
@@ -377,14 +369,6 @@
         "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
       },
       {
-        "name": "SOMOS RAFAELA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKheoWOtp1+BE0kb+E1Jy6Yz6VrzEU+4QkBbo7bubQShXeGa9XxhmZ36DQ8aVyafdP2W8mf/SF0g0GcxzpSl5xq",
-        "icono": "https://i.ibb.co/TH7xhNg/somos-rafaela.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCWW6l14VSSBvxpjEl2zIrKi3R18DP3B9TMYfEvWONt85bxcpgkhni0Y1HoBEfDXoERpTmsyP2f36Act14oLjv6bm7NTWlSXUXg3wdpT2LIDL2GR130IHK2wloShtLYoTg==",
-        "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
-      },
-      {
         "name": "SOMOS SALTA-JUJUY",
         "uri": "KusJ5ShfomSLrFIJxHev/iFsW1qq8X4ZeW2DdNm3f43zJ8qI2h7M5eOpUyDEIgn7m+9vK9HYei08wGO9nUfhll7u77wD6TNCr5qq+Y6IiYwRI7gom8skUKtk2PVcFj77CjgI3epLSl2d7YvmF2zzSdmhkS1wbTBshLgYUgR6GNkhfuE8UwBFGCqwezP7WATtV5t+TQD/xVoEiWBUN6r1/i8YHesJB8ZcmI7TvAeU/ZPgdcxmqzqkggmo3J/YAz2WZlLpRPFlDiunIofh2SbMXrQ1PB3/sgvCRBtGBLhTQBTLrHJqf/Z6/zsvclVzHUZ++J9KX4ZzocxAGB7K+FWWC8fDuyEzIRoX6lE819qPrkVO/Xz9kkwisVS8kce+nWASPXg/86YGGlJHVQhzzbgH8VyZrC6ni+XxD8HePfkiY42x5JFCoWFYQM//jE8zLpymaBls/JEsHaPG0AIdBnnyuTVKh21AKZEMhagXqQ9czqcZIaval6j5nNpq2gA8go02HGx0RhHP6b0n3Wmmk6HzBTddSmlZqnDoMurT9fFJFZCRjDfewPXmeiO22Nbu9ividaLmx6Gjv2JxVWwzwFjCt+eTaVRUNLQOmvwvz0iUJxk4J2i+5gRjWZ1oi+hgrPPoctmfd8N/VkmuIYc4jO7A7bNmrKGz1yqmdtkuxptga/1WDHwkqFf6ZMFq2gwcgqlLG/NV/VtfHDCrzNznFC/6xKyuvVGlPa77BMGVZN9AsVXpcU5Pz1r939t7urNnlaJYh+YsQ2ZwjmG9TyyQjUoX7JVseotJzTga2GanLxJ8q7snkcmQmn3341Do+9I1mXYKFektaWrVzOKaW+S3Lfx4bIv8ji/m9E6K2Gi5QFsqn0am/qd+yasbRgVkCJok0Nzj9d2Ddaey0Vn2QgoeST7LNiEHWgsgj4t1oEzsbU1yaZ6MJsskEhpTV72EG6tsMNNB",
         "icono": "https://i.ibb.co/gJwmwvM/somos-salta.png",
@@ -398,14 +382,6 @@
         "icono": "https://i.ibb.co/Jx8dCGg/somos-corrientes.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO1UKa0pfChNGUu/2ygDnrojmpBQl+vltoiPjVFymWPx+ZZwqPlaub/WMTYsdCWQR6Y4YHOvJ1rI0hnHDdx60JiYbSdaVpNWTyvLkCiwlbVLbFBMBCgSp65NW+RedtY+KQ==",
-        "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
-      },
-      {
-        "name": "SOMOS BAHÍA BLANCA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKIldOXKbqr+iwNoKUstRkDDLjQEw/gd/AOTB/91cpwkCn0Rn8fNeOYwARjGWUCAjymnYW+4aCiQCr78jFCMNp+z4y0X4ipXxFF2+7lokieMg==",
-        "icono": "https://i.ibb.co/ww6hpxD/somos-bahia-blanca.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIKMBbALwrAnyX8XGR97hzyc/wB9HjjxJPyCe9h1Q78JIlvniOn7iTLKjs6EqsGEBPBnsk7rM/Zwtz1EMlJ8DHnuvxgaFVDqXNIwvpDTC0QfWezpROi53tZB6BhYyWo68g==",
         "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
       },
       {
