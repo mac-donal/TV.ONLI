@@ -1,5 +1,40 @@
 [
   {
+  "name": "Camaleon: El Pasado No Cambia (2025)",
+    "samples": [
+      {
+        "name": "Episodio 1",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
+        "uri": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oWT+OcDgOwu9qMsDkndKCvE="
+      },
+      {
+        "name": " Episodio 2",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
+        "uri": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oa3cqaDxOfcDtudp/J0yxls="
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
+        "uri": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oUkSs7BuquBF2d1GDGn7IiU="
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
+        "uri": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oRLgD0GP4Fx0+nSyIJ+4qGI="
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oachOrCmQwzzWDQJrlYVoOM=",
+        "uri": "cVI+FPBxX2ASracUSyM4w6VlNcjbgb8HYjK2CNJQWqEXJfz35z41uN8qeLPsSVIG7X9WaAO8wRnXfW7TnYCROJLh+npQu4mzRTjeN2mz7mU="
+      },
+      {
+        "name": "Episodio 6",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
+        "uri": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oU7WUdFg2SNR8fpkz0bFuMI="
+      }
+    ]
+  },
+  {
     "name": "Los Mufas (2025)",
     "samples": [
       {
@@ -45,6 +80,7 @@
     ]
   },
   {
+    
     "name": "En el Barro S01 (2025)",
     "samples": [
       {
