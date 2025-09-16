@@ -24,7 +24,7 @@
       },
       {
         "name": "Episodio 5",
-        "icono": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oachOrCmQwzzWDQJrlYVoOM=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
         "uri": "cVI+FPBxX2ASracUSyM4w6VlNcjbgb8HYjK2CNJQWqEXJfz35z41uN8qeLPsSVIG7X9WaAO8wRnXfW7TnYCROJLh+npQu4mzRTjeN2mz7mU="
       },
       {
@@ -3582,6 +3582,16 @@
         "name": "tem 2 parte 6 ",
         "icono": "https://image.tmdb.org/t/p/original/t5FVNwDq0oQ1PvVd6EA9hrY3YFV.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w3wQiLP41CVnbKYJ7HRWIj+HO1Bm62VJ5FT+3WBkRlEkAFAtK4IR6nDvG721/Hr7+0cHtd3FYVRLbzSd12uUqKc="
+      },
+      {
+        "name": "tem 3 parte 1 ",
+        "icono": "https://i.redd.it/f3wwfa3fz0ff1.jpeg",
+        "uri": "cVI+FPBxX2ASracUSyM4w3wQiLP41CVnbKYJ7HRWIj+Yc/roivf5I5yZHrkHuh6Mo1gShdjhRqBlqqQKq5O5OIOW6tg+GvfappHxL1yJxLWBxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "tem 3 parte 2 ",
+        "icono": "https://i.redd.it/f3wwfa3fz0ff1.jpeg",
+        "uri": "cVI+FPBxX2ASracUSyM4w3wQiLP41CVnbKYJ7HRWIj+Yc/roivf5I5yZHrkHuh6Mo1gShdjhRqBlqqQKq5O5OIPUwUyUCpNIPPvAXIzjzeGBxi5j+H+03Yb2wfgNaRQw"
       }
     ]
   },
