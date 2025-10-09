@@ -1,5 +1,55 @@
 [
   {
+  "name": "Animal (2025)",
+    "samples": [
+      {
+        "name": "Familia Kawanda",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQwXtnbGSX+B5h8Ez8U/B7Kw="
+      },
+      {
+        "name": "Sonrisa llama a sonrisa",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ2263vwRiX+VaHUD7smkBBo="
+      },
+      {
+        "name": "Frases de taza",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ05GRsr0eMruGro+PHw9YYk="
+      },
+      {
+        "name": "Una ansiedad de cobaya",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ2rE53n5U60buw5Wurss/iI="
+      },
+      {
+        "name": "Fundación Kawanda",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ5FnxmbkPRNI+J1ueKyM5P4="
+      },
+      {
+        "name": "El último paseo",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ3TpYW5BE7sSYMd48CuK9V4="
+      },
+      {
+        "name": "La visita",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ87mHgZYF0uXzSdUA37MQVk="
+      },
+      {
+        "name": "Las cataratas del Niágara",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ/+32FRcM0m2izTzZriDwY0="
+      },
+      {
+        "name": "Un día de perros",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQyUQWy03R99BRgzQY6ZPfPM="
+      }
+    ]
+  },
+  {
   "name": "El genio y los deseos (2025)",
     "samples": [
       {
