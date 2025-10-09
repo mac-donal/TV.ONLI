@@ -1,5 +1,55 @@
 [
   {
+  "name": "Monstruos: La historia de Lyle y Erik Menendez(2024)",
+    "samples": [
+      {
+        "name": "Episodio 1",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PB4vhag/zo2Ytih2Gj48yLQ="
+      },
+      {
+        "name": " Episodio 2",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PD2cmt8lQKSA7L5s0OMLonU="
+      },
+      {
+        "name": "Episodio 3",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PNkE0+AftrBiQBIEU338C2E="
+      },
+      {
+        "name": "Episodio 4",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PPUgW8IqU4xRS9bwTc6XTzU="
+      },
+      {
+        "name": "Episodio 5",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9POrqYOfFm4gM/HdAg9hfi7g="
+      },
+      {
+        "name": "Episodio 6",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PChfYzMr8ceNH62EBD1I6Hw="
+      },
+      {
+        "name": "Episodio 7",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PPkcmUi/6O3Su4DxJyf6Qrc="
+      },
+      {
+        "name": "Episodio 8",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PEyPSv3yi8ZMS4kz0zsW07A="
+      },
+      {
+        "name": "Episodio 9",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/9/w1280/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w/V56NT+C4AQFsqzRFwgIMdZeGhEaWpYdkvamw1yQv/78iOiXW08RXBFm9+Iu1I9PGPxnF+6v8NvX0/zlNoJrjc="
+      }
+    ]
+  },
+  {
   "name": "Camaleon: El Pasado No Cambia (2025)",
     "samples": [
       {
