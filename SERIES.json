@@ -1,6 +1,6 @@
 [
   {
-  "name": "Animal (2025)",
+    "name": "Animal (2025)1",
     "samples": [
       {
         "name": "Familia Kawanda",
@@ -50,7 +50,62 @@
     ]
   },
   {
-  "name": "El genio y los deseos (2025)",
+    "name": "Gatillo (2025)",
+    "samples": [
+      {
+        "name": "1-El disparo inicial",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeYOstBZQtoZfrtP9YemzkYWp7FtiSIzFGyvc3FSe4uGlieA7p4Y3wRpiuZIQvexUAp2hz9aKprXhWIVx399zafjk+sblaWsC3Lgixr3j40ppy/BF5pxwW8NtnBwU/8LbG9qUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "2-Blanco movil",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfefhMVu4k92gtb4WPrZrE6pzdXU0jti8ILfrplfocuo5o4HeGvoPopiIp7hs79SCkn8hAnQ7L7EBhuxPxKkyQGgHgaK2z7Gku26dYuctNhuu6BLy3/WkJfsMDzOB4nKru1NqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "3-Sin retroceso",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeeLY/5dLWGg1jmZMKIMD9NAAg8sOp6y+BXMK043pq0O3G6DBuRjDm/5gDiwIEo8V2A1ZM2LrxXbe3+KxQcJuCq40b3NHTckI2RAn3w0OzY4QDIOzdX4X/u5ErYtoYiInNtqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "4-Mira telescopica",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeRKDuRk6pkHqXPYniMzn1eOwA5OQDvAM9AeL9aasWT5KAJKB9OkK/4ovU56ryecgAI52CgcbRbKX1aqmPbKBwxboRDXuNxQHQ+Ao/u1BfNd+TYSPPF/5VwCqhVl1k6xcRtqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "5-Balas perdidas",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeX09yMThuFxO00VkpR3leRiRtNz4VfYOO3XKnCMtuBL84Ivp7JfdL5cYKitMUKnDsTEvb1RBxOOtHi/Kv7IyYCyY6CdH7jN3SncMzUSCRtQzQ1udyS+si5tr5RvqKUQ/BdqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "6-Gatillo fácil",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfef0DAdN6Y5HmycpkzqG7pg26IxyjQdcQ7ngPJWBDHw7jxT+GH0kSCszjokbNj9NY+JTnU0uHEPMH1+gYd8EJxjvQ/8SDqMXnxmGYkqFJPPm1Pon6bN6GfB/BWDyQc/8FIdqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "7-Silenciador",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeQB52f5DyVqly+Ar8IbEZ8DOP/GQowRL3sk5J6S8Ffrejjf572Ge5TBHOC3agAeAHPS6m+C3+x5inuvumu3sxORk1dlOW0cANSBMrbiv41jwTVCoxfjA10rlSVxS84m4ENqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "8-Recarga",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeQNNVZKEw8gz93NJKHn9hdXII5qCHwgTdWMibOmFrYOqiwL4+A9RPqOqSGnKZnfTMFEyUoHCmzOx9gc7Nyl1mKohQ1RvTlAqUzc2jI5eRJcfcMadTE8CHOKKeRWGtX63gdqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "9-Blanco perfecto",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfecK3+gU2+4H8S6xRgG5rGsdkIwCxsbaIfat90+I5czsChjAlp+Xe35T6AI2q2j/+mG8jMazuO/U5pkrjlXXbksnpYOl09pmMm4eghWZw8h3zx4AX9fVohZe1yLSBFxTbOtqUfxIR3d/actX5KAnIJoQ="
+      },
+      {
+        "name": "10-Disparo final",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeWxcHZP1X0dPgZqNoQmj+jCC23vdGo019MN7SfeCX3dPbjIAzhCTDx5rAjRi6VH27p/AZp1maZWOtrcXeSkxlTtGfTANlgjEagHvkDM/s4Roh0RdYMxjLldNPrEEARAMF8BvEro/FaAaCGTofr2AmbM="
+      }
+    ]
+  },
+  {
+    "name": "El genio y los deseos (2025)",
     "samples": [
       {
         "name": "Episodio 1",
@@ -115,7 +170,7 @@
     ]
   },
   {
-  "name": "Monstruos: La historia de Lyle y Erik Menendez(2024)",
+    "name": "Monstruos: La historia de Lyle y Erik Menendez(2024)",
     "samples": [
       {
         "name": "Episodio 1",
@@ -165,7 +220,7 @@
     ]
   },
   {
-  "name": "Camaleon: El Pasado No Cambia (2025)",
+    "name": "Camaleon: El Pasado No Cambia (2025)",
     "samples": [
       {
         "name": "Episodio 1",
@@ -245,7 +300,6 @@
     ]
   },
   {
-    
     "name": "En el Barro S01 (2025)",
     "samples": [
       {
