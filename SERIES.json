@@ -1,5 +1,50 @@
 [
   {
+    "name": "Monster The Ed Gein Story (2025)2",
+    "samples": [
+      {
+        "name": "1-¡Madre!",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeatBBlXyjNxGq0nGiKXytCY53INVoawh527ItkFvOmEhqY/arYVVvzeCo6NTs7XkdKCB4aYCE0+uAqkQOUs4qApqVyCZK3oQkhy9AWuXjN/vqzUZXnGilAMd4VR7/syOhx7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "2-Los secretos nos enferman",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeesSHs/8wUd9smqFPBRvbln7gXHrgmc+kfLEsdBpT/289UHEfu2MJourjB9UmRW2H9O7juiKxXX1acwsfR05varRsoVAxtvz6Z+BysZJSQHgh9WRzHTilBClRKuvT1o0jR7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "3-El niñero",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfecDsOK1mzgDx5XASJydX2ULR+F1roQ8QTx7dFWD+GnLXlqHaCdYR1cNy+R0CETRDP7HfQe6SAYoROSZXNGXS8MsvJ313CkkA8gAr7hD6rfghAZeS/dezhIFQewwRlLcK9h7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "4-Verde",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeZDtFvIPcDWEwej7IVjjbh1OLJLQrTK0k7rJYxXVdcW+sVm40uqwn3Xvh6TkX7x6zvq3QIOyfR60laa6poQhufc/yv9FCYgX2B3rLD1bsNW73WAKlepEc8sLaa4TI08CWh7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "5-Hielo",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeZwHhuWku8aIsZ806oL53JSKNiQSm7Oj2uv/aRwTIcUTQcOGCXFVdnibIVLS72dKmpRb+ulSlleWoPLk07z6ei7kUbulDF+r1QQzQ9ilkJT/foijoAiqK7U8+uLTcmSVSR7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "6-Una buena pechuga",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeaFhHhSQgr+XlXyCMrCWXcHoWvkbf84Ih/npccwak5Ndm9a04d3eHCjmTOPfFMR3xnwr+kWcQAN7rAX7x3m5p6AcBxGEG52eFkTzguPXgP2TkdjiWwyPEgIXtkIEltduZB7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "7-Radioaficionado",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeWbOyEKNWBTfllGix7U+jyUUnWVl9f3fpiM8srZON16QdmLrjXGfagzxLA4fOJxK97hB8NEnfayZpkrIf4Yi0p/xr17xlemiNwSTsEZIqa8I4jkXz6u6lw6d5iUISGIOjR7rJxwIxdlF+rBLMkzyAfc="
+      },
+      {
+        "name": "8-El padrino-Final de temporada",
+        "icono": "https://image.tmdb.org/t/p/original/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+        "uri": "TQSPBT5fFAmrHLJIeXbfecjw6No1Y4UEpJctSIZDmZbz7tFCQrAopbEht121/yq9zDOdkPiGdN3xwV06dnClkQg0VB51thtZrKnsWuZK6q/6mBU7aIUqzGb9FY8Hg5b0KZJ6WnBrN8oPTUMqADA9kx7rJxwIxdlF+rBLMkzyAfc="
+      }
+    ]
+  },
+  {
     "name": "Animal (2025)1",
     "samples": [
       {
@@ -245,7 +290,7 @@
       {
         "name": "Episodio 5",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklGMrMxi-vZgpmoC88iBDsPPJtV_k9IaYf5Bv7N48sTGTbgn4",
-        "uri": "cVI+FPBxX2ASracUSyM4w6VlNcjbgb8HYjK2CNJQWqEXJfz35z41uN8qeLPsSVIG7X9WaAO8wRnXfW7TnYCROJLh+npQu4mzRTjeN2mz7mU="
+        "uri": "cVI+FPBxX2ASracUSyM4w5MQOK4zUAhL2X6Dv7q6QuosMDgpCUAxWHiudhG8UHAlJedsQWMIVoFQ8hJMUrr0oachOrCmQwzzWDQJrlYVoOM="
       },
       {
         "name": "Episodio 6",
