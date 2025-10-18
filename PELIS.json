@@ -3,6 +3,126 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿El Día de la Masacre (2025)",
+        "icono": "https://iili.io/KvV7uEB.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1j/Q8l1QC+g5J+QrPtpqXYiFzrKoD1dkrlcgc4BMtwE"
+      },
+      {
+        "name": "🍿Los tipos malos 2 (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/7JPVoal817aUKfNRRBKaC0c33T6.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH"
+      },
+      {
+        "name": "🍿Tron: Ares sub español (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/9MW9qldFCQfh2hdh2LTP2KjjKBm.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtzh3eBJJPRcm08YK7pU/8Ic="
+      },
+      {
+        "name": "🍿Camina o Muere (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/kXIw6UiO2zANEPyStiYoEIopN0q.jpg",
+        "uri": "t66mQIL0al4QGguoSjH6Bmry3khs45VXmVs+PfpjpUVo712z6XkItNzKl6kfnxQuNYizCi4vXWiehubyRQlE7qCKEsrN4UbGl9RiiKm84jlsT66FBfnEWu5gv4dTRs7yhe3im81d+99LgcrTvsJsk555MAJon6lOaoZOR8mhMec="
+      },
+      {
+        "name": "🍿Bala perdida (2025)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpEGQKgOeDo9GmmKDnEWjTLTi4u.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8qclSoai/hF4SGeMKIjfFVHu+I5pK3Q0NDqhicWFbxf"
+      },
+      {
+        "name": "🍿Devuélvemela (2025)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt9+HR3884vLaLWXEaZgtQsnJUSGd/2VyXNmzGzKJHCsm"
+      },
+      {
+        "name": "🍿Caramelo (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNTRlMzI4MDItZDJiNS00YmNmLWE1MmQtNjZjYTVhNDdmYjQ1XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxcRNksDaGvj3zj9BO4UReSqOIwN1L1MhkmapycogMeN"
+      },
+      {
+        "name": "🍿Putin (2025)",
+        "icono": "https://iili.io/KWnKCoN.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5EadC/TfDbFCT4d566LoEFp45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "🍿Matadores de Aliens do Espaço Sideral (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNmIzOTQ1MmItYWRkYi00MWVhLTllOTYtYjI0OTU1NDkwOTAxXkEyXkFqcGc@._V1_FMjpg_UX1066_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtyjL60w0XXm35fQIFcw/eXncw6hPareLGX67B6ZMD4lyaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": "🍿Y2K (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZmY5NjExMmUtMWZlMy00MmY4LWI4MDAtZDc2MmZmNjc2NjYwXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt7+Y77BUVLtUIV5hACiweZ6S8bKqFInpEPqEutc8E6M3"
+      },
+      {
+        "name": "🍿A Través del Fuego (2025)",
+        "icono": "https://iili.io/KWzyUYJ.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5NlD70UH0FY5ixufpKsVtHvDh6ufOqRZMQm4Ur60Qhn"
+      },
+      {
+        "name": "🍿El Vengador Toxico (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8yIxagBD8dJv1JAns31nO4DqbhouEvVTTAppTXjSnco"
+      },
+      {
+        "name": "🍿Tiempo De Asesinos (2025)",
+        "icono": "https://www.movistarplus.es/recorte/n/caratulaH/F4423148?od[]=Z1H:MM3_H",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt0KWCcm0zY5dfSt5nkKT4zE="
+      },
+      {
+        "name": "🍿Eddington (2025)",
+        "icono": "https://iili.io/KG3vYTG.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtzdHPxx+z7iKT5PoNm/5NEaBxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "🍿Prisoner of War (2025)",
+        "icono": "https://images2.imgbox.com/90/8c/zg3oljF6_o.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwi99kr891TvpBN1LUjkntVLa6nCQEyRDQPwjLhJeF8m"
+      },
+      {
+        "name": "🍿Sirât (2025)",
+        "icono": "https://i.ibb.co/67h5pQL8/sirat-867910558-large.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5qRpyYIs4knSSEMzf0f6X5p45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "🍿The Ritual (2025)",
+        "icono": "https://images2.imgbox.com/97/6d/DAvxCbUO_o.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5NAzlkG4h2eSBhTfM6LVAuS4fp6ULuJs0U43jdps+5l"
+      },
+      {
+        "name": "🍿Gatillero (2025)",
+        "icono": "https://images2.imgbox.com/4c/a8/B6Dm2PQv_o.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5vQGtuiM2ZM2xCstowgwhCBxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "🍿Honey Don't! (2025)",
+        "icono": "https://images2.imgbox.com/36/5e/EZUdfH8s_o.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/qDZm9RrJeoAgKDOTGoKKtHu+I5pK3Q0NDqhicWFbxf"
+      },
+      {
+        "name": "🍿Rust (2025)",
+        "icono": "https://images2.imgbox.com/95/97/yojDZjOT_o.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt785DYmuCsCdSz7hUSGdILU="
+      },
+      {
+        "name": "🍿The Exit 8 sust (2025)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkyN2ZjM2YtNTE2Yi00MzNjLWIzYzEtOWNhNzgzNjE0OTJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt6oHplHMYkj8ml3HKyYTZXhhCxMmmYjxrAZPsldYcAkn"
+      },
+      {
+        "name": "🍿Novia dura (2025) ",
+        "icono": "https://images2.imgbox.com/29/7a/TkZmx6cA_o.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5vghs9iDru2vl57cvW+rXWS4fp6ULuJs0U43jdps+5l"
+      },
+      {
+        "name": "🍿Las guerreras K-pop (2025) ",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnhJm-1TfFrjrNNCmN3DAmNNMsnS7RqlKT8J6MkoOvZwF9Zw_q",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+OJXRGDTumBEiuTt9EReMvbUH46tOMqqqpiNsVIsRL8"
+      },
+      {
+        "name": "🍿Del Cielo Al Infierno (2025)",
+        "icono": "https://i.ibb.co/KcjY3kHz/del-cielo-al-infierno-portada.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5x3S6oNsmnK4EXGX5jkUDwkFLgugDRxOCI3XRzWQotGaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
         "name": "🍿El conjuro 4: últimos ritos (2025)",
         "icono": "https://m.media-amazon.com/images/M/MV5BMWQyMzU1YWItYzczYy00MGZiLTg1ZTUtY2QwMWViNGQxNmJhXkEyXkFqcGc@._V1_.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxheL5Em/ueD6xGNV4iJDCOBxi5j+H+03Yb2wfgNaRQw"
@@ -67,7 +187,7 @@
         "icono": "https://images2.imgbox.com/bb/5f/vMG89QgU_o.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtyH0m8qg9G1eo4/WGQ9oGln4vaRs2/blH/BPwpKQSnK7qjiMDdS9TIZJmqcnKIDHjQ=="
       },
-      { 
+      {
         "name": "🍿Un hombre abandonado (2025)",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgzel0d8mq77Xft2TMt2U7XniDUxcPJEKOeAWW5z6n6b77wHVP",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwwLMFoTYaRKYzSy4XW6Lz9/gKAMgB9QB7aT0xGDNyvx"
@@ -77,7 +197,7 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BMTFmZDhjZjgtZTllMC00NGFiLWE3YWQtMTA3OTYwYjJiMzRlXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4uCpFANqGNB8VjL9N5g4qAzjmxANJrvw6ALi9H1zUxS"
       },
-      { 
+      {
         "name": "🍿Los Pitufos (2025)",
         "icono": "https://i.imgur.com/HckNwDG.jpeg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt0wzTL4Dsnqg98ulmLatiKhHu+I5pK3Q0NDqhicWFbxf"
@@ -87,7 +207,7 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BNjRmOTRiZTktZmI2NC00OTMxLTgxMDItNWRmMzViYTRhMWU3XkEyXkFqcGc@._V1_.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt11dF67KFhNkl8xPZwqNRON64OE7R3+vBfDv+LVhOKwP1PhLI6yB77jTzkJNGk7yyw=="
       },
-      { 
+      {
         "name": "🍿Piglet (2025)",
         "icono": "https://images2.imgbox.com/55/6e/zOoT9OJ7_o.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4MQGc0jqlezF/RGzd3IIX9hCxMmmYjxrAZPsldYcAkn"
@@ -122,7 +242,7 @@
         "icono": "https://palomaynacho.com/wp-content/uploads/2024/11/poster-los-tipos-malos-2-1-1.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5a4JvY4a7Ijgf7mdlUp9YcDQIzurqu3cVx38WdtPo6Q"
       },
-      { 
+      {
         "name": "🍿 Nadie 2 CAM SUST (2025)",
         "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/nobody-2/images/regions/us/updates2/onesheet.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4oPSuC5fznTt0H1KcYifWE="
@@ -281,11 +401,6 @@
         "name": "🍿Criatura voraz (2025)",
         "icono": "https://i.ibb.co/ksGZSs65/Cv001.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4PZNpMUhRcsck47HqjOJYYG6aAnJgtv+/xLZVwIB24n"
-      },
-      {
-        "name": "🍿Las guerreras K-pop (2025) ",
-        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnhJm-1TfFrjrNNCmN3DAmNNMsnS7RqlKT8J6MkoOvZwF9Zw_q",
-        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+OJXRGDTumBEiuTt9EReMvbUH46tOMqqqpiNsVIsRL8"
       },
       {
         "name": "🍿 Loco por Ella (2025) ",
@@ -795,7 +910,7 @@
       {
         "name": "🍿Amenaza en el aire (2025)",
         "icono": "https://image.tmdb.org/t/p/original/8T6nkYb4W8BIeafmFffyfsRciTL.jpg",
-        "uri": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDnbW915gWOeUd3u7VOsQnEF79//qnHkdlQVer7mBw90eBWqhC/v1AZYt4r/Pg3BE8="
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/MRBRXaeGFG65MsdWBnpkKuWjBPTFkzZk19VeD0+jkG"
       },
       {
         "name": "🍿Los dos hemisferios de Lucca (2025)",
@@ -1423,9 +1538,19 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
+        "name": "🍿 Un sueño posible  (2009)",
+        "icono": "https://miralogratis.com/wp-content/uploads/2014/07/un-sue%C3%B1o-posible.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/Cc4lttrLc5+OjixdXFwUSqOIwN1L1MhkmapycogMeN"
+      },
+      {
         "name": "🍿 Aniquilación (2018)",
         "icono": "https://1.bp.blogspot.com/-ibLijnCetDI/YTSdtpC_foI/AAAAAAAALn0/0NBjd1HTLiYd-fRCzOt1Ni665I2OBOGYACLcBGAsYHQ/s16000/Aniquilaci%25C3%25B3n.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+tfdhLkqLEkwOBRKSKobtH5SUGv6v6OY85OQ66XX8nA"
+      },
+      {
+        "name": "🍿Black Snake Moan (2006) ",
+        "icono": "https://i.postimg.cc/C5NrB004/vq600x900.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2HwFRQPG1mv9zQ8yOqtXSK2V+CYykjXBPva1JpO/a/LUGm9nBYtkFhb0QGkDwp2eQ=="
       },
       {
         "name": "🍿 El asesino perfecto (2022)",
@@ -1904,6 +2029,11 @@
   {
     "name": "🍿La Biblia",
     "samples": [
+      {
+        "name": "🍿La Ultima Cena (2025)",
+        "icono": "https://pics.filmaffinity.com/the_last_supper-860658020-large.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtyPO7tGqU7CLSb8Qd8TQz2CBxi5j+H+03Yb2wfgNaRQw"
+      },
       {
         "name": "🍿Ben-Hur",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1959/7/w1280/zd5sVotNicXuNNFQ29j6JlC14GK.jpg",
@@ -2770,6 +2900,21 @@
     "name": "🍿ANIMACION",
     "samples": [
       {
+        "name": "🍿Hotel Transilvania 1",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4AfdCmFjYxVHIREwlmNi0M=",
+        "icono": "https://es.web.img3.acsta.net/medias/nmedia/18/90/47/93/20254074.jpg"
+      },
+      {
+        "name": "🍿Hotel Transilvania 2",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt31skXZA+/CXP0CI1RGy9gc=",
+        "icono": "https://m.media-amazon.com/images/I/61ctC+bip6L._UF1000,1000_QL80_.jpg"
+      },
+      {
+        "name": "🍿Hotel Transilvania 3",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1i4N3NoKeLTYKTdAIB35oI=",
+        "icono": "https://www.sonypictures.com.co/sites/colombia/files/2022-05/HotelTransylvania3SummerVacation_2018_1400x2100_MEX.jpg"
+      },
+      {
         "name": "🍿Flow (2024)",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XHw78YMyi20q4+fo87wpoJCVj8c3bYHjE1qFqCzA6Nhnz+Z0KlaglHGZtmKmpIy3VmnjkAuQdxzD4Txa43toOek=",
         "icono": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_.jpg"
@@ -2889,6 +3034,16 @@
   {
     "name": "🍿ARGENTINA",
     "samples": [
+      {
+        "name": "🍿Esa Maldita Costilla (1999)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNWIzOGJiODYtMGNlNS00NDkyLThmYWUtZmI4ZTM5YzhmN2Q5XkEyXkFqcGc@._V1_FMjpg_UX516_.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2kufsdSfk/lSFjwFAHaJcdij4OdygcU77WRJOsI/tEP"
+      },
+      {
+        "name": "🍿Los extermineitors (1989)",
+        "icono": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2019/01/06/21/145923534.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+upbjTUIuk1SkN8IfB3bmS0tGOl3rpQV3ioG0zKBhWY"
+      },
       {
         "name": "🍿Quiero Llenarme De Ti  (1969)",
         "icono": "https://i.postimg.cc/R0bCG0yM/quiero-llenarme-de-ti-348893591-large.jpg",
