@@ -3,9 +3,24 @@
     "name": "🍿PELICULAS 2025",
     "samples": [
       {
+        "name": "🍿La chica perdida (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxFN6tqo+leeeaSfHzPbiTUzLYtLCsJqUr6wMT3T9Cib"
+      },
+      {
+        "name": "🍿Furioza 2 (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/3f98fpG9s666xLcxX4rL0KRWRiE.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2nZX6rOZgCGWkdKblfl0rcDQIzurqu3cVx38WdtPo6Q"
+      },
+      {
         "name": "🍿Las Nubes (2025)",
         "icono": "https://image.tmdb.org/t/p/original/cTc5QzX7nJZOZryeC4RYWvTWfWp.jpg",
         "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw"
+      },
+      {
+        "name": "🍿Parking (2025)",
+        "icono": "https://image.tmdb.org/t/p/original/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg",
+        "uri": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1ruEzcLNWUBmcVpphE4G61hCxMmmYjxrAZPsldYcAkn"
       },
       {
         "name": "🍿El Día de la Masacre (2025)",
