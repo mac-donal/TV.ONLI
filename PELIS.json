@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA29",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "EL DESTAPE",
@@ -1657,7 +1657,7 @@
       },
       {
         "name": "PAKA PAKAA",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC+zH3A2Fiiv6dX5Vy1ahgjOupTpjJmb0WLCCxRfpFs87vEUChFbnihbgREwpiiZHao=",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3pbIS0rABSjrvzDu0sss481AAnirjYTRmh70IfzOHUWt4wmyyQSGlNXvYQbq2ww00E=",
         "icono": "https://i.ibb.co/LXp8XVrV/OIP.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDqgsIBkwEyZRoGqHDovr/dkE38JoOSWbHBVy0/SMjq0gS33ewd7PjQEuXZLslL271dEp/E1i7a9Nyufk4Tiq/tZjhE1fjAjuKrntfjgYkFGiKXyRXNhe+aNAWoLSxgJwg==",
@@ -1665,7 +1665,7 @@
       },
       {
         "name": "Plim Plim",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC9f91SmklZwBrpTdZb7QtuNwFC9TtllltnQo3258mtYr4wmyyQSGlNXvYQbq2ww00E=",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJoixEfLT4649i2kDI2Yf1u5YrO++8i48ASIR1yi8XAOd4xU82iRETfX/h8i4JkLqtw==",
         "icono": "https://www.ecuadortv.ec/wp-content/uploads/2023/05/plim_plim.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGm+8+q4SlL9x64UI34KR0fP3aJFC/SLsbH5V0EBSpLIvvrFjvFe8WgrOQnkVuAwSqKmvz9n1XYBL7M9rd9XtP3yJWtlHEtyYKE4uAbZOdl480ra00gS+62LlCZUGCgc+Q==",
@@ -1673,67 +1673,45 @@
       },
       {
         "name": "DREAMWORKS",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi4HB92dwm4TVLYTKsReG8Id4M+GxFOf3/h5a/S733GLkowmyyQSGlNXvYQbq2ww00E=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEq2kXHlea0FOfoY80gjmjtznj1jpTSrvKGoYPGUK63K8Q==",
         "icono": "https://cdn.iconscout.com/icon/free/png-256/dreamworks-282637.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCvTyZ3FngAaQ+Z/6YdA/+0Qqd3WnIu+MfcLq/DRRrY+hnbPi7LtBVtPYD4JQIyfv36QvdtvJ9VHkAA/KUdJZPDU52ukJSqvuzM4ksDIupqPXjp8WpoXHdWUSawJhIsNRw=="
       },
       {
         "name": "CARTOON NETWORK",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdiNk0PkdmjQDhVdECnHqiBUle7qD+eoHqHcFZUJyDNbLLbX7IS7Xo5q6Nqsx/Ah588=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEqMiZrAm19Gm+TkaoCEBmFox4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://i.ibb.co/CK1HzFs3/cartoon-network.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvElWnJHryQfB/3TVviCaiGGBg6IhoZr2hXatcLJ/GAvJWhuqW4mG1NOCXV/m4cEknXzUqjitqC8BAB1JlP+TTYxAC/whNJS3y5EnX9eRQfeo3/nDk1a3W+DSy2GA5eKf5A=="
       },
       {
         "name": "CARTOONITO",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi6Nk0PkdmjQDhVdECnHqiBUqGSQKVcgfKhgzNBEaoddkowmyyQSGlNXvYQbq2ww00E=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEojGNtDw0uzSrqPu9VStj7Fx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://logowik.com/content/uploads/images/7354-cartoonito.webp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM+8ogbL6bPZPJVL0FN3BR5cksetDyf8D1dwwl8KTe6D18RaEnU+NXmz2Lm7/s4FxGf3/eRLaPLqwfnVFdY7EKe4vZtUfKcC98PWtYH5Wb4gqsS5kWZsuIgWLDLpUrTfIg=="
       },
       {
         "name": "Disney Channel",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi58exoMYNozciplcGnOYCsv4TRWN3O9G557nAU96pRfJ9TeLOuaw1tUCBGYFI70QVc=",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPBgOMSLve6UiXl5zV/cJvtg==",
         "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/275/CH_LOGO/512/512/0/0/13885222074367.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE0YW54Ozekwnzkf19OClcWYvr4xwac5sonHDYDsnSbSc12D2YwJRPZ+aJu9EUat+x3vjnz6pxfENQNppufwnNgC3mXXQLssDbPWef0sFQ4/QGVRWqpKFp3ZSJDqqtvf3w=="
       },
       {
         "name": "Nick Jr",
-        "uri": "e107LCLbimd9+C3RBUcIRadWckcCGyZ+QOeuTINDVdgC3AbTm0LKnBih3yd5raq9gvczTjmSynue+Khlocf5XmnjkAuQdxzD4Txa43toOek=",
+        "uri": "BkIaBNeL/PQ+ofhBEg/V58e/B7AOdot/YyFuA86USEp8PrKIk6gQ06tvYa/ARRHyx4WTbVw40ZAS091sHU4BMg==",
         "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMjzwwUbTkoNCZb4Nasc4RjuPAwQR0XszCeYm9oFoz9Y8Lc5pYgf9l0J/WLBwAySKfrwxP7sD5iQZHiE20pNa6vnzfw9Ay4yEA/0L1Cawc8ZQ02OdSt+racJsfD0GZOmkg=="
       },
       {
         "name": "Tooncast",
-        "uri": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9r1jnkRMEQlhGSxsKAA9s40ThNaF3ISoeP6t3mug/BGDsHNaa5qVd5DWtCk/6fjXVU=",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPM2zmZG5QLH4390khSwsjk2njkAuQdxzD4Txa43toOek=",
         "icono": "https://i.ibb.co/0jw1zHn1/nick-jr.webp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGd0VDlxIGq5NZdSuCy7KDziybVrol1rsOeNExmH+ofeBYTfoCcYoEAUuTKdL8ofFTeYgAkCNC1YExG8hRwz8y5gcQBRc3W1y3NHRl4WC4IJqsS5kWZsuIgWLDLpUrTfIg=="
-      },
-      {
-        "name": "Discovery Kids",
-        "uri": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5utHBuhmli7dXSB7YKDKgFqJRpjsWeFEmS6pvyGsTbdw9TeLOuaw1tUCBGYFI70QVc=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEy3CQHprK+xYVDv4NI6dWmlLXPi6pPskZ9ewHOWmJ+kZIkv2cCWya63plY5FLMalC4VzBkBclzGVranQJcqgC0TBcSRuVb1M2W3XlEkTG1tDDkw/nSWDLThyagMKWqMGw=="
-      },
-      {
-        "name": "Nickelodeon",
-        "uri": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi4C3AbTm0LKnBih3yd5raq95L9JcV+bADzyGAhhW3KEjw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHIeM/yHFnmXeTJCj9YFbjcREtnzEEx0eQzcAMXdoelqumtdMIoTrBetFkYUT96lib4KcJIKdtFW8jw8RABPugPmNuXEnbYhWw1moSDtRDh96udGRJ9QGmDAJUjg3I71ZQ=="
-      },
-      {
-        "name": "Boomerang",
-        "uri": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC+mq2pSMTcqkxeTno4IMYtJmwvvXeaY8zkoWEAiveaG2BJsKZxwqDzC2R4cA0HjEwXkUuA4t2bIkxFrwVytIQd2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOVQq0EpQzVdfiI2aLb3lIDWIAbF4h8w9ha+dczCzyIU/yLKArvHIlUkXcpTTcbU8CvnnZvgnbpU7q4g4X8Yq8d6m8kbGUOPZsk9FSmJir5uEbAnC6Na7bFwtiE1VTibpw==",
-        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       }
     ]
   },
